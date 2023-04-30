@@ -1,0 +1,138 @@
+[
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "owner",
+                "type": "address"
+            },
+            {
+                "internalType": "address",
+                "name": "spender",
+                "type": "address"
+            }
+        ],
+        "name": "allowance",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "account",
+                "type": "address"
+            }
+        ],
+        "name": "balanceOf",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "account",
+                "type": "address"
+            }
+        ],
+        "name": "principalBalanceOf",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "target",
+        "outputs": [
+            {
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "implementation",
+        "outputs": [
+            {
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "tokenState",
+        "outputs": [
+            {
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "balances",
+        "outputs": [
+            {
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "allowances",
+        "outputs": [
+            {
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "erc20Impl",
+        "outputs": [
+            {
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "erc20Store",
+        "outputs": [
+            {
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "type": "function"
+    }
+]
