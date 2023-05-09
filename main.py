@@ -1,6 +1,7 @@
 import asyncio
 import time
 import os
+import json
 import logging
 from web3 import Web3
 from src.token_storage import (
@@ -11,6 +12,7 @@ from src.token_storage import (
     ABI,
     w3,
 )
+from src.transfer_from_sim import TransferFromSim
 from requests import get
 from dotenv import load_dotenv
 
@@ -28,12 +30,17 @@ def chunks(ll, n):
         yield ll[i : i + n]
 
 
-async def main():
+async def main(skip_search=False):
     t1 = t0 = time.time()
     tokens_url = os.getenv("TOKEN_LIST_URL")
     token_holders_url = os.getenv("TOKEN_HOLDERS_URL")
-    tokens_raw = get(tokens_url).json()
-    token_holders = get(token_holders_url).json()
+
+    if skip_search:
+        tokens_list = []
+    else:
+        tokens_raw = get(tokens_url).json()
+        token_holders = get(token_holders_url).json()
+        tokens_list = list(tokens_raw.keys())
 
     # `tokens_raw` is a dictionary. For example:
     # {
@@ -49,8 +56,7 @@ async def main():
     #     },
     # }
 
-    tokens_list = list(tokens_raw.keys())
-    # tokens_list = ["0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F"]
+    # tokens_list = ["0xA64dFe8D86963151E6496BEe513E366F6e42ED79"]
 
     tokens = [t for t in tokens_list if t.startswith("0x")]
 
@@ -91,17 +97,20 @@ async def main():
                 AllowanceStorage(token, owner, spender).find()
             )
 
-        await asyncio.gather(*balance_coroutines)
-        await asyncio.gather(*allowance_coroutines)
+        balance_updated = await asyncio.gather(*balance_coroutines)
+        allowance_updated = await asyncio.gather(*allowance_coroutines)
 
         # Add symbol information to the db befor calling archive. `db` is shared
         # with BalanceStorage and AllowanceStorage through the parent class
         # TokenStorageBase
         for key in TokenStorageBase.db:
+            if "symbol" in TokenStorageBase.db[key]:
+                continue
             TokenStorageBase.db[key]["symbol"] = tokens_raw[key]["symbol"]
 
         # Archive shared db
-        TokenStorageBase.archive()
+        if any(balance_updated) or any(allowance_updated):
+            TokenStorageBase.archive()
 
         t1 = time.time()
 
@@ -119,13 +128,62 @@ async def main():
         if data["allowance"]["slot"] is None:
             missing_allowance.append(token)
 
-    logger.warning(
-        f"Tokens missing a balance slot: {', '.join(missing_balance)}"
+    missing = set(missing_balance) | set(missing_allowance)
+
+    missing_str = "\n" + "\n".join(missing)
+
+    logger.warning(f"Tokens missing a slot: {missing_str}")
+
+    coverage_pct = (
+        (len(TokenStorageBase.db) - len(missing))
+        / len(TokenStorageBase.db)
+        * 100
     )
 
-    logger.warning(
-        f"Tokens missing an allowance slot: {', '.join(missing_allowance)}"
+    logger.info(
+        f"Token coverage: {len(TokenStorageBase.db) - len(missing)} "
+        f"out of {len(TokenStorageBase.db)} "
+        f"({format(coverage_pct,'.2f')}%)"
     )
+
+    # Validate that transferFrom can be succesfully simulated with the given
+    # overrides.
+    with open(TokenStorageBase.db_file_path, "r", encoding="utf-8") as file:
+        db = json.load(file)
+
+    tokens = list(db.keys())
+    token_chunks = chunks(tokens, 30)
+
+    owner = "0x2C01B4AD51a67E2d8F02208F54dF9aC4c0B778B6"
+    recipient = "0xb634316E06cC0B358437CbadD4dC94F1D3a92B3b"
+    amount = 10**9
+
+    ti = time.time()
+
+    for i, chunk in enumerate(token_chunks):
+        coroutines = []
+        for token in chunk:
+            if token in SKIPS:
+                continue
+
+            if "complex" not in db[token]:
+                coroutines.append(
+                    TransferFromSim(token, owner, recipient, amount).simulate()
+                )
+
+        results = await asyncio.gather(*coroutines)
+        results = {t: d for r in results for t, d in r.items()}
+
+        for t, d in db.items():
+            if t in results:
+                d["complex"] = results[t]["complex"]
+
+    t1 = time.time()
+
+    logger.info(f"transferFrom() sim took {t1-ti} secs")
+
+    with open(TokenStorageBase.db_file_path, "w", encoding="utf-8") as file:
+        file.write(json.dumps(db, indent=4))
 
 
 if __name__ == "__main__":

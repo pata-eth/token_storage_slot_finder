@@ -20,6 +20,9 @@ provided.
    exposed (i.e., they are private variables), the storage slot won't be found.
    One could manually determine the implemention address, and then search for
    the slot. I was fine without storage info for these tokens.
+5. Finally, we simulate a transferFrom() tx to validate that only a balance and
+   an allowance override are needed to succefully simulate a transfer. If that's
+   not the case, we deem the token `complex` in the db.
 
 # How to run it
 

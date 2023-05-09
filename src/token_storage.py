@@ -60,7 +60,6 @@ class TokenStorageBase:
             db = json.load(file)
     except (FileNotFoundError, JSONDecodeError):
         db = {}
-    archive_is_fresh = True
 
     def __init__(self, token_address: str):
         self.token: Contract = w3.eth.contract(address=token_address, abi=ABI)
@@ -94,8 +93,6 @@ class TokenStorageBase:
 
     @classmethod
     def archive(cls):
-        if cls.archive_is_fresh:
-            return
         db = cls.db.copy()
         for _, d in db.items():
             # do not archive web3 contract instances
@@ -104,7 +101,6 @@ class TokenStorageBase:
 
         with open(cls.db_file_path, "w", encoding="utf-8") as file:
             file.write(json.dumps(db, indent=4))
-        cls.archive_is_fresh = True
         cls.logger.info("db was archived")
 
     async def _bytecode(self):
@@ -242,10 +238,8 @@ class BalanceStorage(TokenStorageBase):
         )
         return check
 
-    async def find(self):
-        if self.token.address in SKIPS:
-            return False
-        if (
+    async def find(self) -> bool:
+        if self.token.address in SKIPS or (
             self.token.address in self.db
             and "balance" in self.db[self.token.address]
             and self.db[self.token.address]["balance"]["slot"] is not None
@@ -254,8 +248,6 @@ class BalanceStorage(TokenStorageBase):
             return False
 
         self.db[self.token.address]["balance"] = {"target": None, "slot": None}
-
-        self.archive_is_fresh = False
 
         original_compiler = await self._detect_compiler()
 
@@ -379,9 +371,7 @@ class AllowanceStorage(TokenStorageBase):
         return check
 
     async def find(self):
-        if self.token.address in SKIPS:
-            return False
-        if (
+        if self.token.address in SKIPS or (
             self.token.address in self.db
             and "allowance" in self.db[self.token.address]
             and self.db[self.token.address]["allowance"]["slot"] is not None
@@ -393,8 +383,6 @@ class AllowanceStorage(TokenStorageBase):
             "target": None,
             "slot": None,
         }
-
-        self.archive_is_fresh = False
 
         original_compiler = await self._detect_compiler()
 
