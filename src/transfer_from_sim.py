@@ -83,7 +83,6 @@ class TransferFromSim:
             # other state variables for which we have not provided an override
             # other than the balance and the allowance.
             return {self.token_address: {"complex": True}}
-
         try:
             result = await self.token_contract.functions.transferFrom(
                 self.from_address, self.to_address, self.amount

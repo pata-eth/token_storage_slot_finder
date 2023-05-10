@@ -51,19 +51,6 @@
         "symbol": "AVG",
         "complex": false
     },
-    "0xC82E3dB60A52CF7529253b4eC688f631aad9e7c2": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xC82E3dB60A52CF7529253b4eC688f631aad9e7c2",
-            "slot": 3
-        },
-        "allowance": {
-            "target": "0xC82E3dB60A52CF7529253b4eC688f631aad9e7c2",
-            "slot": 1
-        },
-        "symbol": "ARC",
-        "complex": false
-    },
     "0x7337224D59CB16C2Dc6938CD45A7b2c60C865D6A": {
         "compiler": "solidity",
         "balance": {
@@ -271,19 +258,6 @@
         },
         "symbol": "SHIBAKEN",
         "complex": true
-    },
-    "0x6A7Ef4998eB9d0f706238756949F311a59E05745": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
-            "slot": 1
-        },
-        "allowance": {
-            "target": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
-            "slot": 3
-        },
-        "symbol": "KEN",
-        "complex": false
     },
     "0xe88f8313e61A97cEc1871EE37fBbe2a8bf3ed1E4": {
         "compiler": "solidity",
@@ -558,19 +532,6 @@
         "symbol": "st1INCH",
         "complex": true
     },
-    "0x5c872500c00565505F3624AB435c222E558E9ff8": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x5c872500c00565505F3624AB435c222E558E9ff8",
-            "slot": 0
-        },
-        "allowance": {
-            "target": "0x5c872500c00565505F3624AB435c222E558E9ff8",
-            "slot": 2
-        },
-        "symbol": "COT_2",
-        "complex": false
-    },
     "0x9248c485b0B80f76DA451f167A8db30F33C70907": {
         "compiler": "solidity",
         "balance": {
@@ -673,19 +634,6 @@
             "slot": 52
         },
         "symbol": "RGT",
-        "complex": false
-    },
-    "0x66eFF5221ca926636224650Fd3B9c497FF828F7D": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x66eFF5221ca926636224650Fd3B9c497FF828F7D",
-            "slot": 2
-        },
-        "allowance": {
-            "target": "0x66eFF5221ca926636224650Fd3B9c497FF828F7D",
-            "slot": 12
-        },
-        "symbol": "multiBTC",
         "complex": false
     },
     "0xCfCA23cA9CA720B6E98E3Eb9B6aa0fFC4a5C08B9": {
@@ -922,19 +870,6 @@
         "symbol": "CWS",
         "complex": false
     },
-    "0xDDB3422497E61e13543BeA06989C0789117555c5": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xDDB3422497E61e13543BeA06989C0789117555c5",
-            "slot": 0
-        },
-        "allowance": {
-            "target": "0xDDB3422497E61e13543BeA06989C0789117555c5",
-            "slot": 2
-        },
-        "symbol": "COTI",
-        "complex": false
-    },
     "0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40": {
         "compiler": "solidity",
         "balance": {
@@ -1050,19 +985,6 @@
             "slot": 25
         },
         "symbol": "ibAUD+sAUD-f",
-        "complex": false
-    },
-    "0x4f640F2529ee0cF119A2881485845FA8e61A782A": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x4f640F2529ee0cF119A2881485845FA8e61A782A",
-            "slot": 201
-        },
-        "allowance": {
-            "target": "0x4f640F2529ee0cF119A2881485845FA8e61A782A",
-            "slot": 209
-        },
-        "symbol": "ORE",
         "complex": false
     },
     "0xcFEB09C3c5F0f78aD72166D55f9e6E9A60e96eEC": {
@@ -1507,19 +1429,6 @@
         "symbol": "AZUKI",
         "complex": false
     },
-    "0x45804880De22913dAFE09f4980848ECE6EcbAf78": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
-            "slot": 1
-        },
-        "allowance": {
-            "target": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
-            "slot": 3
-        },
-        "symbol": "PAXG",
-        "complex": false
-    },
     "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": {
         "compiler": "solidity",
         "balance": {
@@ -1531,19 +1440,6 @@
             "slot": 1
         },
         "symbol": "AAVE",
-        "complex": false
-    },
-    "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
-            "slot": 0
-        },
-        "allowance": {
-            "target": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
-            "slot": 3
-        },
-        "symbol": "LRC",
         "complex": false
     },
     "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51": {
@@ -1858,19 +1754,6 @@
         "symbol": "RVF",
         "complex": false
     },
-    "0x75D12E4F91Df721faFCae4c6cD1d5280381370AC": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x75D12E4F91Df721faFCae4c6cD1d5280381370AC",
-            "slot": 285
-        },
-        "allowance": {
-            "target": "0x75D12E4F91Df721faFCae4c6cD1d5280381370AC",
-            "slot": 4
-        },
-        "symbol": "MYOBU",
-        "complex": true
-    },
     "0x9e70240d2A8a30a592d3F076441C4F303b26dE12": {
         "compiler": "solidity",
         "balance": {
@@ -2170,19 +2053,6 @@
         "symbol": "ag+ib-EUR-f",
         "complex": false
     },
-    "0x178c820f862B14f316509ec36b13123DA19A6054": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x178c820f862B14f316509ec36b13123DA19A6054",
-            "slot": 3
-        },
-        "allowance": {
-            "target": "0x178c820f862B14f316509ec36b13123DA19A6054",
-            "slot": 5
-        },
-        "symbol": "EWTB",
-        "complex": false
-    },
     "0xE796d6ca1ceb1b022EcE5296226BF784110031Cd": {
         "compiler": "solidity",
         "balance": {
@@ -2313,32 +2183,6 @@
         "symbol": "SHIH",
         "complex": false
     },
-    "0xee573a945B01B788B9287CE062A0CFC15bE9fd86": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
-            "slot": 0
-        },
-        "allowance": {
-            "target": "0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
-            "slot": 2
-        },
-        "symbol": "XED",
-        "complex": false
-    },
-    "0x106552C11272420aAd5d7e94f8AcAb9095A6c952": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x106552C11272420aAd5d7e94f8AcAb9095A6c952",
-            "slot": 65
-        },
-        "allowance": {
-            "target": "0x106552C11272420aAd5d7e94f8AcAb9095A6c952",
-            "slot": 3
-        },
-        "symbol": "KEANU",
-        "complex": true
-    },
     "0x04c90C198b2eFF55716079bc06d7CCc4aa4d7512": {
         "compiler": "vyper",
         "balance": {
@@ -2417,19 +2261,6 @@
         "symbol": "FPIFRAX-f",
         "complex": false
     },
-    "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
-            "slot": 0
-        },
-        "allowance": {
-            "target": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
-            "slot": 2
-        },
-        "symbol": "ANKR",
-        "complex": false
-    },
     "0x15780E0e9618c26dA679740C43bEc76830Ff187b": {
         "compiler": "solidity",
         "balance": {
@@ -2454,19 +2285,6 @@
             "slot": 1
         },
         "symbol": "bb-g-USD",
-        "complex": false
-    },
-    "0x55aF5865807b196bD0197e0902746F31FBcCFa58": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x55aF5865807b196bD0197e0902746F31FBcCFa58",
-            "slot": 2
-        },
-        "allowance": {
-            "target": "0x55aF5865807b196bD0197e0902746F31FBcCFa58",
-            "slot": 16
-        },
-        "symbol": "BOO",
         "complex": false
     },
     "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd": {
@@ -2729,19 +2547,6 @@
         "symbol": "eMax",
         "complex": true
     },
-    "0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373",
-            "slot": 1
-        },
-        "allowance": {
-            "target": "0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373",
-            "slot": 53
-        },
-        "symbol": "GMEE",
-        "complex": true
-    },
     "0x186084fF790C65088BA694Df11758faE4943EE9E": {
         "compiler": "solidity",
         "balance": {
@@ -2963,19 +2768,6 @@
         "symbol": "mooAuraAURA-WETH",
         "complex": false
     },
-    "0x00D1793D7C3aAE506257Ba985b34C76AaF642557": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
-            "slot": 0
-        },
-        "allowance": {
-            "target": "0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
-            "slot": 2
-        },
-        "symbol": "TACO",
-        "complex": false
-    },
     "0x2Ebd53d035150f328bd754D6DC66B99B0eDB89aa": {
         "compiler": "solidity",
         "balance": {
@@ -3001,19 +2793,6 @@
         },
         "symbol": "HOT",
         "complex": false
-    },
-    "0x0AbdAce70D3790235af448C88547603b945604ea": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x0AbdAce70D3790235af448C88547603b945604ea",
-            "slot": 97
-        },
-        "allowance": {
-            "target": "0x0AbdAce70D3790235af448C88547603b945604ea",
-            "slot": 10
-        },
-        "symbol": "DNT",
-        "complex": true
     },
     "0x8282BD15dcA2EA2bDf24163E8f2781B30C43A2ef": {
         "compiler": "vyper",
@@ -3275,19 +3054,6 @@
         "symbol": "BEAN",
         "complex": false
     },
-    "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8",
-            "slot": 8
-        },
-        "allowance": {
-            "target": "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8",
-            "slot": 1
-        },
-        "symbol": "aUSDTv1",
-        "complex": true
-    },
     "0xbBC455cb4F1B9e4bFC4B73970d360c8f032EfEE6": {
         "compiler": "solidity",
         "balance": {
@@ -3496,19 +3262,6 @@
         "symbol": "SSV",
         "complex": false
     },
-    "0xad32A8e6220741182940c5aBF610bDE99E737b2D": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
-            "slot": 130
-        },
-        "allowance": {
-            "target": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
-            "slot": 9
-        },
-        "symbol": "DOUGH",
-        "complex": true
-    },
     "0x0F83287FF768D1c1e17a42F44d644D7F22e8ee1d": {
         "compiler": "solidity",
         "balance": {
@@ -3665,19 +3418,6 @@
         "symbol": "SRK",
         "complex": false
     },
-    "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2",
-            "slot": 301
-        },
-        "allowance": {
-            "target": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2",
-            "slot": 303
-        },
-        "symbol": "BICO",
-        "complex": false
-    },
     "0x961226B64AD373275130234145b96D100Dc0b655": {
         "compiler": "vyper",
         "balance": {
@@ -3741,58 +3481,6 @@
             "slot": 8
         },
         "symbol": "crvFRAX",
-        "complex": false
-    },
-    "0x4a220E6096B25EADb88358cb44068A3248254675": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x4a220E6096B25EADb88358cb44068A3248254675",
-            "slot": 0
-        },
-        "allowance": {
-            "target": "0x4a220E6096B25EADb88358cb44068A3248254675",
-            "slot": 2
-        },
-        "symbol": "QNT",
-        "complex": false
-    },
-    "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
-            "slot": 0
-        },
-        "allowance": {
-            "target": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
-            "slot": 2
-        },
-        "symbol": "IOTX",
-        "complex": false
-    },
-    "0xD46bA6D942050d489DBd938a2C909A5d5039A161": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
-            "slot": 155
-        },
-        "allowance": {
-            "target": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
-            "slot": 159
-        },
-        "symbol": "AMPL",
-        "complex": false
-    },
-    "0x4de2573e27E648607B50e1Cfff921A33E4A34405": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x4de2573e27E648607B50e1Cfff921A33E4A34405",
-            "slot": 0
-        },
-        "allowance": {
-            "target": "0x4de2573e27E648607B50e1Cfff921A33E4A34405",
-            "slot": 2
-        },
-        "symbol": "LST",
         "complex": false
     },
     "0xd7C9F0e536dC865Ae858b0C0453Fe76D13c3bEAc": {
@@ -3871,19 +3559,6 @@
             "slot": 1
         },
         "symbol": "yUSDC",
-        "complex": false
-    },
-    "0xd084944d3c05CD115C09d072B9F44bA3E0E45921": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
-            "slot": 1
-        },
-        "allowance": {
-            "target": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
-            "slot": 3
-        },
-        "symbol": "FOLD",
         "complex": false
     },
     "0xF506984C16737B1A9577cadeDa02a49fD612Aff8": {
@@ -3977,19 +3652,6 @@
         "symbol": "VLT",
         "complex": false
     },
-    "0x5Dc02Ea99285E17656b8350722694c35154DB1E8": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x5Dc02Ea99285E17656b8350722694c35154DB1E8",
-            "slot": 0
-        },
-        "allowance": {
-            "target": "0x5Dc02Ea99285E17656b8350722694c35154DB1E8",
-            "slot": 2
-        },
-        "symbol": "BOND_finance",
-        "complex": false
-    },
     "0x6149C26Cd2f7b5CCdb32029aF817123F6E37Df5B": {
         "compiler": "solidity",
         "balance": {
@@ -4054,19 +3716,6 @@
         },
         "symbol": "50WSTETH-50LDO",
         "complex": false
-    },
-    "0xb40b6608B2743E691C9B54DdBDEe7bf03cd79f1c": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xb40b6608B2743E691C9B54DdBDEe7bf03cd79f1c",
-            "slot": 13
-        },
-        "allowance": {
-            "target": "0xb40b6608B2743E691C9B54DdBDEe7bf03cd79f1c",
-            "slot": 9
-        },
-        "symbol": "UZD",
-        "complex": true
     },
     "0x5283D291DBCF85356A21bA090E6db59121208b44": {
         "compiler": "solidity",
@@ -4289,19 +3938,6 @@
         "symbol": "50SYN-50WETH",
         "complex": false
     },
-    "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3",
-            "slot": 8
-        },
-        "allowance": {
-            "target": "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3",
-            "slot": 1
-        },
-        "symbol": "aWBTCv1",
-        "complex": true
-    },
     "0x3301Ee63Fb29F863f2333Bd4466acb46CD8323E6": {
         "compiler": "solidity",
         "balance": {
@@ -4432,19 +4068,6 @@
         "symbol": "AMP",
         "complex": true
     },
-    "0xFe2e637202056d30016725477c5da089Ab0A043A": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xFe2e637202056d30016725477c5da089Ab0A043A",
-            "slot": 303
-        },
-        "allowance": {
-            "target": "0xFe2e637202056d30016725477c5da089Ab0A043A",
-            "slot": 151
-        },
-        "symbol": "sETH2",
-        "complex": false
-    },
     "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e": {
         "compiler": "solidity",
         "balance": {
@@ -4482,32 +4105,6 @@
             "slot": 25
         },
         "symbol": "pax-usdp3CRV-f",
-        "complex": false
-    },
-    "0x456D8f0D25A4e787eE60c401F8B963a465148f70": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x456D8f0D25A4e787eE60c401F8B963a465148f70",
-            "slot": 24
-        },
-        "allowance": {
-            "target": "0x456D8f0D25A4e787eE60c401F8B963a465148f70",
-            "slot": 3
-        },
-        "symbol": "CAVA",
-        "complex": true
-    },
-    "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
-            "slot": 1
-        },
-        "allowance": {
-            "target": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
-            "slot": 5
-        },
-        "symbol": "EQUAD",
         "complex": false
     },
     "0xCAa052584b462198A5a9356c28bcE0634D65f65C": {
@@ -4574,19 +4171,6 @@
         },
         "symbol": "LCX",
         "complex": false
-    },
-    "0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C",
-            "slot": 8
-        },
-        "allowance": {
-            "target": "0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C",
-            "slot": 1
-        },
-        "symbol": "aRENv1",
-        "complex": true
     },
     "0xe2bA8693cE7474900A045757fe0efCa900F6530b": {
         "compiler": "solidity",
@@ -5225,19 +4809,6 @@
         "symbol": "mooConvexCvxCRV-CRV",
         "complex": false
     },
-    "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
-            "slot": 0
-        },
-        "allowance": {
-            "target": "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
-            "slot": 3
-        },
-        "symbol": "EQMT",
-        "complex": false
-    },
     "0x350196326AEAA9b98f1903fb5e8fc2686f85318C": {
         "compiler": "solidity",
         "balance": {
@@ -5353,19 +4924,6 @@
             "slot": 7
         },
         "symbol": "STG/FRAXBP-f",
-        "complex": false
-    },
-    "0x4Fabb145d64652a948d72533023f6E7A623C7C53": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
-            "slot": 1
-        },
-        "allowance": {
-            "target": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
-            "slot": 3
-        },
-        "symbol": "BUSD",
         "complex": false
     },
     "0x8affC4591DE6eAEc6836c243b00b80F4339f99f5": {
@@ -5667,19 +5225,6 @@
         "symbol": "XCHF",
         "complex": false
     },
-    "0xF411903cbC70a74d22900a5DE66A2dda66507255": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xF411903cbC70a74d22900a5DE66A2dda66507255",
-            "slot": 1
-        },
-        "allowance": {
-            "target": "0xF411903cbC70a74d22900a5DE66A2dda66507255",
-            "slot": 9
-        },
-        "symbol": "VRA",
-        "complex": false
-    },
     "0x5Ca135cB8527d76e932f34B5145575F9d8cbE08E": {
         "compiler": "solidity",
         "balance": {
@@ -5979,19 +5524,6 @@
         "symbol": "13CVC-13PNT-13DATA-13OCEAN-13POLY-13USDC-13WETH-13ENJ",
         "complex": false
     },
-    "0xB124541127A0A657f056D9Dd06188c4F1b0e5aab": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xB124541127A0A657f056D9Dd06188c4F1b0e5aab",
-            "slot": 8
-        },
-        "allowance": {
-            "target": "0xB124541127A0A657f056D9Dd06188c4F1b0e5aab",
-            "slot": 1
-        },
-        "symbol": "aUNIv1",
-        "complex": true
-    },
     "0xEC213F83defB583af3A000B1c0ada660b1902A0F": {
         "compiler": "solidity",
         "balance": {
@@ -6226,19 +5758,6 @@
         "symbol": "STG",
         "complex": false
     },
-    "0xb8919522331C59f5C16bDfAA6A121a6E03A91F62": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xb8919522331C59f5C16bDfAA6A121a6E03A91F62",
-            "slot": 51
-        },
-        "allowance": {
-            "target": "0xb8919522331C59f5C16bDfAA6A121a6E03A91F62",
-            "slot": 59
-        },
-        "symbol": "HOME",
-        "complex": false
-    },
     "0xc944E90C64B2c07662A292be6244BDf05Cda44a7": {
         "compiler": "solidity",
         "balance": {
@@ -6303,19 +5822,6 @@
         },
         "symbol": "iBTCV",
         "complex": false
-    },
-    "0x9e5BD9D9fAd182ff0A93bA8085b664bcab00fA68": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x9e5BD9D9fAd182ff0A93bA8085b664bcab00fA68",
-            "slot": 113
-        },
-        "allowance": {
-            "target": "0x9e5BD9D9fAd182ff0A93bA8085b664bcab00fA68",
-            "slot": 4
-        },
-        "symbol": "DINGER",
-        "complex": true
     },
     "0x7f3F33B42b9734e61cb44424D130B5f6e09C9Db3": {
         "compiler": "solidity",
@@ -6395,19 +5901,6 @@
         "symbol": "miniSAITAMA",
         "complex": true
     },
-    "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3",
-            "slot": 5
-        },
-        "allowance": {
-            "target": "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3",
-            "slot": 2
-        },
-        "symbol": "RBC",
-        "complex": true
-    },
     "0x497CE58F34605B9944E6b15EcafE6b001206fd25": {
         "compiler": "vyper",
         "balance": {
@@ -6419,19 +5912,6 @@
             "slot": 18
         },
         "symbol": "LUSDFRAXBP3CRV-f",
-        "complex": false
-    },
-    "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
-            "slot": 1
-        },
-        "allowance": {
-            "target": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
-            "slot": 4
-        },
-        "symbol": "ARCONA",
         "complex": false
     },
     "0x36F8d0D0573ae92326827C4a82Fe4CE4C244cAb6": {
@@ -6681,19 +6161,6 @@
         "symbol": "40WBTC-20CHZ-20LINK-20COMP",
         "complex": false
     },
-    "0xA0CF46eb152656C7090e769916eb44a138aaa406": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0xA0CF46eb152656C7090e769916eb44a138aaa406",
-            "slot": 0
-        },
-        "allowance": {
-            "target": "0xA0CF46eb152656C7090e769916eb44a138aaa406",
-            "slot": 2
-        },
-        "symbol": "SPH",
-        "complex": false
-    },
     "0x63c5c0604Ec410130C69C958aCab81794f7a622F": {
         "compiler": "vyper",
         "balance": {
@@ -6798,19 +6265,6 @@
         "symbol": "EFI",
         "complex": false
     },
-    "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
-            "slot": 7
-        },
-        "allowance": {
-            "target": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
-            "slot": 5
-        },
-        "symbol": "VOLT",
-        "complex": true
-    },
     "0x3F436954afb722F5D14D868762a23faB6b0DAbF0": {
         "compiler": "vyper",
         "balance": {
@@ -6902,19 +6356,6 @@
         "symbol": "TUSDFRAXBP3CRV-f",
         "complex": false
     },
-    "0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541",
-            "slot": 0
-        },
-        "allowance": {
-            "target": "0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541",
-            "slot": 2
-        },
-        "symbol": "BBTC",
-        "complex": false
-    },
     "0xa8e14F03124Ea156A4fc416537c82ff91a647D50": {
         "compiler": "vyper",
         "balance": {
@@ -6940,19 +6381,6 @@
         },
         "symbol": "sNOTE-BPT",
         "complex": false
-    },
-    "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
-            "slot": 8
-        },
-        "allowance": {
-            "target": "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
-            "slot": 1
-        },
-        "symbol": "aZRXv1",
-        "complex": true
     },
     "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b": {
         "compiler": "solidity",
@@ -7082,19 +6510,6 @@
             "slot": 3
         },
         "symbol": "DZAR",
-        "complex": false
-    },
-    "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
-            "slot": 302
-        },
-        "allowance": {
-            "target": "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
-            "slot": 151
-        },
-        "symbol": "SWISE",
         "complex": false
     },
     "0xFBEB78a723b8087fD2ea7Ef1afEc93d35E8Bed42": {
@@ -7303,7 +6718,7 @@
             "slot": 1
         },
         "symbol": "BCT",
-        "complex": false
+        "complex": true
     },
     "0x7713DD9Ca933848F6819F38B8352D9A15EA73F67": {
         "compiler": "solidity",
@@ -7381,19 +6796,6 @@
             "slot": 2
         },
         "symbol": "REVV",
-        "complex": false
-    },
-    "0x8C543AED163909142695f2d2aCd0D55791a9Edb9": {
-        "compiler": "solidity",
-        "balance": {
-            "target": "0x8C543AED163909142695f2d2aCd0D55791a9Edb9",
-            "slot": 3
-        },
-        "allowance": {
-            "target": "0x8C543AED163909142695f2d2aCd0D55791a9Edb9",
-            "slot": 5
-        },
-        "symbol": "VLX",
         "complex": false
     },
     "0xb0D6d7C0ed4b9C2B8186a3Ac3Acad88683586e35": {
@@ -8044,7 +7446,7 @@
             "slot": 1
         },
         "symbol": "RYOSHI",
-        "complex": true
+        "complex": false
     },
     "0x368B3a58B5f49392e5C9E4C998cb0bB966752E51": {
         "compiler": "solidity",
@@ -8176,19 +7578,6 @@
         "symbol": "CHZ",
         "complex": false
     },
-    "0xfAd45E47083e4607302aa43c65fB3106F1cd7607": {
-        "balance": {
-            "target": "0xfAd45E47083e4607302aa43c65fB3106F1cd7607",
-            "slot": 260
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xfAd45E47083e4607302aa43c65fB3106F1cd7607",
-            "slot": 3
-        },
-        "symbol": "HOGE",
-        "complex": true
-    },
     "0x48f07301E9E29c3C38a80ae8d9ae771F224f1054": {
         "balance": {
             "target": "0x48f07301E9E29c3C38a80ae8d9ae771F224f1054",
@@ -8240,19 +7629,6 @@
         },
         "symbol": "yvCurve-cvxCRV",
         "complex": false
-    },
-    "0xeb494890465f49C2b94457d9b61811392E5B1Fea": {
-        "balance": {
-            "target": "0xeb494890465f49C2b94457d9b61811392E5B1Fea",
-            "slot": 134
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xeb494890465f49C2b94457d9b61811392E5B1Fea",
-            "slot": 17
-        },
-        "symbol": "SLAB",
-        "complex": true
     },
     "0xF1294E805B992320A3515682c6aB0Fe6251067E5": {
         "balance": {
@@ -8371,19 +7747,6 @@
         "symbol": "mooConvexYCRV",
         "complex": false
     },
-    "0xc713e5E149D5D0715DcD1c156a020976e7E56B88": {
-        "balance": {
-            "target": "0xc713e5E149D5D0715DcD1c156a020976e7E56B88",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xc713e5E149D5D0715DcD1c156a020976e7E56B88",
-            "slot": 53
-        },
-        "symbol": "aMKR",
-        "complex": true
-    },
     "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
         "balance": {
             "target": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
@@ -8460,19 +7823,6 @@
             "slot": 1
         },
         "symbol": "MOON",
-        "complex": false
-    },
-    "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
-        "balance": {
-            "target": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
-            "slot": 3
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
-            "slot": 5
-        },
-        "symbol": "DTH",
         "complex": false
     },
     "0x37cd4E8875E3EDafFDFe9Be63958f07eFfBD0Bfd": {
@@ -8669,19 +8019,6 @@
         },
         "symbol": "XAUt",
         "complex": false
-    },
-    "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D": {
-        "balance": {
-            "target": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D",
-            "slot": 118
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D",
-            "slot": 3
-        },
-        "symbol": "KISHU",
-        "complex": true
     },
     "0xA361718326c15715591c299427c62086F69923D9": {
         "balance": {
@@ -8967,19 +8304,6 @@
         },
         "symbol": "80NATION-20WETH",
         "complex": false
-    },
-    "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e": {
-        "balance": {
-            "target": "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
-            "slot": 239
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
-            "slot": 9
-        },
-        "symbol": "NEC",
-        "complex": true
     },
     "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F": {
         "balance": {
@@ -9304,19 +8628,6 @@
             "slot": 18
         },
         "symbol": "UZDFRAXBP3CRV-f",
-        "complex": false
-    },
-    "0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F": {
-        "balance": {
-            "target": "0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F",
-            "slot": 2
-        },
-        "symbol": "WOZX",
         "complex": false
     },
     "0x7eAeA98668f1C062266B4C186F57eAfb6dF6Fbe4": {
@@ -9683,19 +8994,6 @@
         "symbol": "mooConvexSETH",
         "complex": false
     },
-    "0x3b79a28264fC52c7b4CEA90558AA0B162f7Faf57": {
-        "balance": {
-            "target": "0x3b79a28264fC52c7b4CEA90558AA0B162f7Faf57",
-            "slot": 2
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x3b79a28264fC52c7b4CEA90558AA0B162f7Faf57",
-            "slot": 16
-        },
-        "symbol": "wMEMO",
-        "complex": false
-    },
     "0x6123B0049F904d730dB3C36a31167D9d4121fA6B": {
         "balance": {
             "target": "0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
@@ -9811,19 +9109,6 @@
             "slot": 5
         },
         "symbol": "EDEN",
-        "complex": false
-    },
-    "0x299698B4B44BD6d023981A7317798dEe12860834": {
-        "balance": {
-            "target": "0x299698B4B44BD6d023981A7317798dEe12860834",
-            "slot": 6
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x299698B4B44BD6d023981A7317798dEe12860834",
-            "slot": 4
-        },
-        "symbol": "NFP",
         "complex": false
     },
     "0x6CFaF95457d7688022FC53e7AbE052ef8DFBbdBA": {
@@ -9981,19 +9266,6 @@
         },
         "symbol": "XAV",
         "complex": false
-    },
-    "0x28c5805B64d163588A909012a628b5a03c1041f9": {
-        "balance": {
-            "target": "0x28c5805B64d163588A909012a628b5a03c1041f9",
-            "slot": 73
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x28c5805B64d163588A909012a628b5a03c1041f9",
-            "slot": 5
-        },
-        "symbol": "CHOPPER",
-        "complex": true
     },
     "0xD33526068D116cE69F19A9ee46F0bd304F21A51f": {
         "balance": {
@@ -10255,19 +9527,6 @@
         "symbol": "vETH",
         "complex": false
     },
-    "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC": {
-        "balance": {
-            "target": "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC",
-            "slot": 2
-        },
-        "symbol": "HI",
-        "complex": false
-    },
     "0x35e78b3982E87ecfD5b3f3265B601c046cDBe232": {
         "balance": {
             "target": "0x35e78b3982E87ecfD5b3f3265B601c046cDBe232",
@@ -10279,19 +9538,6 @@
             "slot": 1
         },
         "symbol": "XAI",
-        "complex": false
-    },
-    "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa": {
-        "balance": {
-            "target": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
-            "slot": 2
-        },
-        "symbol": "POLS",
         "complex": false
     },
     "0xFc0d6Cf33e38bcE7CA7D89c0E292274031b7157A": {
@@ -10345,19 +9591,6 @@
         },
         "symbol": "ROOT",
         "complex": false
-    },
-    "0x798D1bE841a82a273720CE31c822C61a67a601C3": {
-        "balance": {
-            "target": "0x798D1bE841a82a273720CE31c822C61a67a601C3",
-            "slot": 171
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x798D1bE841a82a273720CE31c822C61a67a601C3",
-            "slot": 162
-        },
-        "symbol": "DIGG",
-        "complex": true
     },
     "0xA74d4B67b3368E83797a35382AFB776bAAE4F5C8": {
         "balance": {
@@ -10437,19 +9670,6 @@
         "symbol": "AGRI",
         "complex": false
     },
-    "0x5870700f1272a1AdbB87C3140bD770880a95e55D": {
-        "balance": {
-            "target": "0x5870700f1272a1AdbB87C3140bD770880a95e55D",
-            "slot": 2
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x5870700f1272a1AdbB87C3140bD770880a95e55D",
-            "slot": 12
-        },
-        "symbol": "BIFI",
-        "complex": false
-    },
     "0xc4De189Abf94c57f396bD4c52ab13b954FebEfD8": {
         "balance": {
             "target": "0xc4De189Abf94c57f396bD4c52ab13b954FebEfD8",
@@ -10474,19 +9694,6 @@
             "slot": null
         },
         "symbol": "WTF",
-        "complex": true
-    },
-    "0xB29130CBcC3F791f077eAdE0266168E808E5151e": {
-        "balance": {
-            "target": "0xB29130CBcC3F791f077eAdE0266168E808E5151e",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xB29130CBcC3F791f077eAdE0266168E808E5151e",
-            "slot": 53
-        },
-        "symbol": "a1INCH",
         "complex": true
     },
     "0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8": {
@@ -10541,19 +9748,6 @@
         "symbol": "ASTRO",
         "complex": false
     },
-    "0x72B886d09C117654aB7dA13A14d603001dE0B777": {
-        "balance": {
-            "target": "0x72B886d09C117654aB7dA13A14d603001dE0B777",
-            "slot": 1
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x72B886d09C117654aB7dA13A14d603001dE0B777",
-            "slot": 3
-        },
-        "symbol": "XDEFI",
-        "complex": false
-    },
     "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a": {
         "balance": {
             "target": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a",
@@ -10566,19 +9760,6 @@
         },
         "symbol": "TKN",
         "complex": false
-    },
-    "0x6C5024Cd4F8A59110119C56f8933403A539555EB": {
-        "balance": {
-            "target": "0x6C5024Cd4F8A59110119C56f8933403A539555EB",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x6C5024Cd4F8A59110119C56f8933403A539555EB",
-            "slot": 53
-        },
-        "symbol": "aSUSD",
-        "complex": true
     },
     "0x738865301A9b7Dd80Dc3666dD48cF034ec42bdDa": {
         "balance": {
@@ -10944,19 +10125,6 @@
         "symbol": "fidu-usdc-f",
         "complex": false
     },
-    "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be": {
-        "balance": {
-            "target": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
-            "slot": 2
-        },
-        "symbol": "XFT",
-        "complex": false
-    },
     "0x4115150523599D1F6C6Fa27F5A4C27D578Fd8ce5": {
         "balance": {
             "target": "0x4115150523599D1F6C6Fa27F5A4C27D578Fd8ce5",
@@ -11074,19 +10242,6 @@
         "symbol": "MRPH",
         "complex": false
     },
-    "0xcD62b1C403fa761BAadFC74C525ce2B51780b184": {
-        "balance": {
-            "target": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
-            "slot": 285
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
-            "slot": 9
-        },
-        "symbol": "ANJ",
-        "complex": true
-    },
     "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
         "balance": {
             "target": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
@@ -11139,19 +10294,6 @@
         "symbol": "bb-i-USDT",
         "complex": false
     },
-    "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78": {
-        "balance": {
-            "target": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78",
-            "slot": 2
-        },
-        "symbol": "ZCN",
-        "complex": false
-    },
     "0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5": {
         "balance": {
             "target": "0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5",
@@ -11176,19 +10318,6 @@
             "slot": 1
         },
         "symbol": "50TEMPLE-50DAI",
-        "complex": false
-    },
-    "0x505B5eDa5E25a67E1c24A2BF1a527Ed9eb88Bf04": {
-        "balance": {
-            "target": "0x505B5eDa5E25a67E1c24A2BF1a527Ed9eb88Bf04",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x505B5eDa5E25a67E1c24A2BF1a527Ed9eb88Bf04",
-            "slot": 8
-        },
-        "symbol": "CWEB",
         "complex": false
     },
     "0x2Ab6578239eD541Ef7cC7D11a45D740cE9F0a1F4": {
@@ -11256,19 +10385,6 @@
         "symbol": "yvCurve-MIM",
         "complex": false
     },
-    "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E": {
-        "balance": {
-            "target": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
-            "slot": 23
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
-            "slot": 9
-        },
-        "symbol": "SNT",
-        "complex": true
-    },
     "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9": {
         "balance": {
             "target": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
@@ -11280,19 +10396,6 @@
             "slot": 2
         },
         "symbol": "DONUT",
-        "complex": false
-    },
-    "0xA8b919680258d369114910511cc87595aec0be6D": {
-        "balance": {
-            "target": "0xA8b919680258d369114910511cc87595aec0be6D",
-            "slot": 1
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xA8b919680258d369114910511cc87595aec0be6D",
-            "slot": 9
-        },
-        "symbol": "LYXe",
         "complex": false
     },
     "0xDbA274B4D04097b90A72b62467d828cEFD708037": {
@@ -11307,19 +10410,6 @@
         },
         "symbol": "bb-i-DAI",
         "complex": false
-    },
-    "0x3b484b82567a09e2588A13D54D032153f0c0aEe0": {
-        "balance": {
-            "target": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
-            "slot": 77
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
-            "slot": 1
-        },
-        "symbol": "SOS",
-        "complex": true
     },
     "0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A": {
         "balance": {
@@ -11568,19 +10658,6 @@
         "symbol": "ABYSS",
         "complex": false
     },
-    "0x5165d24277cD063F5ac44Efd447B27025e888f37": {
-        "balance": {
-            "target": "0x5165d24277cD063F5ac44Efd447B27025e888f37",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x5165d24277cD063F5ac44Efd447B27025e888f37",
-            "slot": 53
-        },
-        "symbol": "aYFI",
-        "complex": true
-    },
     "0xa693B19d2931d498c5B318dF961919BB4aee87a5": {
         "balance": {
             "target": "0xa693B19d2931d498c5B318dF961919BB4aee87a5",
@@ -11631,19 +10708,6 @@
             "slot": 1
         },
         "symbol": "B-wUSDR-STABLE",
-        "complex": false
-    },
-    "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428": {
-        "balance": {
-            "target": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
-            "slot": 2
-        },
-        "symbol": "MFT",
         "complex": false
     },
     "0xf083FBa98dED0f9C970e5a418500bad08D8b9732": {
@@ -11789,19 +10853,6 @@
         "symbol": "BAO",
         "complex": false
     },
-    "0xFc979087305A826c2B2a0056cFAbA50aad3E6439": {
-        "balance": {
-            "target": "0xFc979087305A826c2B2a0056cFAbA50aad3E6439",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xFc979087305A826c2B2a0056cFAbA50aad3E6439",
-            "slot": 2
-        },
-        "symbol": "DAFI",
-        "complex": false
-    },
     "0x9137F3A026Fa419a7a9a0bA8DF6601D4B0aBfd26": {
         "balance": {
             "target": "0x9137F3A026Fa419a7a9a0bA8DF6601D4B0aBfd26",
@@ -11814,19 +10865,6 @@
         },
         "symbol": "BBPT",
         "complex": false
-    },
-    "0xD0Cd466b34A24fcB2f87676278AF2005Ca8A78c4": {
-        "balance": {
-            "target": "0xD0Cd466b34A24fcB2f87676278AF2005Ca8A78c4",
-            "slot": 259
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xD0Cd466b34A24fcB2f87676278AF2005Ca8A78c4",
-            "slot": 9
-        },
-        "symbol": "POP",
-        "complex": true
     },
     "0xe6b5CC1B4b47305c58392CE3D359B10282FC36Ea": {
         "balance": {
@@ -12009,32 +11047,6 @@
         },
         "symbol": "50wstETH-50stk-APE",
         "complex": false
-    },
-    "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1": {
-        "balance": {
-            "target": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
-            "slot": 53
-        },
-        "symbol": "aUNI",
-        "complex": true
-    },
-    "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef": {
-        "balance": {
-            "target": "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
-            "slot": 53
-        },
-        "symbol": "aENJ",
-        "complex": true
     },
     "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25": {
         "balance": {
@@ -12358,19 +11370,6 @@
         },
         "symbol": "PENDLE",
         "complex": false
-    },
-    "0x028171bCA77440897B824Ca71D1c56caC55b68A3": {
-        "balance": {
-            "target": "0x028171bCA77440897B824Ca71D1c56caC55b68A3",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x028171bCA77440897B824Ca71D1c56caC55b68A3",
-            "slot": 53
-        },
-        "symbol": "aDAI",
-        "complex": true
     },
     "0x4606326b4Db89373F5377C316d3b0F6e55Bc6A20": {
         "balance": {
@@ -13008,19 +12007,6 @@
         "symbol": "MYB",
         "complex": false
     },
-    "0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e": {
-        "balance": {
-            "target": "0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e",
-            "slot": 53
-        },
-        "symbol": "aZRX",
-        "complex": true
-    },
     "0x66761Fa41377003622aEE3c7675Fc7b5c1C2FaC5": {
         "balance": {
             "target": "0x66761Fa41377003622aEE3c7675Fc7b5c1C2FaC5",
@@ -13163,19 +12149,6 @@
         "symbol": "yvRAI",
         "complex": false
     },
-    "0x08d967bb0134F2d07f7cfb6E246680c53927DD30": {
-        "balance": {
-            "target": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
-            "slot": 2
-        },
-        "symbol": "MATH",
-        "complex": false
-    },
     "0xe047705117Eb07e712C3d684f5B18E74577e83aC": {
         "balance": {
             "target": "0xe047705117Eb07e712C3d684f5B18E74577e83aC",
@@ -13265,19 +12238,6 @@
             "slot": 1
         },
         "symbol": "MILK2",
-        "complex": false
-    },
-    "0xD478161C952357F05f0292B56012Cd8457F1cfbF": {
-        "balance": {
-            "target": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
-            "slot": 2
-        },
-        "symbol": "POLK",
         "complex": false
     },
     "0x836A808d4828586A69364065A1e064609F5078c7": {
@@ -13461,32 +12421,6 @@
         },
         "symbol": "CMERGE",
         "complex": true
-    },
-    "0xB26631c6dda06aD89B93C71400D25692de89c068": {
-        "balance": {
-            "target": "0xB26631c6dda06aD89B93C71400D25692de89c068",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xB26631c6dda06aD89B93C71400D25692de89c068",
-            "slot": 2
-        },
-        "symbol": "MINDS",
-        "complex": false
-    },
-    "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E": {
-        "balance": {
-            "target": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
-            "slot": 2
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
-            "slot": 6
-        },
-        "symbol": "ILV",
-        "complex": false
     },
     "0x51B0bcBEFf204B39Ce792D1E16767Fe6F7631970": {
         "balance": {
@@ -14046,19 +12980,6 @@
         "symbol": "KIRO",
         "complex": false
     },
-    "0x7825e833D495F3d1c28872415a4aee339D26AC88": {
-        "balance": {
-            "target": "0x7825e833D495F3d1c28872415a4aee339D26AC88",
-            "slot": 1
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x7825e833D495F3d1c28872415a4aee339D26AC88",
-            "slot": 9
-        },
-        "symbol": "TLOS",
-        "complex": false
-    },
     "0x09b2E090531228d1b8E3d948C73b990Cb6e60720": {
         "balance": {
             "target": "0x09b2E090531228d1b8E3d948C73b990Cb6e60720",
@@ -14226,7 +13147,7 @@
             "slot": 204
         },
         "symbol": "OUSG",
-        "complex": false
+        "complex": true
     },
     "0x3845badAde8e6dFF049820680d1F14bD3903a5d0": {
         "balance": {
@@ -14475,19 +13396,6 @@
         "symbol": "$ANRX",
         "complex": false
     },
-    "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e": {
-        "balance": {
-            "target": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
-            "slot": 4
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
-            "slot": 6
-        },
-        "symbol": "ELF",
-        "complex": false
-    },
     "0x28A06c02287e657ec3F8e151A13C36A1D43814b0": {
         "balance": {
             "target": "0x28A06c02287e657ec3F8e151A13C36A1D43814b0",
@@ -14540,19 +13448,6 @@
         "symbol": "ALCX",
         "complex": false
     },
-    "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b": {
-        "balance": {
-            "target": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
-            "slot": 2
-        },
-        "symbol": "CRO",
-        "complex": false
-    },
     "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6": {
         "balance": {
             "target": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6",
@@ -14577,19 +13472,6 @@
             "slot": 25
         },
         "symbol": "TBT/3CRV3CRV-f",
-        "complex": false
-    },
-    "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442": {
-        "balance": {
-            "target": "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
-            "slot": 5
-        },
-        "symbol": "Skey",
         "complex": false
     },
     "0x474021845C4643113458ea4414bdb7fB74A01A77": {
@@ -14657,19 +13539,6 @@
         "symbol": "MEGA",
         "complex": false
     },
-    "0x916c5DE09cF63f6602d1e1793FB41F6437814A62": {
-        "balance": {
-            "target": "0x916c5DE09cF63f6602d1e1793FB41F6437814A62",
-            "slot": 32
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x916c5DE09cF63f6602d1e1793FB41F6437814A62",
-            "slot": 3
-        },
-        "symbol": "JACY",
-        "complex": true
-    },
     "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa": {
         "balance": {
             "target": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
@@ -14733,7 +13602,7 @@
             "slot": 18
         },
         "symbol": "ECC",
-        "complex": false
+        "complex": true
     },
     "0x941E1dEAc6c58391b266AB849cB7368d6a60910E": {
         "balance": {
@@ -14760,19 +13629,6 @@
         },
         "symbol": "GRAIN",
         "complex": false
-    },
-    "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e": {
-        "balance": {
-            "target": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
-            "slot": 53
-        },
-        "symbol": "aWETH",
-        "complex": true
     },
     "0x06325440D014e39736583c165C2963BA99fAf14E": {
         "balance": {
@@ -14917,19 +13773,6 @@
         "symbol": "eCFX",
         "complex": false
     },
-    "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656": {
-        "balance": {
-            "target": "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656",
-            "slot": 53
-        },
-        "symbol": "aWBTC",
-        "complex": true
-    },
     "0xB08885e6026bab4333A80024Ec25a1a3e1FF2b8A": {
         "balance": {
             "target": "0xB08885e6026bab4333A80024Ec25a1a3e1FF2b8A",
@@ -14955,19 +13798,6 @@
         },
         "symbol": "sbtcCrv",
         "complex": false
-    },
-    "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0": {
-        "balance": {
-            "target": "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
-            "slot": 53
-        },
-        "symbol": "aLINK",
-        "complex": true
     },
     "0xa8B61CfF52564758A204F841E636265bEBC8db9B": {
         "balance": {
@@ -15320,19 +14150,6 @@
         "symbol": "AXS",
         "complex": false
     },
-    "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
-        "balance": {
-            "target": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-            "slot": 2
-        },
-        "symbol": "WBTC",
-        "complex": false
-    },
     "0x7cA4408137eb639570F8E647d9bD7B7E8717514A": {
         "balance": {
             "target": "0x7cA4408137eb639570F8E647d9bD7B7E8717514A",
@@ -15358,19 +14175,6 @@
         },
         "symbol": "BORING",
         "complex": false
-    },
-    "0x3F382DbD960E3a9bbCeaE22651E88158d2791550": {
-        "balance": {
-            "target": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
-            "slot": 125
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
-            "slot": 9
-        },
-        "symbol": "GHST",
-        "complex": true
     },
     "0x9F52c8ecbEe10e00D9faaAc5Ee9Ba0fF6550F511": {
         "balance": {
@@ -15435,19 +14239,6 @@
             "slot": 4
         },
         "symbol": "yvWETH",
-        "complex": false
-    },
-    "0xE9A95d175a5f4C9369f3b74222402eB1b837693b": {
-        "balance": {
-            "target": "0xE9A95d175a5f4C9369f3b74222402eB1b837693b",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xE9A95d175a5f4C9369f3b74222402eB1b837693b",
-            "slot": 2
-        },
-        "symbol": "NOW",
         "complex": false
     },
     "0x97Ba76a574bC5709b944bB1887691301c72337Ca": {
@@ -15565,19 +14356,6 @@
             "slot": 3
         },
         "symbol": "INV",
-        "complex": false
-    },
-    "0xfc82bb4ba86045Af6F327323a46E80412b91b27d": {
-        "balance": {
-            "target": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
-            "slot": 2
-        },
-        "symbol": "PROM",
         "complex": false
     },
     "0xf7b55C3732aD8b2c2dA7c24f30A69f55c54FB717": {
@@ -15788,19 +14566,6 @@
         "symbol": "GRO",
         "complex": false
     },
-    "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa": {
-        "balance": {
-            "target": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
-            "slot": 123
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
-            "slot": 9
-        },
-        "symbol": "CND",
-        "complex": true
-    },
     "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30": {
         "balance": {
             "target": "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30",
@@ -15904,19 +14669,6 @@
         },
         "symbol": "bBTC/sbtcCRV",
         "complex": false
-    },
-    "0xcca0c9c383076649604eE31b20248BC04FdF61cA": {
-        "balance": {
-            "target": "0xcca0c9c383076649604eE31b20248BC04FdF61cA",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xcca0c9c383076649604eE31b20248BC04FdF61cA",
-            "slot": 2
-        },
-        "symbol": "BTMX",
-        "complex": true
     },
     "0x31d4Eb09a216e181eC8a43ce79226A487D6F0BA9": {
         "balance": {
@@ -16152,19 +14904,6 @@
         "symbol": "STBT3CRV-f",
         "complex": false
     },
-    "0x07Ac55797D4F43f57cA92a49E65ca582cC287c27": {
-        "balance": {
-            "target": "0x07Ac55797D4F43f57cA92a49E65ca582cC287c27",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x07Ac55797D4F43f57cA92a49E65ca582cC287c27",
-            "slot": 52
-        },
-        "symbol": "TBT",
-        "complex": true
-    },
     "0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E": {
         "balance": {
             "target": null,
@@ -16397,19 +15136,6 @@
         "symbol": "TUSD3CRV-f",
         "complex": false
     },
-    "0xBC86727E770de68B1060C91f6BB6945c73e10388": {
-        "balance": {
-            "target": "0xBC86727E770de68B1060C91f6BB6945c73e10388",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xBC86727E770de68B1060C91f6BB6945c73e10388",
-            "slot": 2
-        },
-        "symbol": "XNK",
-        "complex": false
-    },
     "0x3431F91b3a388115F00C5Ba9FdB899851D005Fb5": {
         "balance": {
             "target": "0x3431F91b3a388115F00C5Ba9FdB899851D005Fb5",
@@ -16423,19 +15149,6 @@
         "symbol": "GERO",
         "complex": false
     },
-    "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a": {
-        "balance": {
-            "target": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
-            "slot": 53
-        },
-        "symbol": "aREN",
-        "complex": true
-    },
     "0xB9EefC4b0d472A44be93970254Df4f4016569d27": {
         "balance": {
             "target": "0xB9EefC4b0d472A44be93970254Df4f4016569d27",
@@ -16448,19 +15161,6 @@
         },
         "symbol": "XDB",
         "complex": false
-    },
-    "0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13": {
-        "balance": {
-            "target": "0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13",
-            "slot": 11
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13",
-            "slot": 1
-        },
-        "symbol": "STAK",
-        "complex": true
     },
     "0x5c0A86A32c129538D62C106Eb8115a8b02358d57": {
         "balance": {
@@ -16618,19 +15318,6 @@
         "symbol": "FNC",
         "complex": false
     },
-    "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7": {
-        "balance": {
-            "target": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
-            "slot": 8
-        },
-        "symbol": "SKL",
-        "complex": false
-    },
     "0x4b13006980aCB09645131b91D259eaA111eaF5Ba": {
         "balance": {
             "target": "0x4b13006980aCB09645131b91D259eaA111eaF5Ba",
@@ -16721,19 +15408,6 @@
         },
         "symbol": "USDD",
         "complex": false
-    },
-    "0x389999216860AB8E0175387A0c90E5c52522C945": {
-        "balance": {
-            "target": "0x389999216860AB8E0175387A0c90E5c52522C945",
-            "slot": 58
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x389999216860AB8E0175387A0c90E5c52522C945",
-            "slot": 3
-        },
-        "symbol": "FEG",
-        "complex": true
     },
     "0xB1e9157c2Fdcc5a856C8DA8b2d89b6C32b3c1229": {
         "balance": {
@@ -16878,19 +15552,6 @@
         "symbol": "DEV",
         "complex": false
     },
-    "0xfb40e79E56cc7D406707B66C4Fd175E07EB2Ae3C": {
-        "balance": {
-            "target": "0xfb40e79E56cc7D406707B66C4Fd175E07EB2Ae3C",
-            "slot": 101
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xfb40e79E56cc7D406707B66C4Fd175E07EB2Ae3C",
-            "slot": 3
-        },
-        "symbol": "ROTTS",
-        "complex": true
-    },
     "0xEd1480d12bE41d92F36f5f7bDd88212E381A3677": {
         "balance": {
             "target": "0xEd1480d12bE41d92F36f5f7bDd88212E381A3677",
@@ -16995,19 +15656,6 @@
         "symbol": "B-60WETH-40DAI",
         "complex": false
     },
-    "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86": {
-        "balance": {
-            "target": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
-            "slot": 161
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
-            "slot": 155
-        },
-        "symbol": "OUSD",
-        "complex": true
-    },
     "0x739763a258640919981F9bA610AE65492455bE53": {
         "balance": {
             "target": "0x739763a258640919981F9bA610AE65492455bE53",
@@ -17086,19 +15734,6 @@
         "symbol": "ZRX",
         "complex": false
     },
-    "0xb8b295df2cd735b15BE5Eb419517Aa626fc43cD5": {
-        "balance": {
-            "target": "0xb8b295df2cd735b15BE5Eb419517Aa626fc43cD5",
-            "slot": 252
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xb8b295df2cd735b15BE5Eb419517Aa626fc43cD5",
-            "slot": 52
-        },
-        "symbol": "stLINK",
-        "complex": false
-    },
     "0x618679dF9EfCd19694BB1daa8D00718Eacfa2883": {
         "balance": {
             "target": "0x618679dF9EfCd19694BB1daa8D00718Eacfa2883",
@@ -17124,19 +15759,6 @@
         },
         "symbol": "XIDR",
         "complex": false
-    },
-    "0xf680429328caaaCabee69b7A9FdB21a71419c063": {
-        "balance": {
-            "target": "0xf680429328caaaCabee69b7A9FdB21a71419c063",
-            "slot": 117
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xf680429328caaaCabee69b7A9FdB21a71419c063",
-            "slot": 59
-        },
-        "symbol": "BFLY",
-        "complex": true
     },
     "0xC47EBd6c0f68fD5963005D28D0ba533750E5C11B": {
         "balance": {
@@ -17229,19 +15851,6 @@
         "symbol": "crvEURTUSD",
         "complex": false
     },
-    "0x4946Fcea7C692606e8908002e55A582af44AC121": {
-        "balance": {
-            "target": "0x4946Fcea7C692606e8908002e55A582af44AC121",
-            "slot": 1
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x4946Fcea7C692606e8908002e55A582af44AC121",
-            "slot": 3
-        },
-        "symbol": "FOAM",
-        "complex": false
-    },
     "0xAFe7131a57E44f832cb2dE78ade38CaD644aaC2f": {
         "balance": {
             "target": "0xAFe7131a57E44f832cb2dE78ade38CaD644aaC2f",
@@ -17307,19 +15916,6 @@
         "symbol": "DIS",
         "complex": false
     },
-    "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589": {
-        "balance": {
-            "target": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
-            "slot": 2
-        },
-        "symbol": "SALE",
-        "complex": false
-    },
     "0x27B5739e22ad9033bcBf192059122d163b60349D": {
         "balance": {
             "target": "0x27B5739e22ad9033bcBf192059122d163b60349D",
@@ -17371,19 +15967,6 @@
         },
         "symbol": "CAPS",
         "complex": false
-    },
-    "0x67c597624B17b16fb77959217360B7cD18284253": {
-        "balance": {
-            "target": "0x67c597624B17b16fb77959217360B7cD18284253",
-            "slot": 140
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x67c597624B17b16fb77959217360B7cD18284253",
-            "slot": 9
-        },
-        "symbol": "MARK",
-        "complex": true
     },
     "0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44": {
         "balance": {
@@ -17852,19 +16435,6 @@
         "symbol": "qETH",
         "complex": true
     },
-    "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A": {
-        "balance": {
-            "target": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
-            "slot": 2
-        },
-        "symbol": "BEPRO",
-        "complex": false
-    },
     "0x32a7C02e79c4ea1008dD6564b35F131428673c41": {
         "balance": {
             "target": "0x32a7C02e79c4ea1008dD6564b35F131428673c41",
@@ -17993,45 +16563,6 @@
         },
         "symbol": "yvUSDC",
         "complex": false
-    },
-    "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac": {
-        "balance": {
-            "target": "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac",
-            "slot": 13
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac",
-            "slot": 5
-        },
-        "symbol": "BSL",
-        "complex": true
-    },
-    "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811": {
-        "balance": {
-            "target": "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811",
-            "slot": 53
-        },
-        "symbol": "aUSDT",
-        "complex": true
-    },
-    "0xf911a7ec46a2c6fa49193212fe4a2a9B95851c27": {
-        "balance": {
-            "target": "0xf911a7ec46a2c6fa49193212fe4a2a9B95851c27",
-            "slot": 93
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xf911a7ec46a2c6fa49193212fe4a2a9B95851c27",
-            "slot": 4
-        },
-        "symbol": "XAMP",
-        "complex": true
     },
     "0xF11b141BE4D1985E41c3AEa99417e27603F67c4c": {
         "balance": {
@@ -18384,19 +16915,6 @@
         "symbol": "CEL",
         "complex": false
     },
-    "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24": {
-        "balance": {
-            "target": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
-            "slot": 3
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
-            "slot": 5
-        },
-        "symbol": "RNDR",
-        "complex": false
-    },
     "0x80a2AE356fc9ef4305676f7a3E2Ed04e12C33946": {
         "balance": {
             "target": "0x80a2AE356fc9ef4305676f7a3E2Ed04e12C33946",
@@ -18447,19 +16965,6 @@
         },
         "symbol": "UBT",
         "complex": true
-    },
-    "0x5166E09628b696285E3A151e84FB977736a83575": {
-        "balance": {
-            "target": "0x5166E09628b696285E3A151e84FB977736a83575",
-            "slot": 2
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x5166E09628b696285E3A151e84FB977736a83575",
-            "slot": 4
-        },
-        "symbol": "VOL",
-        "complex": false
     },
     "0xd093fA4Fb80D09bB30817FDcd442d4d02eD3E5de": {
         "balance": {
@@ -18721,32 +17226,6 @@
         "symbol": "XBP",
         "complex": false
     },
-    "0x7121D00b4fA18F13Da6c2e30d19C04844E6AfDC8": {
-        "balance": {
-            "target": "0x7121D00b4fA18F13Da6c2e30d19C04844E6AfDC8",
-            "slot": 47
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x7121D00b4fA18F13Da6c2e30d19C04844E6AfDC8",
-            "slot": 5
-        },
-        "symbol": "LUFFY",
-        "complex": true
-    },
-    "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA": {
-        "balance": {
-            "target": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
-            "slot": 1
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
-            "slot": 3
-        },
-        "symbol": "ORBS",
-        "complex": false
-    },
     "0x9e030b67a8384cbba09D5927533Aa98010C87d91": {
         "balance": {
             "target": "0x9e030b67a8384cbba09D5927533Aa98010C87d91",
@@ -18785,19 +17264,6 @@
         },
         "symbol": "crvGEARETH",
         "complex": false
-    },
-    "0xc50EF449171a51FbeAFd7c562b064B6471C36caA": {
-        "balance": {
-            "target": "0xc50EF449171a51FbeAFd7c562b064B6471C36caA",
-            "slot": 92
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xc50EF449171a51FbeAFd7c562b064B6471C36caA",
-            "slot": 4
-        },
-        "symbol": "ZINU",
-        "complex": true
     },
     "0x83249c6794BCa5a77Eb8c0AF9F1A86E055459cea": {
         "balance": {
@@ -18864,19 +17330,6 @@
         "symbol": "yvCurve-JPEG-pETH-f",
         "complex": false
     },
-    "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26": {
-        "balance": {
-            "target": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
-            "slot": 2
-        },
-        "symbol": "OGN",
-        "complex": false
-    },
     "0x7ea4aD8C803653498bF6AC1D2dEbc04DCe8Fd2aD": {
         "balance": {
             "target": "0x7ea4aD8C803653498bF6AC1D2dEbc04DCe8Fd2aD",
@@ -18888,19 +17341,6 @@
             "slot": 7
         },
         "symbol": "TOKEETH-f",
-        "complex": false
-    },
-    "0x147faF8De9d8D8DAAE129B187F0D02D819126750": {
-        "balance": {
-            "target": "0x147faF8De9d8D8DAAE129B187F0D02D819126750",
-            "slot": 2
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x147faF8De9d8D8DAAE129B187F0D02D819126750",
-            "slot": 10
-        },
-        "symbol": "GEO",
         "complex": false
     },
     "0xD6Ea40597Be05c201845c0bFd2e96A60bACde267": {
@@ -19070,19 +17510,6 @@
             "slot": 202
         },
         "symbol": "CXD",
-        "complex": false
-    },
-    "0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB": {
-        "balance": {
-            "target": "0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB",
-            "slot": 1
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB",
-            "slot": 9
-        },
-        "symbol": "BLOCKS",
         "complex": false
     },
     "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042": {
@@ -19345,19 +17772,6 @@
         "symbol": "HOP",
         "complex": false
     },
-    "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8": {
-        "balance": {
-            "target": "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8",
-            "slot": 2
-        },
-        "symbol": "MCX",
-        "complex": false
-    },
     "0x3472A5A71965499acd81997a54BBA8D852C6E53d": {
         "balance": {
             "target": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
@@ -19410,19 +17824,6 @@
         "symbol": "MPL",
         "complex": false
     },
-    "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695": {
-        "balance": {
-            "target": "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
-            "slot": 2
-        },
-        "symbol": "PBR",
-        "complex": false
-    },
     "0x72E5390EDb7727E3d4e3436451DADafF675dBCC0": {
         "balance": {
             "target": "0x72E5390EDb7727E3d4e3436451DADafF675dBCC0",
@@ -19462,32 +17863,6 @@
         "symbol": "50STR-50WETH",
         "complex": false
     },
-    "0x101cc05f4A51C0319f570d5E146a8C625198e636": {
-        "balance": {
-            "target": "0x101cc05f4A51C0319f570d5E146a8C625198e636",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x101cc05f4A51C0319f570d5E146a8C625198e636",
-            "slot": 53
-        },
-        "symbol": "aTUSD",
-        "complex": true
-    },
-    "0xD5a14081a34d256711B02BbEf17E567da48E80b5": {
-        "balance": {
-            "target": "0xD5a14081a34d256711B02BbEf17E567da48E80b5",
-            "slot": 2
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xD5a14081a34d256711B02BbEf17E567da48E80b5",
-            "slot": 12
-        },
-        "symbol": "wUSDR",
-        "complex": false
-    },
     "0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d": {
         "balance": {
             "target": "0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d",
@@ -19525,19 +17900,6 @@
             "slot": 1
         },
         "symbol": "KNIGHT",
-        "complex": false
-    },
-    "0x967Fb0D760ED3ce53AfE2f0A071674cccAe73550": {
-        "balance": {
-            "target": "0x967Fb0D760ED3ce53AfE2f0A071674cccAe73550",
-            "slot": 2
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x967Fb0D760ED3ce53AfE2f0A071674cccAe73550",
-            "slot": 12
-        },
-        "symbol": "XETA",
         "complex": false
     },
     "0xFD0877d9095789cAF24c98F7CCe092fa8E120775": {
@@ -19604,32 +17966,6 @@
         },
         "symbol": "frxETH",
         "complex": false
-    },
-    "0x8E870D67F660D95d5be530380D0eC0bd388289E1": {
-        "balance": {
-            "target": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
-            "slot": 1
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
-            "slot": 3
-        },
-        "symbol": "USDP",
-        "complex": false
-    },
-    "0xa685a61171bb30d4072B338c80Cb7b2c865c873E": {
-        "balance": {
-            "target": "0xa685a61171bb30d4072B338c80Cb7b2c865c873E",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xa685a61171bb30d4072B338c80Cb7b2c865c873E",
-            "slot": 53
-        },
-        "symbol": "aMANA",
-        "complex": true
     },
     "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2": {
         "balance": {
@@ -19902,19 +18238,6 @@
             "slot": 8
         },
         "symbol": "yvCurve-FRAXBP-f",
-        "complex": false
-    },
-    "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA": {
-        "balance": {
-            "target": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA",
-            "slot": 1
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA",
-            "slot": 9
-        },
-        "symbol": "HOPR",
         "complex": false
     },
     "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF": {
@@ -20280,19 +18603,6 @@
         "symbol": "aDAI",
         "complex": false
     },
-    "0x1d37986F252d0e349522EA6C3B98Cb935495E63E": {
-        "balance": {
-            "target": "0x1d37986F252d0e349522EA6C3B98Cb935495E63E",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x1d37986F252d0e349522EA6C3B98Cb935495E63E",
-            "slot": 2
-        },
-        "symbol": "CHART",
-        "complex": false
-    },
     "0xE4CFE9eAa8Cdb0942A80B7bC68fD8Ab0F6D44903": {
         "balance": {
             "target": "0xE4CFE9eAa8Cdb0942A80B7bC68fD8Ab0F6D44903",
@@ -20394,19 +18704,6 @@
             "slot": 53
         },
         "symbol": "aUSDT",
-        "complex": false
-    },
-    "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361": {
-        "balance": {
-            "target": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
-            "slot": 3
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
-            "slot": 6
-        },
-        "symbol": "MYST",
         "complex": false
     },
     "0x3Ea8ea4237344C9931214796d9417Af1A1180770": {
@@ -20539,19 +18836,6 @@
         "compiler": "solidity",
         "complex": false
     },
-    "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0": {
-        "balance": {
-            "target": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
-            "slot": 6
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
-            "slot": 8
-        },
-        "symbol": "USDN",
-        "complex": false
-    },
     "0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF": {
         "balance": {
             "target": "0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF",
@@ -20591,19 +18875,6 @@
         "symbol": "cvxFpis-f",
         "complex": false
     },
-    "0x1c48f86ae57291F7686349F12601910BD8D470bb": {
-        "balance": {
-            "target": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
-            "slot": 1
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
-            "slot": 3
-        },
-        "symbol": "USDK",
-        "complex": false
-    },
     "0x6243d8CEA23066d098a15582d81a598b4e8391F4": {
         "balance": {
             "target": "0x6243d8CEA23066d098a15582d81a598b4e8391F4",
@@ -20616,19 +18887,6 @@
         },
         "symbol": "FLX",
         "complex": false
-    },
-    "0x56d811088235F11C8920698a204A5010a788f4b3": {
-        "balance": {
-            "target": "0x56d811088235F11C8920698a204A5010a788f4b3",
-            "slot": 181
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x56d811088235F11C8920698a204A5010a788f4b3",
-            "slot": 3
-        },
-        "symbol": "BZRX",
-        "complex": true
     },
     "0x92B767185fB3B04F881e3aC8e5B0662a027A1D9f": {
         "balance": {
@@ -20786,19 +19044,6 @@
         "symbol": "NFTI_2",
         "complex": false
     },
-    "0xDc5864eDe28BD4405aa04d93E05A0531797D9D59": {
-        "balance": {
-            "target": "0xDc5864eDe28BD4405aa04d93E05A0531797D9D59",
-            "slot": 5
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xDc5864eDe28BD4405aa04d93E05A0531797D9D59",
-            "slot": 7
-        },
-        "symbol": "FNT",
-        "complex": false
-    },
     "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83": {
         "balance": {
             "target": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
@@ -20823,19 +19068,6 @@
             "slot": 6
         },
         "symbol": "KP3R",
-        "complex": false
-    },
-    "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32": {
-        "balance": {
-            "target": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
-            "slot": 165
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
-            "slot": 9
-        },
-        "symbol": "LDO",
         "complex": false
     },
     "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41": {
@@ -20914,19 +19146,6 @@
             "slot": 1
         },
         "symbol": "VTX",
-        "complex": false
-    },
-    "0xE1c7E30C42C24582888C758984f6e382096786bd": {
-        "balance": {
-            "target": "0xE1c7E30C42C24582888C758984f6e382096786bd",
-            "slot": 2
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xE1c7E30C42C24582888C758984f6e382096786bd",
-            "slot": 6
-        },
-        "symbol": "XCUR",
         "complex": false
     },
     "0x4b4D2e899658FB59b1D518b68fe836B100ee8958": {
@@ -21072,19 +19291,6 @@
         "symbol": "LGCY",
         "complex": false
     },
-    "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf": {
-        "balance": {
-            "target": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
-            "slot": 2
-        },
-        "symbol": "GEN",
-        "complex": false
-    },
     "0x95a4492F028aa1fd432Ea71146b433E7B4446611": {
         "balance": {
             "target": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
@@ -21150,19 +19356,6 @@
         "symbol": "CGG",
         "complex": false
     },
-    "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d": {
-        "balance": {
-            "target": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
-            "slot": 148
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
-            "slot": 9
-        },
-        "symbol": "PNK",
-        "complex": true
-    },
     "0xc6CBbdE700D1972468e727981cfe838d718B66D1": {
         "balance": {
             "target": "0xc6CBbdE700D1972468e727981cfe838d718B66D1",
@@ -21174,19 +19367,6 @@
             "slot": 7
         },
         "symbol": "USVFRAXBP-f",
-        "complex": false
-    },
-    "0x535321013A1E2D5aF3B1853812a64CA3fc6C1fa1": {
-        "balance": {
-            "target": "0x535321013A1E2D5aF3B1853812a64CA3fc6C1fa1",
-            "slot": 252
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x535321013A1E2D5aF3B1853812a64CA3fc6C1fa1",
-            "slot": 52
-        },
-        "symbol": "ixETH",
         "complex": false
     },
     "0x8Bc3F1e82Ca3d63987dc12F90538c6bF818FcD0f": {
@@ -21292,19 +19472,6 @@
         "symbol": "yvCurve-OHM-FRAXBP-f",
         "complex": false
     },
-    "0x6Dca182ac5E3f99985bC4Ee0f726d6472aB1ec55": {
-        "balance": {
-            "target": "0x6Dca182ac5E3f99985bC4Ee0f726d6472aB1ec55",
-            "slot": 239
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x6Dca182ac5E3f99985bC4Ee0f726d6472aB1ec55",
-            "slot": 3
-        },
-        "symbol": "USHI",
-        "complex": true
-    },
     "0x173063A30E095313eEe39411f07E95A8a806014e": {
         "balance": {
             "target": "0x173063A30E095313eEe39411f07E95A8a806014e",
@@ -21316,19 +19483,6 @@
             "slot": 1
         },
         "symbol": "50TEMPLE-50bb-a-USD",
-        "complex": false
-    },
-    "0x57700244B20f84799a31c6C96DadFF373ca9D6c5": {
-        "balance": {
-            "target": "0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
-            "slot": 5
-        },
-        "symbol": "TRUST",
         "complex": false
     },
     "0x970FAA9aFBC5Feb3EC53059BA330DEe71E22B55B": {
@@ -21420,19 +19574,6 @@
             "slot": 16
         },
         "symbol": "LUSD3CRV-f",
-        "complex": false
-    },
-    "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD": {
-        "balance": {
-            "target": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
-            "slot": 2
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
-            "slot": 10
-        },
-        "symbol": "PNT",
         "complex": false
     },
     "0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E": {
@@ -21760,32 +19901,6 @@
         "symbol": "FCL",
         "complex": false
     },
-    "0xAC57De9C1A09FeC648E93EB98875B212DB0d460B": {
-        "balance": {
-            "target": "0xAC57De9C1A09FeC648E93EB98875B212DB0d460B",
-            "slot": 190
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xAC57De9C1A09FeC648E93EB98875B212DB0d460B",
-            "slot": 5
-        },
-        "symbol": "BabyDoge",
-        "complex": true
-    },
-    "0x3a1311B8C404629E38f61D566cefEFed083B9670": {
-        "balance": {
-            "target": "0x3a1311B8C404629E38f61D566cefEFed083B9670",
-            "slot": 252
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x3a1311B8C404629E38f61D566cefEFed083B9670",
-            "slot": 4
-        },
-        "symbol": "PINU",
-        "complex": true
-    },
     "0xF93579002DBE8046c43FEfE86ec78b1112247BB8": {
         "balance": {
             "target": "0xF93579002DBE8046c43FEfE86ec78b1112247BB8",
@@ -21825,19 +19940,6 @@
         "symbol": "aTUSDv1",
         "complex": true
     },
-    "0x6F9C26Fa731C7Ea4139Fa669962Cf8F1CE6C8b0B": {
-        "balance": {
-            "target": "0x6F9C26Fa731C7Ea4139Fa669962Cf8F1CE6C8b0B",
-            "slot": 2
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x6F9C26Fa731C7Ea4139Fa669962Cf8F1CE6C8b0B",
-            "slot": 12
-        },
-        "symbol": "OATH",
-        "complex": false
-    },
     "0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4": {
         "balance": {
             "target": "0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4",
@@ -21876,19 +19978,6 @@
         },
         "symbol": "ALEPH",
         "complex": false
-    },
-    "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
-        "balance": {
-            "target": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "slot": 2
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "slot": 5
-        },
-        "symbol": "USDT",
-        "complex": true
     },
     "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215": {
         "balance": {
@@ -22098,19 +20187,6 @@
         "symbol": "RFI",
         "complex": true
     },
-    "0x5228a22e72ccC52d415EcFd199F99D0665E7733b": {
-        "balance": {
-            "target": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
-            "slot": 8
-        },
-        "symbol": "pBTC",
-        "complex": false
-    },
     "0xE0d5f9DA3613C047003b77cAa31270aBE3EdA6b0": {
         "balance": {
             "target": "0xE0d5f9DA3613C047003b77cAa31270aBE3EdA6b0",
@@ -22136,19 +20212,6 @@
         },
         "symbol": "B-50LINK-50WETH",
         "complex": false
-    },
-    "0x07150e919B4De5fD6a63DE1F9384828396f25fDC": {
-        "balance": {
-            "target": "0x07150e919B4De5fD6a63DE1F9384828396f25fDC",
-            "slot": 218
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x07150e919B4De5fD6a63DE1F9384828396f25fDC",
-            "slot": 207
-        },
-        "symbol": "BASE",
-        "complex": true
     },
     "0xeEEE2a622330E6d2036691e983DEe87330588603": {
         "balance": {
@@ -22279,19 +20342,6 @@
         },
         "symbol": "10LUSD-6LQTY-3rETH-26WETH-55RPL",
         "complex": false
-    },
-    "0xB56A1f3310578f23120182Fb2e58c087EFE6e147": {
-        "balance": {
-            "target": "0xB56A1f3310578f23120182Fb2e58c087EFE6e147",
-            "slot": 152
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xB56A1f3310578f23120182Fb2e58c087EFE6e147",
-            "slot": 9
-        },
-        "symbol": "ACYC",
-        "complex": true
     },
     "0xAd0e5e0778cAC28f1ff459602b31351871B5754a": {
         "balance": {
@@ -22501,19 +20551,6 @@
         "symbol": "DAO",
         "complex": false
     },
-    "0xf50a07e4FF052A14f3f608DA8936D8AE0Ed5bE50": {
-        "balance": {
-            "target": "0xf50a07e4FF052A14f3f608DA8936D8AE0Ed5bE50",
-            "slot": 27
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xf50a07e4FF052A14f3f608DA8936D8AE0Ed5bE50",
-            "slot": 7
-        },
-        "symbol": "FLOKIPUP",
-        "complex": true
-    },
     "0x960b236A07cf122663c4303350609A66A7B288C0": {
         "balance": {
             "target": null,
@@ -22578,19 +20615,6 @@
         },
         "symbol": "HDRN",
         "complex": false
-    },
-    "0xE7f58A92476056627f9FdB92286778aBd83b285F": {
-        "balance": {
-            "target": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
-            "slot": 96
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
-            "slot": 153
-        },
-        "symbol": "DWEB",
-        "complex": true
     },
     "0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7": {
         "balance": {
@@ -22696,19 +20720,6 @@
         "symbol": "yvCurve-sETH-f",
         "complex": false
     },
-    "0xCd7492db29E2ab436e819b249452EE1bbDf52214": {
-        "balance": {
-            "target": "0xCd7492db29E2ab436e819b249452EE1bbDf52214",
-            "slot": 26
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xCd7492db29E2ab436e819b249452EE1bbDf52214",
-            "slot": 3
-        },
-        "symbol": "SMI",
-        "complex": true
-    },
     "0x682831244b0E97946ABC52Cb1893Cce398De3A35": {
         "balance": {
             "target": "0x682831244b0E97946ABC52Cb1893Cce398De3A35",
@@ -22798,19 +20809,6 @@
             "slot": 1
         },
         "symbol": "UMA",
-        "complex": false
-    },
-    "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe": {
-        "balance": {
-            "target": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
-            "slot": 0
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
-            "slot": 2
-        },
-        "symbol": "USDS",
         "complex": false
     },
     "0xEA1ea0972fa092dd463f2968F9bB51Cc4c981D71": {
@@ -22955,19 +20953,6 @@
         },
         "symbol": "yvCurve-DYDX-ETH-f",
         "complex": false
-    },
-    "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3": {
-        "balance": {
-            "target": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
-            "slot": 161
-        },
-        "compiler": "solidity",
-        "allowance": {
-            "target": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
-            "slot": 155
-        },
-        "symbol": "OETH",
-        "complex": true
     },
     "0x6f4906c181e6aCb096908238c5ffD088cca6Ba9f": {
         "balance": {
@@ -23192,8 +21177,8 @@
     },
     "0xA64dFe8D86963151E6496BEe513E366F6e42ED79": {
         "balance": {
-            "target": null,
-            "slot": null
+            "target": "0xA64dFe8D86963151E6496BEe513E366F6e42ED79",
+            "slot": 4
         },
         "allowance": {
             "target": "0xA64dFe8D86963151E6496BEe513E366F6e42ED79",
@@ -23202,5 +21187,2020 @@
         "compiler": "solidity",
         "symbol": "GOKU",
         "complex": true
+    },
+    "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32": {
+        "balance": {
+            "target": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+            "slot": 8
+        },
+        "allowance": {
+            "target": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+            "slot": 9
+        },
+        "compiler": "solidity",
+        "symbol": "LDO",
+        "complex": true
+    },
+    "0xC82E3dB60A52CF7529253b4eC688f631aad9e7c2": {
+        "balance": {
+            "target": "0xC82E3dB60A52CF7529253b4eC688f631aad9e7c2",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xC82E3dB60A52CF7529253b4eC688f631aad9e7c2",
+            "slot": 1
+        },
+        "symbol": "ARC",
+        "complex": false
+    },
+    "0x6A7Ef4998eB9d0f706238756949F311a59E05745": {
+        "balance": {
+            "target": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
+            "slot": 3
+        },
+        "symbol": "KEN",
+        "complex": false
+    },
+    "0x5c872500c00565505F3624AB435c222E558E9ff8": {
+        "balance": {
+            "target": "0x5c872500c00565505F3624AB435c222E558E9ff8",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x5c872500c00565505F3624AB435c222E558E9ff8",
+            "slot": 2
+        },
+        "symbol": "COT_2",
+        "complex": false
+    },
+    "0x66eFF5221ca926636224650Fd3B9c497FF828F7D": {
+        "balance": {
+            "target": "0x66eFF5221ca926636224650Fd3B9c497FF828F7D",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x66eFF5221ca926636224650Fd3B9c497FF828F7D",
+            "slot": 12
+        },
+        "symbol": "multiBTC",
+        "complex": false
+    },
+    "0xDDB3422497E61e13543BeA06989C0789117555c5": {
+        "balance": {
+            "target": "0xDDB3422497E61e13543BeA06989C0789117555c5",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xDDB3422497E61e13543BeA06989C0789117555c5",
+            "slot": 2
+        },
+        "symbol": "COTI",
+        "complex": false
+    },
+    "0x4f640F2529ee0cF119A2881485845FA8e61A782A": {
+        "balance": {
+            "target": "0x4f640F2529ee0cF119A2881485845FA8e61A782A",
+            "slot": 201
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x4f640F2529ee0cF119A2881485845FA8e61A782A",
+            "slot": 209
+        },
+        "symbol": "ORE",
+        "complex": false
+    },
+    "0x45804880De22913dAFE09f4980848ECE6EcbAf78": {
+        "balance": {
+            "target": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+            "slot": 3
+        },
+        "symbol": "PAXG",
+        "complex": false
+    },
+    "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD": {
+        "balance": {
+            "target": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+            "slot": 3
+        },
+        "symbol": "LRC",
+        "complex": false
+    },
+    "0x75D12E4F91Df721faFCae4c6cD1d5280381370AC": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x75D12E4F91Df721faFCae4c6cD1d5280381370AC",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "symbol": "MYOBU",
+        "complex": true
+    },
+    "0x178c820f862B14f316509ec36b13123DA19A6054": {
+        "balance": {
+            "target": "0x178c820f862B14f316509ec36b13123DA19A6054",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x178c820f862B14f316509ec36b13123DA19A6054",
+            "slot": 5
+        },
+        "symbol": "EWTB",
+        "complex": false
+    },
+    "0xee573a945B01B788B9287CE062A0CFC15bE9fd86": {
+        "balance": {
+            "target": "0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
+            "slot": 2
+        },
+        "symbol": "XED",
+        "complex": false
+    },
+    "0x106552C11272420aAd5d7e94f8AcAb9095A6c952": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x106552C11272420aAd5d7e94f8AcAb9095A6c952",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "symbol": "KEANU",
+        "complex": true
+    },
+    "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4": {
+        "balance": {
+            "target": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
+            "slot": 2
+        },
+        "symbol": "ANKR",
+        "complex": false
+    },
+    "0x55aF5865807b196bD0197e0902746F31FBcCFa58": {
+        "balance": {
+            "target": "0x55aF5865807b196bD0197e0902746F31FBcCFa58",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x55aF5865807b196bD0197e0902746F31FBcCFa58",
+            "slot": 16
+        },
+        "symbol": "BOO",
+        "complex": false
+    },
+    "0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373": {
+        "balance": {
+            "target": "0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373",
+            "slot": 2
+        },
+        "symbol": "GMEE",
+        "complex": false
+    },
+    "0x00D1793D7C3aAE506257Ba985b34C76AaF642557": {
+        "balance": {
+            "target": "0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
+            "slot": 2
+        },
+        "symbol": "TACO",
+        "complex": false
+    },
+    "0x0AbdAce70D3790235af448C88547603b945604ea": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x0AbdAce70D3790235af448C88547603b945604ea",
+            "slot": 10
+        },
+        "compiler": "solidity",
+        "symbol": "DNT",
+        "complex": true
+    },
+    "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3": {
+        "balance": {
+            "target": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+            "slot": 161
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+            "slot": 155
+        },
+        "symbol": "OETH",
+        "complex": true
+    },
+    "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8": {
+        "balance": {
+            "target": "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8",
+            "slot": 1
+        },
+        "symbol": "aUSDTv1",
+        "complex": true
+    },
+    "0xad32A8e6220741182940c5aBF610bDE99E737b2D": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
+            "slot": 9
+        },
+        "compiler": "solidity",
+        "symbol": "DOUGH",
+        "complex": true
+    },
+    "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2": {
+        "balance": {
+            "target": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2",
+            "slot": 301
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2",
+            "slot": 303
+        },
+        "symbol": "BICO",
+        "complex": false
+    },
+    "0x4a220E6096B25EADb88358cb44068A3248254675": {
+        "balance": {
+            "target": "0x4a220E6096B25EADb88358cb44068A3248254675",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x4a220E6096B25EADb88358cb44068A3248254675",
+            "slot": 2
+        },
+        "symbol": "QNT",
+        "complex": false
+    },
+    "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69": {
+        "balance": {
+            "target": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
+            "slot": 2
+        },
+        "symbol": "IOTX",
+        "complex": false
+    },
+    "0xD46bA6D942050d489DBd938a2C909A5d5039A161": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+            "slot": 159
+        },
+        "compiler": "solidity",
+        "symbol": "AMPL",
+        "complex": true
+    },
+    "0x4de2573e27E648607B50e1Cfff921A33E4A34405": {
+        "balance": {
+            "target": "0x4de2573e27E648607B50e1Cfff921A33E4A34405",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x4de2573e27E648607B50e1Cfff921A33E4A34405",
+            "slot": 2
+        },
+        "symbol": "LST",
+        "complex": false
+    },
+    "0xd084944d3c05CD115C09d072B9F44bA3E0E45921": {
+        "balance": {
+            "target": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
+            "slot": 3
+        },
+        "symbol": "FOLD",
+        "complex": false
+    },
+    "0x5Dc02Ea99285E17656b8350722694c35154DB1E8": {
+        "balance": {
+            "target": "0x5Dc02Ea99285E17656b8350722694c35154DB1E8",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x5Dc02Ea99285E17656b8350722694c35154DB1E8",
+            "slot": 2
+        },
+        "symbol": "BOND_finance",
+        "complex": false
+    },
+    "0xb40b6608B2743E691C9B54DdBDEe7bf03cd79f1c": {
+        "balance": {
+            "target": "0xb40b6608B2743E691C9B54DdBDEe7bf03cd79f1c",
+            "slot": 8
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xb40b6608B2743E691C9B54DdBDEe7bf03cd79f1c",
+            "slot": 9
+        },
+        "symbol": "UZD",
+        "complex": true
+    },
+    "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3": {
+        "balance": {
+            "target": "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3",
+            "slot": 1
+        },
+        "symbol": "aWBTCv1",
+        "complex": true
+    },
+    "0xFe2e637202056d30016725477c5da089Ab0A043A": {
+        "balance": {
+            "target": "0xFe2e637202056d30016725477c5da089Ab0A043A",
+            "slot": 303
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xFe2e637202056d30016725477c5da089Ab0A043A",
+            "slot": 151
+        },
+        "symbol": "sETH2",
+        "complex": false
+    },
+    "0x456D8f0D25A4e787eE60c401F8B963a465148f70": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x456D8f0D25A4e787eE60c401F8B963a465148f70",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "symbol": "CAVA",
+        "complex": true
+    },
+    "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2": {
+        "balance": {
+            "target": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
+            "slot": 5
+        },
+        "symbol": "EQUAD",
+        "complex": false
+    },
+    "0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C": {
+        "balance": {
+            "target": "0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C",
+            "slot": 1
+        },
+        "symbol": "aRENv1",
+        "complex": true
+    },
+    "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195": {
+        "balance": {
+            "target": "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+            "slot": 3
+        },
+        "symbol": "EQMT",
+        "complex": false
+    },
+    "0x4Fabb145d64652a948d72533023f6E7A623C7C53": {
+        "balance": {
+            "target": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+            "slot": 3
+        },
+        "symbol": "BUSD",
+        "complex": false
+    },
+    "0xF411903cbC70a74d22900a5DE66A2dda66507255": {
+        "balance": {
+            "target": "0xF411903cbC70a74d22900a5DE66A2dda66507255",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xF411903cbC70a74d22900a5DE66A2dda66507255",
+            "slot": 9
+        },
+        "symbol": "VRA",
+        "complex": false
+    },
+    "0xB124541127A0A657f056D9Dd06188c4F1b0e5aab": {
+        "balance": {
+            "target": "0xB124541127A0A657f056D9Dd06188c4F1b0e5aab",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xB124541127A0A657f056D9Dd06188c4F1b0e5aab",
+            "slot": 1
+        },
+        "symbol": "aUNIv1",
+        "complex": true
+    },
+    "0xb8919522331C59f5C16bDfAA6A121a6E03A91F62": {
+        "balance": {
+            "target": "0xb8919522331C59f5C16bDfAA6A121a6E03A91F62",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xb8919522331C59f5C16bDfAA6A121a6E03A91F62",
+            "slot": 59
+        },
+        "symbol": "HOME",
+        "complex": false
+    },
+    "0x9e5BD9D9fAd182ff0A93bA8085b664bcab00fA68": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x9e5BD9D9fAd182ff0A93bA8085b664bcab00fA68",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "symbol": "DINGER",
+        "complex": true
+    },
+    "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3": {
+        "balance": {
+            "target": "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3",
+            "slot": 2
+        },
+        "symbol": "RBC",
+        "complex": true
+    },
+    "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3": {
+        "balance": {
+            "target": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+            "slot": 4
+        },
+        "symbol": "ARCONA",
+        "complex": false
+    },
+    "0xA0CF46eb152656C7090e769916eb44a138aaa406": {
+        "balance": {
+            "target": "0xA0CF46eb152656C7090e769916eb44a138aaa406",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xA0CF46eb152656C7090e769916eb44a138aaa406",
+            "slot": 2
+        },
+        "symbol": "SPH",
+        "complex": false
+    },
+    "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac": {
+        "balance": {
+            "target": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
+            "slot": 5
+        },
+        "symbol": "VOLT",
+        "complex": true
+    },
+    "0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541": {
+        "balance": {
+            "target": "0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541",
+            "slot": 2
+        },
+        "symbol": "BBTC",
+        "complex": false
+    },
+    "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f": {
+        "balance": {
+            "target": "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
+            "slot": 1
+        },
+        "symbol": "aZRXv1",
+        "complex": true
+    },
+    "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2": {
+        "balance": {
+            "target": "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
+            "slot": 302
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
+            "slot": 151
+        },
+        "symbol": "SWISE",
+        "complex": false
+    },
+    "0x8C543AED163909142695f2d2aCd0D55791a9Edb9": {
+        "balance": {
+            "target": "0x8C543AED163909142695f2d2aCd0D55791a9Edb9",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x8C543AED163909142695f2d2aCd0D55791a9Edb9",
+            "slot": 5
+        },
+        "symbol": "VLX",
+        "complex": false
+    },
+    "0xfAd45E47083e4607302aa43c65fB3106F1cd7607": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xfAd45E47083e4607302aa43c65fB3106F1cd7607",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "symbol": "HOGE",
+        "complex": true
+    },
+    "0xeb494890465f49C2b94457d9b61811392E5B1Fea": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xeb494890465f49C2b94457d9b61811392E5B1Fea",
+            "slot": 17
+        },
+        "compiler": "solidity",
+        "symbol": "SLAB",
+        "complex": true
+    },
+    "0xc713e5E149D5D0715DcD1c156a020976e7E56B88": {
+        "balance": {
+            "target": "0xc713e5E149D5D0715DcD1c156a020976e7E56B88",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xc713e5E149D5D0715DcD1c156a020976e7E56B88",
+            "slot": 53
+        },
+        "symbol": "aMKR",
+        "complex": true
+    },
+    "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
+        "balance": {
+            "target": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
+            "slot": 5
+        },
+        "symbol": "DTH",
+        "complex": false
+    },
+    "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "symbol": "KISHU",
+        "complex": true
+    },
+    "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
+            "slot": 9
+        },
+        "compiler": "solidity",
+        "symbol": "NEC",
+        "complex": true
+    },
+    "0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F": {
+        "balance": {
+            "target": "0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F",
+            "slot": 2
+        },
+        "symbol": "WOZX",
+        "complex": false
+    },
+    "0x3b79a28264fC52c7b4CEA90558AA0B162f7Faf57": {
+        "balance": {
+            "target": "0x3b79a28264fC52c7b4CEA90558AA0B162f7Faf57",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x3b79a28264fC52c7b4CEA90558AA0B162f7Faf57",
+            "slot": 16
+        },
+        "symbol": "wMEMO",
+        "complex": false
+    },
+    "0x299698B4B44BD6d023981A7317798dEe12860834": {
+        "balance": {
+            "target": "0x299698B4B44BD6d023981A7317798dEe12860834",
+            "slot": 6
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x299698B4B44BD6d023981A7317798dEe12860834",
+            "slot": 4
+        },
+        "symbol": "NFP",
+        "complex": true
+    },
+    "0x28c5805B64d163588A909012a628b5a03c1041f9": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x28c5805B64d163588A909012a628b5a03c1041f9",
+            "slot": 5
+        },
+        "compiler": "solidity",
+        "symbol": "CHOPPER",
+        "complex": true
+    },
+    "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC": {
+        "balance": {
+            "target": "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC",
+            "slot": 2
+        },
+        "symbol": "HI",
+        "complex": false
+    },
+    "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa": {
+        "balance": {
+            "target": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
+            "slot": 2
+        },
+        "symbol": "POLS",
+        "complex": false
+    },
+    "0x798D1bE841a82a273720CE31c822C61a67a601C3": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x798D1bE841a82a273720CE31c822C61a67a601C3",
+            "slot": 162
+        },
+        "compiler": "solidity",
+        "symbol": "DIGG",
+        "complex": true
+    },
+    "0x5870700f1272a1AdbB87C3140bD770880a95e55D": {
+        "balance": {
+            "target": "0x5870700f1272a1AdbB87C3140bD770880a95e55D",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x5870700f1272a1AdbB87C3140bD770880a95e55D",
+            "slot": 12
+        },
+        "symbol": "BIFI",
+        "complex": false
+    },
+    "0xB29130CBcC3F791f077eAdE0266168E808E5151e": {
+        "balance": {
+            "target": "0xB29130CBcC3F791f077eAdE0266168E808E5151e",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xB29130CBcC3F791f077eAdE0266168E808E5151e",
+            "slot": 53
+        },
+        "symbol": "a1INCH",
+        "complex": true
+    },
+    "0x72B886d09C117654aB7dA13A14d603001dE0B777": {
+        "balance": {
+            "target": "0x72B886d09C117654aB7dA13A14d603001dE0B777",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x72B886d09C117654aB7dA13A14d603001dE0B777",
+            "slot": 3
+        },
+        "symbol": "XDEFI",
+        "complex": false
+    },
+    "0x6C5024Cd4F8A59110119C56f8933403A539555EB": {
+        "balance": {
+            "target": "0x6C5024Cd4F8A59110119C56f8933403A539555EB",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x6C5024Cd4F8A59110119C56f8933403A539555EB",
+            "slot": 53
+        },
+        "symbol": "aSUSD",
+        "complex": true
+    },
+    "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be": {
+        "balance": {
+            "target": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
+            "slot": 2
+        },
+        "symbol": "XFT",
+        "complex": false
+    },
+    "0xcD62b1C403fa761BAadFC74C525ce2B51780b184": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
+            "slot": 9
+        },
+        "compiler": "solidity",
+        "symbol": "ANJ",
+        "complex": true
+    },
+    "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78": {
+        "balance": {
+            "target": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78",
+            "slot": 2
+        },
+        "symbol": "ZCN",
+        "complex": false
+    },
+    "0x505B5eDa5E25a67E1c24A2BF1a527Ed9eb88Bf04": {
+        "balance": {
+            "target": "0x505B5eDa5E25a67E1c24A2BF1a527Ed9eb88Bf04",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x505B5eDa5E25a67E1c24A2BF1a527Ed9eb88Bf04",
+            "slot": 8
+        },
+        "symbol": "CWEB",
+        "complex": false
+    },
+    "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
+            "slot": 9
+        },
+        "compiler": "solidity",
+        "symbol": "SNT",
+        "complex": true
+    },
+    "0xA8b919680258d369114910511cc87595aec0be6D": {
+        "balance": {
+            "target": "0xA8b919680258d369114910511cc87595aec0be6D",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xA8b919680258d369114910511cc87595aec0be6D",
+            "slot": 9
+        },
+        "symbol": "LYXe",
+        "complex": false
+    },
+    "0x3b484b82567a09e2588A13D54D032153f0c0aEe0": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "symbol": "SOS",
+        "complex": true
+    },
+    "0x5165d24277cD063F5ac44Efd447B27025e888f37": {
+        "balance": {
+            "target": "0x5165d24277cD063F5ac44Efd447B27025e888f37",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x5165d24277cD063F5ac44Efd447B27025e888f37",
+            "slot": 53
+        },
+        "symbol": "aYFI",
+        "complex": true
+    },
+    "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428": {
+        "balance": {
+            "target": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+            "slot": 2
+        },
+        "symbol": "MFT",
+        "complex": false
+    },
+    "0xFc979087305A826c2B2a0056cFAbA50aad3E6439": {
+        "balance": {
+            "target": "0xFc979087305A826c2B2a0056cFAbA50aad3E6439",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xFc979087305A826c2B2a0056cFAbA50aad3E6439",
+            "slot": 2
+        },
+        "symbol": "DAFI",
+        "complex": false
+    },
+    "0xD0Cd466b34A24fcB2f87676278AF2005Ca8A78c4": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xD0Cd466b34A24fcB2f87676278AF2005Ca8A78c4",
+            "slot": 9
+        },
+        "compiler": "solidity",
+        "symbol": "POP",
+        "complex": true
+    },
+    "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1": {
+        "balance": {
+            "target": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
+            "slot": 53
+        },
+        "symbol": "aUNI",
+        "complex": true
+    },
+    "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef": {
+        "balance": {
+            "target": "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
+            "slot": 53
+        },
+        "symbol": "aENJ",
+        "complex": true
+    },
+    "0x028171bCA77440897B824Ca71D1c56caC55b68A3": {
+        "balance": {
+            "target": "0x028171bCA77440897B824Ca71D1c56caC55b68A3",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x028171bCA77440897B824Ca71D1c56caC55b68A3",
+            "slot": 53
+        },
+        "symbol": "aDAI",
+        "complex": true
+    },
+    "0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e": {
+        "balance": {
+            "target": "0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e",
+            "slot": 53
+        },
+        "symbol": "aZRX",
+        "complex": true
+    },
+    "0x08d967bb0134F2d07f7cfb6E246680c53927DD30": {
+        "balance": {
+            "target": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+            "slot": 2
+        },
+        "symbol": "MATH",
+        "complex": false
+    },
+    "0xD478161C952357F05f0292B56012Cd8457F1cfbF": {
+        "balance": {
+            "target": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
+            "slot": 2
+        },
+        "symbol": "POLK",
+        "complex": false
+    },
+    "0xB26631c6dda06aD89B93C71400D25692de89c068": {
+        "balance": {
+            "target": "0xB26631c6dda06aD89B93C71400D25692de89c068",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xB26631c6dda06aD89B93C71400D25692de89c068",
+            "slot": 2
+        },
+        "symbol": "MINDS",
+        "complex": false
+    },
+    "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E": {
+        "balance": {
+            "target": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+            "slot": 6
+        },
+        "symbol": "ILV",
+        "complex": false
+    },
+    "0x7825e833D495F3d1c28872415a4aee339D26AC88": {
+        "balance": {
+            "target": "0x7825e833D495F3d1c28872415a4aee339D26AC88",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x7825e833D495F3d1c28872415a4aee339D26AC88",
+            "slot": 9
+        },
+        "symbol": "TLOS",
+        "complex": false
+    },
+    "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e": {
+        "balance": {
+            "target": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+            "slot": 6
+        },
+        "symbol": "ELF",
+        "complex": false
+    },
+    "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b": {
+        "balance": {
+            "target": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+            "slot": 2
+        },
+        "symbol": "CRO",
+        "complex": false
+    },
+    "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442": {
+        "balance": {
+            "target": "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
+            "slot": 5
+        },
+        "symbol": "Skey",
+        "complex": false
+    },
+    "0x916c5DE09cF63f6602d1e1793FB41F6437814A62": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x916c5DE09cF63f6602d1e1793FB41F6437814A62",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "symbol": "JACY",
+        "complex": true
+    },
+    "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e": {
+        "balance": {
+            "target": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+            "slot": 52
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+            "slot": 53
+        },
+        "symbol": "aWETH",
+        "complex": false
+    },
+    "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656": {
+        "balance": {
+            "target": "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656",
+            "slot": 52
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656",
+            "slot": 53
+        },
+        "symbol": "aWBTC",
+        "complex": false
+    },
+    "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0": {
+        "balance": {
+            "target": "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
+            "slot": 52
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
+            "slot": 53
+        },
+        "symbol": "aLINK",
+        "complex": false
+    },
+    "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
+        "balance": {
+            "target": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            "slot": 2
+        },
+        "symbol": "WBTC",
+        "complex": false
+    },
+    "0x3F382DbD960E3a9bbCeaE22651E88158d2791550": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+            "slot": 9
+        },
+        "compiler": "solidity",
+        "symbol": "GHST",
+        "complex": true
+    },
+    "0xE9A95d175a5f4C9369f3b74222402eB1b837693b": {
+        "balance": {
+            "target": "0xE9A95d175a5f4C9369f3b74222402eB1b837693b",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xE9A95d175a5f4C9369f3b74222402eB1b837693b",
+            "slot": 2
+        },
+        "symbol": "NOW",
+        "complex": false
+    },
+    "0xfc82bb4ba86045Af6F327323a46E80412b91b27d": {
+        "balance": {
+            "target": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
+            "slot": 2
+        },
+        "symbol": "PROM",
+        "complex": false
+    },
+    "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
+            "slot": 9
+        },
+        "compiler": "solidity",
+        "symbol": "CND",
+        "complex": true
+    },
+    "0xcca0c9c383076649604eE31b20248BC04FdF61cA": {
+        "balance": {
+            "target": "0xcca0c9c383076649604eE31b20248BC04FdF61cA",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xcca0c9c383076649604eE31b20248BC04FdF61cA",
+            "slot": 2
+        },
+        "symbol": "BTMX",
+        "complex": true
+    },
+    "0x07Ac55797D4F43f57cA92a49E65ca582cC287c27": {
+        "balance": {
+            "target": "0x07Ac55797D4F43f57cA92a49E65ca582cC287c27",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x07Ac55797D4F43f57cA92a49E65ca582cC287c27",
+            "slot": 52
+        },
+        "symbol": "TBT",
+        "complex": true
+    },
+    "0xBC86727E770de68B1060C91f6BB6945c73e10388": {
+        "balance": {
+            "target": "0xBC86727E770de68B1060C91f6BB6945c73e10388",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xBC86727E770de68B1060C91f6BB6945c73e10388",
+            "slot": 2
+        },
+        "symbol": "XNK",
+        "complex": false
+    },
+    "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a": {
+        "balance": {
+            "target": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
+            "slot": 53
+        },
+        "symbol": "aREN",
+        "complex": true
+    },
+    "0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13": {
+        "balance": {
+            "target": "0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13",
+            "slot": 1
+        },
+        "symbol": "STAK",
+        "complex": false
+    },
+    "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7": {
+        "balance": {
+            "target": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
+            "slot": 8
+        },
+        "symbol": "SKL",
+        "complex": false
+    },
+    "0x389999216860AB8E0175387A0c90E5c52522C945": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x389999216860AB8E0175387A0c90E5c52522C945",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "symbol": "FEG",
+        "complex": true
+    },
+    "0xfb40e79E56cc7D406707B66C4Fd175E07EB2Ae3C": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xfb40e79E56cc7D406707B66C4Fd175E07EB2Ae3C",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "symbol": "ROTTS",
+        "complex": true
+    },
+    "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86": {
+        "balance": {
+            "target": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+            "slot": 161
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+            "slot": 155
+        },
+        "symbol": "OUSD",
+        "complex": true
+    },
+    "0xb8b295df2cd735b15BE5Eb419517Aa626fc43cD5": {
+        "balance": {
+            "target": "0xb8b295df2cd735b15BE5Eb419517Aa626fc43cD5",
+            "slot": 252
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xb8b295df2cd735b15BE5Eb419517Aa626fc43cD5",
+            "slot": 52
+        },
+        "symbol": "stLINK",
+        "complex": false
+    },
+    "0xf680429328caaaCabee69b7A9FdB21a71419c063": {
+        "balance": {
+            "target": "0xf680429328caaaCabee69b7A9FdB21a71419c063",
+            "slot": 117
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xf680429328caaaCabee69b7A9FdB21a71419c063",
+            "slot": 59
+        },
+        "symbol": "BFLY",
+        "complex": true
+    },
+    "0x4946Fcea7C692606e8908002e55A582af44AC121": {
+        "balance": {
+            "target": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+            "slot": 3
+        },
+        "symbol": "FOAM",
+        "complex": false
+    },
+    "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589": {
+        "balance": {
+            "target": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
+            "slot": 2
+        },
+        "symbol": "SALE",
+        "complex": false
+    },
+    "0x67c597624B17b16fb77959217360B7cD18284253": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x67c597624B17b16fb77959217360B7cD18284253",
+            "slot": 9
+        },
+        "compiler": "solidity",
+        "symbol": "MARK",
+        "complex": true
+    },
+    "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A": {
+        "balance": {
+            "target": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
+            "slot": 2
+        },
+        "symbol": "BEPRO",
+        "complex": false
+    },
+    "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac": {
+        "balance": {
+            "target": "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac",
+            "slot": 96
+        },
+        "compiler": "vyper",
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "BSL",
+        "complex": true
+    },
+    "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811": {
+        "balance": {
+            "target": "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811",
+            "slot": 53
+        },
+        "symbol": "aUSDT",
+        "complex": true
+    },
+    "0xf911a7ec46a2c6fa49193212fe4a2a9B95851c27": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xf911a7ec46a2c6fa49193212fe4a2a9B95851c27",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "symbol": "XAMP",
+        "complex": true
+    },
+    "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24": {
+        "balance": {
+            "target": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+            "slot": 5
+        },
+        "symbol": "RNDR",
+        "complex": false
+    },
+    "0x5166E09628b696285E3A151e84FB977736a83575": {
+        "balance": {
+            "target": "0x5166E09628b696285E3A151e84FB977736a83575",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x5166E09628b696285E3A151e84FB977736a83575",
+            "slot": 4
+        },
+        "symbol": "VOL",
+        "complex": false
+    },
+    "0x7121D00b4fA18F13Da6c2e30d19C04844E6AfDC8": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x7121D00b4fA18F13Da6c2e30d19C04844E6AfDC8",
+            "slot": 5
+        },
+        "compiler": "solidity",
+        "symbol": "LUFFY",
+        "complex": true
+    },
+    "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA": {
+        "balance": {
+            "target": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+            "slot": 3
+        },
+        "symbol": "ORBS",
+        "complex": false
+    },
+    "0xc50EF449171a51FbeAFd7c562b064B6471C36caA": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xc50EF449171a51FbeAFd7c562b064B6471C36caA",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "symbol": "ZINU",
+        "complex": true
+    },
+    "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26": {
+        "balance": {
+            "target": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+            "slot": 2
+        },
+        "symbol": "OGN",
+        "complex": false
+    },
+    "0x147faF8De9d8D8DAAE129B187F0D02D819126750": {
+        "balance": {
+            "target": "0x147faF8De9d8D8DAAE129B187F0D02D819126750",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x147faF8De9d8D8DAAE129B187F0D02D819126750",
+            "slot": 10
+        },
+        "symbol": "GEO",
+        "complex": false
+    },
+    "0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB": {
+        "balance": {
+            "target": "0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB",
+            "slot": 9
+        },
+        "symbol": "BLOCKS",
+        "complex": false
+    },
+    "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8": {
+        "balance": {
+            "target": "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8",
+            "slot": 2
+        },
+        "symbol": "MCX",
+        "complex": false
+    },
+    "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695": {
+        "balance": {
+            "target": "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
+            "slot": 2
+        },
+        "symbol": "PBR",
+        "complex": false
+    },
+    "0x101cc05f4A51C0319f570d5E146a8C625198e636": {
+        "balance": {
+            "target": "0x101cc05f4A51C0319f570d5E146a8C625198e636",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x101cc05f4A51C0319f570d5E146a8C625198e636",
+            "slot": 53
+        },
+        "symbol": "aTUSD",
+        "complex": true
+    },
+    "0xD5a14081a34d256711B02BbEf17E567da48E80b5": {
+        "balance": {
+            "target": "0xD5a14081a34d256711B02BbEf17E567da48E80b5",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xD5a14081a34d256711B02BbEf17E567da48E80b5",
+            "slot": 12
+        },
+        "symbol": "wUSDR",
+        "complex": false
+    },
+    "0x967Fb0D760ED3ce53AfE2f0A071674cccAe73550": {
+        "balance": {
+            "target": "0x967Fb0D760ED3ce53AfE2f0A071674cccAe73550",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x967Fb0D760ED3ce53AfE2f0A071674cccAe73550",
+            "slot": 12
+        },
+        "symbol": "XETA",
+        "complex": false
+    },
+    "0x8E870D67F660D95d5be530380D0eC0bd388289E1": {
+        "balance": {
+            "target": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+            "slot": 3
+        },
+        "symbol": "USDP",
+        "complex": false
+    },
+    "0xa685a61171bb30d4072B338c80Cb7b2c865c873E": {
+        "balance": {
+            "target": "0xa685a61171bb30d4072B338c80Cb7b2c865c873E",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xa685a61171bb30d4072B338c80Cb7b2c865c873E",
+            "slot": 53
+        },
+        "symbol": "aMANA",
+        "complex": true
+    },
+    "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA": {
+        "balance": {
+            "target": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA",
+            "slot": 9
+        },
+        "symbol": "HOPR",
+        "complex": false
+    },
+    "0x1d37986F252d0e349522EA6C3B98Cb935495E63E": {
+        "balance": {
+            "target": "0x1d37986F252d0e349522EA6C3B98Cb935495E63E",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x1d37986F252d0e349522EA6C3B98Cb935495E63E",
+            "slot": 2
+        },
+        "symbol": "CHART",
+        "complex": false
+    },
+    "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361": {
+        "balance": {
+            "target": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+            "slot": 6
+        },
+        "symbol": "MYST",
+        "complex": false
+    },
+    "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0": {
+        "balance": {
+            "target": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+            "slot": 6
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+            "slot": 8
+        },
+        "symbol": "USDN",
+        "complex": false
+    },
+    "0x1c48f86ae57291F7686349F12601910BD8D470bb": {
+        "balance": {
+            "target": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
+            "slot": 3
+        },
+        "symbol": "USDK",
+        "complex": false
+    },
+    "0x56d811088235F11C8920698a204A5010a788f4b3": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x56d811088235F11C8920698a204A5010a788f4b3",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "symbol": "BZRX",
+        "complex": true
+    },
+    "0xDc5864eDe28BD4405aa04d93E05A0531797D9D59": {
+        "balance": {
+            "target": "0xDc5864eDe28BD4405aa04d93E05A0531797D9D59",
+            "slot": 5
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xDc5864eDe28BD4405aa04d93E05A0531797D9D59",
+            "slot": 7
+        },
+        "symbol": "FNT",
+        "complex": false
+    },
+    "0xE1c7E30C42C24582888C758984f6e382096786bd": {
+        "balance": {
+            "target": "0xE1c7E30C42C24582888C758984f6e382096786bd",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xE1c7E30C42C24582888C758984f6e382096786bd",
+            "slot": 6
+        },
+        "symbol": "XCUR",
+        "complex": false
+    },
+    "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf": {
+        "balance": {
+            "target": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
+            "slot": 2
+        },
+        "symbol": "GEN",
+        "complex": false
+    },
+    "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+            "slot": 9
+        },
+        "compiler": "solidity",
+        "symbol": "PNK",
+        "complex": true
+    },
+    "0x535321013A1E2D5aF3B1853812a64CA3fc6C1fa1": {
+        "balance": {
+            "target": "0x535321013A1E2D5aF3B1853812a64CA3fc6C1fa1",
+            "slot": 252
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x535321013A1E2D5aF3B1853812a64CA3fc6C1fa1",
+            "slot": 52
+        },
+        "symbol": "ixETH",
+        "complex": false
+    },
+    "0x6Dca182ac5E3f99985bC4Ee0f726d6472aB1ec55": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x6Dca182ac5E3f99985bC4Ee0f726d6472aB1ec55",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "symbol": "USHI",
+        "complex": true
+    },
+    "0x57700244B20f84799a31c6C96DadFF373ca9D6c5": {
+        "balance": {
+            "target": "0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
+            "slot": 5
+        },
+        "symbol": "TRUST",
+        "complex": false
+    },
+    "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD": {
+        "balance": {
+            "target": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+            "slot": 10
+        },
+        "symbol": "PNT",
+        "complex": false
+    },
+    "0xAC57De9C1A09FeC648E93EB98875B212DB0d460B": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xAC57De9C1A09FeC648E93EB98875B212DB0d460B",
+            "slot": 5
+        },
+        "compiler": "solidity",
+        "symbol": "BabyDoge",
+        "complex": true
+    },
+    "0x3a1311B8C404629E38f61D566cefEFed083B9670": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x3a1311B8C404629E38f61D566cefEFed083B9670",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "symbol": "PINU",
+        "complex": true
+    },
+    "0x6F9C26Fa731C7Ea4139Fa669962Cf8F1CE6C8b0B": {
+        "balance": {
+            "target": "0x6F9C26Fa731C7Ea4139Fa669962Cf8F1CE6C8b0B",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x6F9C26Fa731C7Ea4139Fa669962Cf8F1CE6C8b0B",
+            "slot": 12
+        },
+        "symbol": "OATH",
+        "complex": false
+    },
+    "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
+        "balance": {
+            "target": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "slot": 5
+        },
+        "symbol": "USDT",
+        "complex": true
+    },
+    "0x5228a22e72ccC52d415EcFd199F99D0665E7733b": {
+        "balance": {
+            "target": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
+            "slot": 8
+        },
+        "symbol": "pBTC",
+        "complex": false
+    },
+    "0x07150e919B4De5fD6a63DE1F9384828396f25fDC": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x07150e919B4De5fD6a63DE1F9384828396f25fDC",
+            "slot": 207
+        },
+        "compiler": "solidity",
+        "symbol": "BASE",
+        "complex": true
+    },
+    "0xB56A1f3310578f23120182Fb2e58c087EFE6e147": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xB56A1f3310578f23120182Fb2e58c087EFE6e147",
+            "slot": 9
+        },
+        "compiler": "solidity",
+        "symbol": "ACYC",
+        "complex": true
+    },
+    "0xf50a07e4FF052A14f3f608DA8936D8AE0Ed5bE50": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xf50a07e4FF052A14f3f608DA8936D8AE0Ed5bE50",
+            "slot": 7
+        },
+        "compiler": "solidity",
+        "symbol": "FLOKIPUP",
+        "complex": true
+    },
+    "0xE7f58A92476056627f9FdB92286778aBd83b285F": {
+        "balance": {
+            "target": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
+            "slot": 91
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
+            "slot": 153
+        },
+        "symbol": "DWEB",
+        "complex": true
+    },
+    "0xCd7492db29E2ab436e819b249452EE1bbDf52214": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xCd7492db29E2ab436e819b249452EE1bbDf52214",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "symbol": "SMI",
+        "complex": true
+    },
+    "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe": {
+        "balance": {
+            "target": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
+            "slot": 2
+        },
+        "symbol": "USDS",
+        "complex": false
     }
 }

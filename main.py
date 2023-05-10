@@ -30,7 +30,7 @@ def chunks(ll, n):
         yield ll[i : i + n]
 
 
-async def main(skip_search=False):
+async def main(skip_search=False, force_sim=False):
     t1 = t0 = time.time()
     tokens_url = os.getenv("TOKEN_LIST_URL")
     token_holders_url = os.getenv("TOKEN_HOLDERS_URL")
@@ -56,7 +56,7 @@ async def main(skip_search=False):
     #     },
     # }
 
-    # tokens_list = ["0xA64dFe8D86963151E6496BEe513E366F6e42ED79"]
+    # tokens_list = ["0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32"]
 
     tokens = [t for t in tokens_list if t.startswith("0x")]
 
@@ -154,9 +154,9 @@ async def main(skip_search=False):
     tokens = list(db.keys())
     token_chunks = chunks(tokens, 30)
 
-    owner = "0x2C01B4AD51a67E2d8F02208F54dF9aC4c0B778B6"
+    owner = "0xcdb90E5A0D06F35a71e96467e46aE1822510071E"
     recipient = "0xb634316E06cC0B358437CbadD4dC94F1D3a92B3b"
-    amount = 10**9
+    amount = 10**18
 
     ti = time.time()
 
@@ -166,7 +166,11 @@ async def main(skip_search=False):
             if token in SKIPS:
                 continue
 
-            if "complex" not in db[token]:
+            if (
+                force_sim
+                or "complex" not in db[token]
+                or ("complex" in db[token] and db[token]["complex"])
+            ):
                 coroutines.append(
                     TransferFromSim(token, owner, recipient, amount).simulate()
                 )
