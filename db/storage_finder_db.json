@@ -13147,7 +13147,7 @@
             "slot": 204
         },
         "symbol": "OUSG",
-        "complex": true
+        "complex": false
     },
     "0x3845badAde8e6dFF049820680d1F14bD3903a5d0": {
         "balance": {
@@ -13602,7 +13602,7 @@
             "slot": 18
         },
         "symbol": "ECC",
-        "complex": true
+        "complex": false
     },
     "0x941E1dEAc6c58391b266AB849cB7368d6a60910E": {
         "balance": {
