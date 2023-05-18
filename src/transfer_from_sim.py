@@ -14,6 +14,19 @@ w3 = AsyncWeb3(
 with open("./abis/erc20.json", "r", encoding="utf-8") as file:
     ABI = json.load(file)
 
+# `forced_simple_complexity` is a list of tokens with a `transferFrom`
+# implementation that does not output a bool AND that I've confirmed that a call
+# to `transferFrom` with the obtained overrides would yield a succesful tx.
+#
+# TODO: can this be automated?
+
+forced_simple_complexity = [
+    "0xdAC17F958D2ee523a2206206994597C13D831ec7",  # USDT
+    "0xF433089366899D83a9f26A773D59ec7eCF30355e",  # MTL
+    "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",  # OMG
+    "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",  # PLR
+]
+
 
 class TransferFromSim:
     logger = logging.getLogger(__name__)
@@ -89,11 +102,17 @@ class TransferFromSim:
             ).call({"from": self.to_address}, state_override=overrides)
             output = {"complex": not result}
         except BadFunctionCallOutput:
+            # The call failed because web3 was expecting a bool as output (as
+            # indicated in the ABI), but the function either return None or data
+            # that could not be decoded into a bool.
             self.logger.debug(
                 f"{self.token_address}->BadFunctionCallOutputError: Could not "
                 f"decode contract function call to transferFrom"
             )
-            output = {"complex": True}
+            if self.token_contract.address in forced_simple_complexity:
+                output = {"complex": False}
+            else:
+                output = {"complex": True}
         except Exception as error:
             self.logger.debug(
                 f"{self.token_address}->{error.args[0]['message']}"

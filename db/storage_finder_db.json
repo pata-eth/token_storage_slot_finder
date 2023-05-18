@@ -12524,7 +12524,7 @@
             "slot": 2
         },
         "symbol": "MTL",
-        "complex": true
+        "complex": false
     },
     "0xF59D66c1d593Fb10e2f8c2a6fD2C958792434B9c": {
         "balance": {
@@ -13979,7 +13979,7 @@
             "slot": 2
         },
         "symbol": "OMG",
-        "complex": true
+        "complex": false
     },
     "0x3a664Ab939FD8482048609f652f9a0B0677337B9": {
         "balance": {
@@ -19224,7 +19224,7 @@
             "slot": 2
         },
         "symbol": "PLR",
-        "complex": true
+        "complex": false
     },
     "0x04b727C7e246CA70d496ecF52E6b6280f3c8077D": {
         "balance": {
@@ -23110,7 +23110,7 @@
             "slot": 5
         },
         "symbol": "USDT",
-        "complex": true
+        "complex": false
     },
     "0x5228a22e72ccC52d415EcFd199F99D0665E7733b": {
         "balance": {
