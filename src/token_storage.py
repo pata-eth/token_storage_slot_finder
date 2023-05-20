@@ -1,5 +1,6 @@
 import logging
 import json
+import os
 from json import JSONDecodeError
 from enum import Enum
 from web3 import AsyncWeb3, AsyncHTTPProvider, Web3
@@ -9,7 +10,7 @@ from eth_abi import encode
 from hexbytes import HexBytes
 from collections import Counter
 
-node_url = "http://127.0.0.1:8545"  # forked rpc url
+node_url = os.getenv("RPC_URL_FORK")
 w3 = AsyncWeb3(
     AsyncHTTPProvider(node_url, request_kwargs={"timeout": 60 * 60 * 2})
 )

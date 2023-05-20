@@ -186,6 +186,20 @@ async def main(skip_search=False, force_sim=False):
 
     logger.info(f"transferFrom() sim took {t1-ti} secs")
 
+    # Log proportion of complex tokens
+    complex_tokens = []
+    for token, data in db.items():
+        if data["complex"]:
+            complex_tokens.append(token)
+
+    complex_pct = (len(complex_tokens)) / len(db) * 100
+
+    logger.info(
+        f"Complex tokens: {len(complex_tokens)} "
+        f"out of {len(TokenStorageBase.db)} "
+        f"({format(complex_pct,'.2f')}%)"
+    )
+
     with open(TokenStorageBase.db_file_path, "w", encoding="utf-8") as file:
         file.write(json.dumps(db, indent=4))
 

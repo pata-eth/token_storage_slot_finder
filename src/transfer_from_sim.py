@@ -1,11 +1,12 @@
 import logging
 import json
+import os
 from web3 import AsyncWeb3, AsyncHTTPProvider
 from web3.contract import Contract
 from web3.exceptions import BadFunctionCallOutput
 from src.storage_overrides import StorageOverrides, StorageType
 
-node_url = "http://127.0.0.1:8545"  # rpc url
+node_url = os.getenv("RPC_URL_FORK")
 w3 = AsyncWeb3(
     AsyncHTTPProvider(node_url, request_kwargs={"timeout": 60 * 60 * 2})
 )
@@ -26,6 +27,7 @@ forced_simple_complexity = [
     "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",  # OMG
     "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",  # PLR
     "0x372d5d02c6b4075bd58892f80300cA590e92d29E",  # tOUSG permissioned
+    "0x1dD7950c266fB1be96180a8FDb0591F70200E018",  # fOUSG permissioned
 ]
 
 
@@ -100,8 +102,11 @@ class TransferFromSim:
         try:
             result = await self.token_contract.functions.transferFrom(
                 self.from_address, self.to_address, self.amount
-            ).call({"from": self.to_address}, state_override=overrides)
-            output = {"complex": not result}
+            ).call(
+                {"from": self.to_address},
+                state_override=overrides,
+            )
+
         except BadFunctionCallOutput:
             # The call failed because web3 was expecting a bool as output (as
             # indicated in the ABI), but the function either return None or data
@@ -111,13 +116,18 @@ class TransferFromSim:
                 f"decode contract function call to transferFrom"
             )
             if self.token_contract.address in forced_simple_complexity:
-                output = {"complex": False}
+                result = True
             else:
-                output = {"complex": True}
+                result = False
         except Exception as error:
             self.logger.debug(
                 f"{self.token_address}->{error.args[0]['message']}"
             )
-            output = {"complex": True}
+            result = False
 
-        return {self.token_address: output}
+        self.logger.info(
+            f"{self.token_contract.address} is"
+            f"{' not ' if result else ' '}complex"
+        )
+
+        return {self.token_address: {"complex": not result}}

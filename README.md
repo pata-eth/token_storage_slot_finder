@@ -33,9 +33,10 @@ Needs a ganache fork running before `main.py` is run:
 
 ```
 # written with ganache >=7.03
+source .env
 ganache-cli --chain.vmErrorsOnRPCResponse true --wallet.totalAccounts 0 \
 --hardfork istanbul \
---fork.url <your mainnet rpc url> \
+--fork.url ${RPC_URL} \
 --server.port 8545 --chain.chainId 1
 ```
 
