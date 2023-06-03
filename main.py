@@ -30,7 +30,7 @@ def chunks(ll, n):
         yield ll[i : i + n]
 
 
-async def main(skip_search=False, force_sim=False):
+async def main(delta_only=True, skip_search=True, force_sim=False):
     t1 = t0 = time.time()
     tokens_url = os.getenv("TOKEN_LIST_URL")
     token_holders_url = os.getenv("TOKEN_HOLDERS_URL")
@@ -78,11 +78,18 @@ async def main(skip_search=False, force_sim=False):
             if token in SKIPS:
                 continue
 
+            if delta_only and token in TokenStorageBase.db:
+                continue
+
             if token in token_holders:
                 for owner in token_holders[token]:
                     owner = Web3.to_checksum_address(owner)
                     contract = w3.eth.contract(address=token, abi=ABI)
-                    bal = await contract.functions.balanceOf(owner).call()
+                    try:
+                        bal = await contract.functions.balanceOf(owner).call()
+                    except Exception as error:
+                        logger.warning(f"Holder balance {error=}")
+                        continue
                     if bal > 0:
                         break
 
@@ -152,11 +159,16 @@ async def main(skip_search=False, force_sim=False):
         db = json.load(file)
 
     tokens = list(db.keys())
+    # tokens = ["0xD533a949740bb3306d119CC777fa900bA034cd52"]
     token_chunks = chunks(tokens, 30)
 
-    owner = "0xcdb90E5A0D06F35a71e96467e46aE1822510071E"
-    recipient = "0xb634316E06cC0B358437CbadD4dC94F1D3a92B3b"
-    amount = 10**18
+    owner = Web3.to_checksum_address(
+        "0xb634316E06cC0B358437CbadD4dC94F1D3a92B3b"
+    )
+    recipient = Web3.to_checksum_address(
+        "0xc1e3Ca8A3921719bE0aE3690A0e036feB4f69191"
+    )
+    amount = 10**12
 
     ti = time.time()
 

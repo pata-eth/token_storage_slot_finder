@@ -7338,7 +7338,7 @@
             "slot": 1
         },
         "symbol": "BCT",
-        "complex": true
+        "complex": false
     },
     "0x7713DD9Ca933848F6819F38B8352D9A15EA73F67": {
         "balance": {
@@ -9859,7 +9859,7 @@
             "slot": 4
         },
         "symbol": "NFP",
-        "complex": true
+        "complex": false
     },
     "0x6CFaF95457d7688022FC53e7AbE052ef8DFBbdBA": {
         "balance": {
@@ -14859,7 +14859,7 @@
             "slot": 18
         },
         "symbol": "ECC",
-        "complex": true
+        "complex": false
     },
     "0x941E1dEAc6c58391b266AB849cB7368d6a60910E": {
         "balance": {
@@ -15665,7 +15665,7 @@
             "slot": 1
         },
         "symbol": "FXS",
-        "complex": true
+        "complex": false
     },
     "0x67b532d47A31CE1eD0800E6913dbf5F6e9C48a18": {
         "balance": {
@@ -23119,6 +23119,3343 @@
             "slot": 1
         },
         "symbol": "HAKA",
+        "complex": false
+    },
+    "0x1C97e67Dc7ca179aE82E0c4AFF4Af9ff66612A43": {
+        "balance": {
+            "target": "0x1C97e67Dc7ca179aE82E0c4AFF4Af9ff66612A43",
+            "slot": 7
+        },
+        "compiler": "vyper",
+        "allowance": {
+            "target": "0x1C97e67Dc7ca179aE82E0c4AFF4Af9ff66612A43",
+            "slot": 8
+        },
+        "symbol": "yvCurve-PAL-ETH-f",
+        "complex": false
+    },
+    "0xb8502F3cD879956D07D191f312a3EF2D67FD4eb6": {
+        "balance": {
+            "target": "0xb8502F3cD879956D07D191f312a3EF2D67FD4eb6",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xb8502F3cD879956D07D191f312a3EF2D67FD4eb6",
+            "slot": 1
+        },
+        "symbol": "HAPPY",
+        "complex": false
+    },
+    "0xe1eB8D840107F93C1944e1347dC006b3E3cF7fFB": {
+        "balance": {
+            "target": "0xe1eB8D840107F93C1944e1347dC006b3E3cF7fFB",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xe1eB8D840107F93C1944e1347dC006b3E3cF7fFB",
+            "slot": 2
+        },
+        "symbol": "YIN",
+        "complex": false
+    },
+    "0x664F8Cbf877bF40e5d21dF5545eBf5E4dC840AA6": {
+        "balance": {
+            "target": "0x664F8Cbf877bF40e5d21dF5545eBf5E4dC840AA6",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x664F8Cbf877bF40e5d21dF5545eBf5E4dC840AA6",
+            "slot": 1
+        },
+        "symbol": "BOTS",
+        "complex": false
+    },
+    "0xaAfD350BeD11C4d8db07517b4c743457F4904b18": {
+        "balance": {
+            "target": "0xaAfD350BeD11C4d8db07517b4c743457F4904b18",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xaAfD350BeD11C4d8db07517b4c743457F4904b18",
+            "slot": 2
+        },
+        "symbol": "AOL",
+        "complex": false
+    },
+    "0x29B5F207Ed7Ff7D8DA8a5b1FfaE30D8DC91Be46f": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x29B5F207Ed7Ff7D8DA8a5b1FfaE30D8DC91Be46f",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "symbol": "SHIZU",
+        "complex": true
+    },
+    "0x511686014F39F487E5CDd5C37B4b37606B795ae3": {
+        "balance": {
+            "target": "0x511686014F39F487E5CDd5C37B4b37606B795ae3",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x511686014F39F487E5CDd5C37B4b37606B795ae3",
+            "slot": 2
+        },
+        "symbol": "LOYAL",
+        "complex": false
+    },
+    "0xBF9FC0f532513767D09B8F2b74c6Db9Cb0f2b342": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "SUBLIME",
+        "complex": true
+    },
+    "0xC9d8813651f6862752025927e3d56a1e60d40fb9": {
+        "balance": {
+            "target": "0xC9d8813651f6862752025927e3d56a1e60d40fb9",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xC9d8813651f6862752025927e3d56a1e60d40fb9",
+            "slot": 2
+        },
+        "symbol": "X",
+        "complex": false
+    },
+    "0x12970E6868f88f6557B76120662c1B3E50A646bf": {
+        "balance": {
+            "target": "0x12970E6868f88f6557B76120662c1B3E50A646bf",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x12970E6868f88f6557B76120662c1B3E50A646bf",
+            "slot": 2
+        },
+        "symbol": "LADYS",
+        "complex": false
+    },
+    "0xd311CaD40E87bf27118f01Ab79ce26C4549c8073": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "XIEXIE",
+        "complex": true
+    },
+    "0x55fB228730ED971269EBF284C7500d5fF572A141": {
+        "balance": {
+            "target": "0x55fB228730ED971269EBF284C7500d5fF572A141",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x55fB228730ED971269EBF284C7500d5fF572A141",
+            "slot": 1
+        },
+        "symbol": " PEPECOLA",
+        "complex": false
+    },
+    "0x319BD40D0887f3AFbc62dA7D82Ffe51087e97169": {
+        "balance": {
+            "target": "0x319BD40D0887f3AFbc62dA7D82Ffe51087e97169",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x319BD40D0887f3AFbc62dA7D82Ffe51087e97169",
+            "slot": 2
+        },
+        "symbol": "ETHAN",
+        "complex": false
+    },
+    "0xA876f27F13A9eB6E621202cEFDD5AFc4a90E6457": {
+        "balance": {
+            "target": "0xA876f27F13A9eB6E621202cEFDD5AFc4a90E6457",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xA876f27F13A9eB6E621202cEFDD5AFc4a90E6457",
+            "slot": 1
+        },
+        "symbol": "IC",
+        "complex": false
+    },
+    "0xe798bB61F3D1AF2eb3Beaf7ed98c5AA02900c399": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "SINK",
+        "complex": true
+    },
+    "0x370a366f402e2e41CDBbE54EcEC12aaE0cce1955": {
+        "balance": {
+            "target": "0x370a366f402e2e41CDBbE54EcEC12aaE0cce1955",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x370a366f402e2e41CDBbE54EcEC12aaE0cce1955",
+            "slot": 1
+        },
+        "symbol": "TOAD",
+        "complex": false
+    },
+    "0xB7Dc9F19Bb17DaeEb6F58d2c7538f54AC28c33Ab": {
+        "balance": {
+            "target": "0xB7Dc9F19Bb17DaeEb6F58d2c7538f54AC28c33Ab",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xB7Dc9F19Bb17DaeEb6F58d2c7538f54AC28c33Ab",
+            "slot": 2
+        },
+        "symbol": "Gazi",
+        "complex": false
+    },
+    "0x02D3A27Ac3f55d5D91Fb0f52759842696a864217": {
+        "balance": {
+            "target": "0x02D3A27Ac3f55d5D91Fb0f52759842696a864217",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x02D3A27Ac3f55d5D91Fb0f52759842696a864217",
+            "slot": 1
+        },
+        "symbol": "IONX",
+        "complex": false
+    },
+    "0xe0A458BF4AcF353cB45e211281A334BB1d837885": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xe0A458BF4AcF353cB45e211281A334BB1d837885",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "symbol": "4CHAN",
+        "complex": true
+    },
+    "0x0F79138aFe3E907A4186C6Cb59e7847b358B2717": {
+        "balance": {
+            "target": "0x0F79138aFe3E907A4186C6Cb59e7847b358B2717",
+            "slot": 5
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x0F79138aFe3E907A4186C6Cb59e7847b358B2717",
+            "slot": 6
+        },
+        "symbol": "MARY",
+        "complex": false
+    },
+    "0x4052Bc732658Da889D45A5dFdd87ff7D5c9a0269": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "BOBA",
+        "complex": true
+    },
+    "0x735Bfe8e8C44091dA7edE46A679bbB16dB172ebc": {
+        "balance": {
+            "target": "0x735Bfe8e8C44091dA7edE46A679bbB16dB172ebc",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x735Bfe8e8C44091dA7edE46A679bbB16dB172ebc",
+            "slot": 2
+        },
+        "symbol": "USA",
+        "complex": false
+    },
+    "0x693C216aA181EbF776730d16C7ba06842548415E": {
+        "balance": {
+            "target": "0x693C216aA181EbF776730d16C7ba06842548415E",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x693C216aA181EbF776730d16C7ba06842548415E",
+            "slot": 2
+        },
+        "symbol": "PAPI",
+        "complex": false
+    },
+    "0x32b86b99441480a7E5BD3A26c124ec2373e3F015": {
+        "balance": {
+            "target": "0x32b86b99441480a7E5BD3A26c124ec2373e3F015",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x32b86b99441480a7E5BD3A26c124ec2373e3F015",
+            "slot": 1
+        },
+        "symbol": "BAD",
+        "complex": false
+    },
+    "0xD04E772BC0d591fBD288f2E2a86aFA3D3CB647F8": {
+        "balance": {
+            "target": "0xD04E772BC0d591fBD288f2E2a86aFA3D3CB647F8",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xD04E772BC0d591fBD288f2E2a86aFA3D3CB647F8",
+            "slot": 1
+        },
+        "symbol": "GPT",
+        "complex": false
+    },
+    "0x243cACb4D5fF6814AD668C3e225246efA886AD5a": {
+        "balance": {
+            "target": "0x243cACb4D5fF6814AD668C3e225246efA886AD5a",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x243cACb4D5fF6814AD668C3e225246efA886AD5a",
+            "slot": 1
+        },
+        "symbol": "SHI",
+        "complex": false
+    },
+    "0x6E4076C74097Cd49F3365bb83EBC93ed254963Ce": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "DIP",
+        "complex": true
+    },
+    "0xB17548c7B510427baAc4e267BEa62e800b247173": {
+        "balance": {
+            "target": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+            "slot": 1
+        },
+        "symbol": "SMT",
+        "complex": false
+    },
+    "0x8e0E57DCb1ce8d9091dF38ec1BfC3b224529754A": {
+        "balance": {
+            "target": "0x8e0E57DCb1ce8d9091dF38ec1BfC3b224529754A",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x8e0E57DCb1ce8d9091dF38ec1BfC3b224529754A",
+            "slot": 2
+        },
+        "symbol": "CAH",
+        "complex": false
+    },
+    "0x630e8EE379f049B7A609D025F0084b5989E5DA0D": {
+        "balance": {
+            "target": "0x630e8EE379f049B7A609D025F0084b5989E5DA0D",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x630e8EE379f049B7A609D025F0084b5989E5DA0D",
+            "slot": 2
+        },
+        "symbol": "\ud83d\udfe7",
+        "complex": false
+    },
+    "0x5Beb9e231a6C1870209b3FE3f13BF972fc1914D3": {
+        "balance": {
+            "target": "0x5Beb9e231a6C1870209b3FE3f13BF972fc1914D3",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x5Beb9e231a6C1870209b3FE3f13BF972fc1914D3",
+            "slot": 2
+        },
+        "symbol": "K9",
+        "complex": false
+    },
+    "0xAF4e629F231845e2c85701C846a43cb7135851ca": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "BOC",
+        "complex": true
+    },
+    "0x93eEB426782BD88fCD4B48D7b0368CF061044928": {
+        "balance": {
+            "target": "0x93eEB426782BD88fCD4B48D7b0368CF061044928",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x93eEB426782BD88fCD4B48D7b0368CF061044928",
+            "slot": 1
+        },
+        "symbol": "TRG",
+        "complex": false
+    },
+    "0xe9Da5E227e3Fa4Fc933b5f540BE021e7EcC3Fd81": {
+        "balance": {
+            "target": "0xe9Da5E227e3Fa4Fc933b5f540BE021e7EcC3Fd81",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xe9Da5E227e3Fa4Fc933b5f540BE021e7EcC3Fd81",
+            "slot": 2
+        },
+        "symbol": "GMFAM",
+        "complex": false
+    },
+    "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097": {
+        "balance": {
+            "target": "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097",
+            "slot": 2
+        },
+        "symbol": "RIO",
+        "complex": false
+    },
+    "0xc12D3Ee1744a733d95eA7BeDed98e3F156A29E2e": {
+        "balance": {
+            "target": "0xc12D3Ee1744a733d95eA7BeDed98e3F156A29E2e",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xc12D3Ee1744a733d95eA7BeDed98e3F156A29E2e",
+            "slot": 1
+        },
+        "symbol": "MELON",
+        "complex": false
+    },
+    "0x0766b0929256BaF0EA8C64862EA3068Cf6D12198": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "BREAD",
+        "complex": true
+    },
+    "0xEe24f8b6638Ad711105434FEe7A2bED911846d2F": {
+        "balance": {
+            "target": "0xEe24f8b6638Ad711105434FEe7A2bED911846d2F",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xEe24f8b6638Ad711105434FEe7A2bED911846d2F",
+            "slot": 1
+        },
+        "symbol": "TRIUNE",
+        "complex": false
+    },
+    "0xe1F756788ac2A53bF01C7Ff36f9D00848EBE0aa8": {
+        "balance": {
+            "target": "0xe1F756788ac2A53bF01C7Ff36f9D00848EBE0aa8",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xe1F756788ac2A53bF01C7Ff36f9D00848EBE0aa8",
+            "slot": 2
+        },
+        "symbol": "SPIDERPIG",
+        "complex": false
+    },
+    "0x40803cEA2b2A32BdA1bE61d3604af6a814E70976": {
+        "balance": {
+            "target": "0x40803cEA2b2A32BdA1bE61d3604af6a814E70976",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x40803cEA2b2A32BdA1bE61d3604af6a814E70976",
+            "slot": 1
+        },
+        "symbol": "SPOOL",
+        "complex": false
+    },
+    "0x375aBB85C329753b1Ba849a601438AE77eEc9893": {
+        "balance": {
+            "target": "0x375aBB85C329753b1Ba849a601438AE77eEc9893",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x375aBB85C329753b1Ba849a601438AE77eEc9893",
+            "slot": 1
+        },
+        "symbol": "PDT",
+        "complex": false
+    },
+    "0x9Dcd367e2AFA8D6e5d6Cf0306094E3Eb7BBAaf4d": {
+        "balance": {
+            "target": "0x9Dcd367e2AFA8D6e5d6Cf0306094E3Eb7BBAaf4d",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x9Dcd367e2AFA8D6e5d6Cf0306094E3Eb7BBAaf4d",
+            "slot": 1
+        },
+        "symbol": "BROS",
+        "complex": false
+    },
+    "0x8888A185D4d83d4249acF0F8D262AF2A5658B673": {
+        "balance": {
+            "target": "0x8888A185D4d83d4249acF0F8D262AF2A5658B673",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x8888A185D4d83d4249acF0F8D262AF2A5658B673",
+            "slot": 2
+        },
+        "symbol": "GAMBOL",
+        "complex": false
+    },
+    "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f": {
+        "balance": {
+            "target": "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f",
+            "slot": 4
+        },
+        "symbol": "OX",
+        "complex": false
+    },
+    "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9": {
+        "balance": {
+            "target": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
+            "slot": 2
+        },
+        "symbol": "BITCOIN",
+        "complex": false
+    },
+    "0xf8ebf4849F1Fa4FaF0DFF2106A173D3A6CB2eB3A": {
+        "balance": {
+            "target": "0xf8ebf4849F1Fa4FaF0DFF2106A173D3A6CB2eB3A",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xf8ebf4849F1Fa4FaF0DFF2106A173D3A6CB2eB3A",
+            "slot": 1
+        },
+        "symbol": "TROLL",
+        "complex": false
+    },
+    "0x1e4746dC744503b53b4A082cB3607B169a289090": {
+        "balance": {
+            "target": "0x1e4746dC744503b53b4A082cB3607B169a289090",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x1e4746dC744503b53b4A082cB3607B169a289090",
+            "slot": 1
+        },
+        "symbol": "IPOR",
+        "complex": false
+    },
+    "0xfF770E4c68e35DB85c6e0E89a43750eC02bDB2AC": {
+        "balance": {
+            "target": "0xfF770E4c68e35DB85c6e0E89a43750eC02bDB2AC",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xfF770E4c68e35DB85c6e0E89a43750eC02bDB2AC",
+            "slot": 1
+        },
+        "symbol": "oBTC",
+        "complex": false
+    },
+    "0xC2D753EEa393e4B238132b5231F51770E7bB99c8": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "WOW",
+        "complex": true
+    },
+    "0x2eCBa91da63C29EA80Fbe7b52632CA2d1F8e5Be0": {
+        "balance": {
+            "target": "0x2eCBa91da63C29EA80Fbe7b52632CA2d1F8e5Be0",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x2eCBa91da63C29EA80Fbe7b52632CA2d1F8e5Be0",
+            "slot": 1
+        },
+        "symbol": "ferc",
+        "complex": false
+    },
+    "0x2Dd1B9410c73E16b60240E529e38E30425F00d4E": {
+        "balance": {
+            "target": "0x2Dd1B9410c73E16b60240E529e38E30425F00d4E",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x2Dd1B9410c73E16b60240E529e38E30425F00d4E",
+            "slot": 1
+        },
+        "symbol": "Pacha",
+        "complex": false
+    },
+    "0x69846130091C734Ad4Aa88DDC5E5646A301E6bE4": {
+        "balance": {
+            "target": "0x69846130091C734Ad4Aa88DDC5E5646A301E6bE4",
+            "slot": 5
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x69846130091C734Ad4Aa88DDC5E5646A301E6bE4",
+            "slot": 6
+        },
+        "symbol": "BORS",
+        "complex": false
+    },
+    "0x49D72e3973900A195A155a46441F0C08179FdB64": {
+        "balance": {
+            "target": "0x49D72e3973900A195A155a46441F0C08179FdB64",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x49D72e3973900A195A155a46441F0C08179FdB64",
+            "slot": 1
+        },
+        "symbol": "CRETH2",
+        "complex": false
+    },
+    "0x820802Fa8a99901F52e39acD21177b0BE6EE2974": {
+        "balance": {
+            "target": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+            "slot": 52
+        },
+        "symbol": "EUROe",
+        "complex": false
+    },
+    "0xbbEaA8C2076dE71B23EA76962b6057ba5beab988": {
+        "balance": {
+            "target": "0xbbEaA8C2076dE71B23EA76962b6057ba5beab988",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xbbEaA8C2076dE71B23EA76962b6057ba5beab988",
+            "slot": 2
+        },
+        "symbol": "SOHA",
+        "complex": false
+    },
+    "0x1c26683D094Eb65317C2139fFa7134E0b49Acaff": {
+        "balance": {
+            "target": "0x1c26683D094Eb65317C2139fFa7134E0b49Acaff",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x1c26683D094Eb65317C2139fFa7134E0b49Acaff",
+            "slot": 2
+        },
+        "symbol": "ORANGE",
+        "complex": false
+    },
+    "0x60bE1e1fE41c1370ADaF5d8e66f07Cf1C2Df2268": {
+        "balance": {
+            "target": "0x60bE1e1fE41c1370ADaF5d8e66f07Cf1C2Df2268",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x60bE1e1fE41c1370ADaF5d8e66f07Cf1C2Df2268",
+            "slot": 1
+        },
+        "symbol": "PERC",
+        "complex": false
+    },
+    "0xa1A024629a6F2cc1AF4E1Fa674B70996374bF4e8": {
+        "balance": {
+            "target": "0xa1A024629a6F2cc1AF4E1Fa674B70996374bF4e8",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xa1A024629a6F2cc1AF4E1Fa674B70996374bF4e8",
+            "slot": 1
+        },
+        "symbol": "RR",
+        "complex": false
+    },
+    "0xBe00734799A67a62Af2819825580318aC1B1E4Ec": {
+        "balance": {
+            "target": "0xBe00734799A67a62Af2819825580318aC1B1E4Ec",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xBe00734799A67a62Af2819825580318aC1B1E4Ec",
+            "slot": 1
+        },
+        "symbol": "ORD",
+        "complex": false
+    },
+    "0xfAC77A24E52B463bA9857d6b758ba41aE20e31FF": {
+        "balance": {
+            "target": "0xfAC77A24E52B463bA9857d6b758ba41aE20e31FF",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xfAC77A24E52B463bA9857d6b758ba41aE20e31FF",
+            "slot": 52
+        },
+        "symbol": "LSD",
+        "complex": false
+    },
+    "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374": {
+        "balance": {
+            "target": "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374",
+            "slot": 1
+        },
+        "symbol": "FINALE",
+        "complex": false
+    },
+    "0xcB781689dE60d5C48037065a2cf5F837805fF133": {
+        "balance": {
+            "target": "0xcB781689dE60d5C48037065a2cf5F837805fF133",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xcB781689dE60d5C48037065a2cf5F837805fF133",
+            "slot": 2
+        },
+        "symbol": "SSB",
+        "complex": false
+    },
+    "0xF17A3fE536F8F7847F1385ec1bC967b2Ca9caE8D": {
+        "balance": {
+            "target": "0xF17A3fE536F8F7847F1385ec1bC967b2Ca9caE8D",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xF17A3fE536F8F7847F1385ec1bC967b2Ca9caE8D",
+            "slot": 52
+        },
+        "symbol": "AMKT",
+        "complex": false
+    },
+    "0x1EB9d0B78cE6717dFBbf89D4E9447927fed5B664": {
+        "balance": {
+            "target": "0x1EB9d0B78cE6717dFBbf89D4E9447927fed5B664",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x1EB9d0B78cE6717dFBbf89D4E9447927fed5B664",
+            "slot": 1
+        },
+        "symbol": "midwit",
+        "complex": false
+    },
+    "0x2aD9adDD0d97EC3cDBA27F92bF6077893b76Ab0b": {
+        "balance": {
+            "target": "0x2aD9adDD0d97EC3cDBA27F92bF6077893b76Ab0b",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x2aD9adDD0d97EC3cDBA27F92bF6077893b76Ab0b",
+            "slot": 1
+        },
+        "symbol": "PLANET",
+        "complex": false
+    },
+    "0xC3f9c8cF19f703BBBcdCd156d9823D5eBd13d475": {
+        "balance": {
+            "target": "0xC3f9c8cF19f703BBBcdCd156d9823D5eBd13d475",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xC3f9c8cF19f703BBBcdCd156d9823D5eBd13d475",
+            "slot": 1
+        },
+        "symbol": "PHANOS",
+        "complex": false
+    },
+    "0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb": {
+        "balance": {
+            "target": "0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb",
+            "slot": 1
+        },
+        "symbol": "PAN",
+        "complex": false
+    },
+    "0xcec76C16C207d5de7b5E15642bb0e272b558602c": {
+        "balance": {
+            "target": "0xcec76C16C207d5de7b5E15642bb0e272b558602c",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xcec76C16C207d5de7b5E15642bb0e272b558602c",
+            "slot": 2
+        },
+        "symbol": "SHEN16",
+        "complex": false
+    },
+    "0x3d5d3DCD01469eF8C6bC9C45665835814635c725": {
+        "balance": {
+            "target": "0x3d5d3DCD01469eF8C6bC9C45665835814635c725",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x3d5d3DCD01469eF8C6bC9C45665835814635c725",
+            "slot": 2
+        },
+        "symbol": "MRF",
+        "complex": false
+    },
+    "0x9DB0FB0Aebe6A925B7838D16e3993A3976A64AaB": {
+        "balance": {
+            "target": "0x9DB0FB0Aebe6A925B7838D16e3993A3976A64AaB",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x9DB0FB0Aebe6A925B7838D16e3993A3976A64AaB",
+            "slot": 1
+        },
+        "symbol": "BAM",
+        "complex": false
+    },
+    "0xFfD822149fA6749176C7a1424e71a417F26189C8": {
+        "balance": {
+            "target": "0xFfD822149fA6749176C7a1424e71a417F26189C8",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xFfD822149fA6749176C7a1424e71a417F26189C8",
+            "slot": 1
+        },
+        "symbol": "thing",
+        "complex": false
+    },
+    "0xd08623FB2A1f044025EEC65886011CF5D0F06B01": {
+        "balance": {
+            "target": "0xd08623FB2A1f044025EEC65886011CF5D0F06B01",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xd08623FB2A1f044025EEC65886011CF5D0F06B01",
+            "slot": 1
+        },
+        "symbol": "LARRY",
+        "complex": false
+    },
+    "0xf12954f76E8ADe85D747Da489f9888b5B5b337D8": {
+        "balance": {
+            "target": "0xf12954f76E8ADe85D747Da489f9888b5B5b337D8",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xf12954f76E8ADe85D747Da489f9888b5B5b337D8",
+            "slot": 1
+        },
+        "symbol": "BIBLE",
+        "complex": false
+    },
+    "0x6C4C193bff0a117F0C2B516802abbA961A1Eeb12": {
+        "balance": {
+            "target": "0x6C4C193bff0a117F0C2B516802abbA961A1Eeb12",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x6C4C193bff0a117F0C2B516802abbA961A1Eeb12",
+            "slot": 1
+        },
+        "symbol": "PAPA",
+        "complex": false
+    },
+    "0x18A2d15368c7f61fcB255C4b32DA6600BFDCa334": {
+        "balance": {
+            "target": "0x18A2d15368c7f61fcB255C4b32DA6600BFDCa334",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x18A2d15368c7f61fcB255C4b32DA6600BFDCa334",
+            "slot": 1
+        },
+        "symbol": "MATRIX",
+        "complex": false
+    },
+    "0x5E5A6618fd4bCf74A665aCA1bdA3Ae76E0961244": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x5E5A6618fd4bCf74A665aCA1bdA3Ae76E0961244",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "symbol": "TWTC",
+        "complex": true
+    },
+    "0x64D91f12Ece7362F91A6f8E7940Cd55F05060b92": {
+        "balance": {
+            "target": "0x64D91f12Ece7362F91A6f8E7940Cd55F05060b92",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x64D91f12Ece7362F91A6f8E7940Cd55F05060b92",
+            "slot": 3
+        },
+        "symbol": "ASH",
+        "complex": false
+    },
+    "0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b": {
+        "balance": {
+            "target": "0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b",
+            "slot": 1
+        },
+        "symbol": "EUL",
+        "complex": false
+    },
+    "0xd9dE8720C4DA133cC99DE248E47BCa1cA8323b2A": {
+        "balance": {
+            "target": "0xd9dE8720C4DA133cC99DE248E47BCa1cA8323b2A",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xd9dE8720C4DA133cC99DE248E47BCa1cA8323b2A",
+            "slot": 2
+        },
+        "symbol": "NOM",
+        "complex": false
+    },
+    "0x15F20f9DFDf96CCf6AC96653b7C0aBfe4A9C9f0f": {
+        "balance": {
+            "target": "0x15F20f9DFDf96CCf6AC96653b7C0aBfe4A9C9f0f",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x15F20f9DFDf96CCf6AC96653b7C0aBfe4A9C9f0f",
+            "slot": 2
+        },
+        "symbol": "WSB",
+        "complex": false
+    },
+    "0x0d02755a5700414B26FF040e1dE35D337DF56218": {
+        "balance": {
+            "target": "0x0d02755a5700414B26FF040e1dE35D337DF56218",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x0d02755a5700414B26FF040e1dE35D337DF56218",
+            "slot": 52
+        },
+        "symbol": "BEND",
+        "complex": false
+    },
+    "0x427A03Fb96D9A94A6727fbcfbBA143444090dd64": {
+        "balance": {
+            "target": "0x427A03Fb96D9A94A6727fbcfbBA143444090dd64",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x427A03Fb96D9A94A6727fbcfbBA143444090dd64",
+            "slot": 3
+        },
+        "symbol": "PIXL",
+        "complex": false
+    },
+    "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7": {
+        "balance": {
+            "target": "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7",
+            "slot": 1
+        },
+        "symbol": "TEXAN",
+        "complex": false
+    },
+    "0xE9F721E7419423f11863e83DbD710b5D6127b5b0": {
+        "balance": {
+            "target": "0xE9F721E7419423f11863e83DbD710b5D6127b5b0",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xE9F721E7419423f11863e83DbD710b5D6127b5b0",
+            "slot": 2
+        },
+        "symbol": "ePhiat",
+        "complex": false
+    },
+    "0x3446Dd70B2D52A6Bf4a5a192D9b0A161295aB7F9": {
+        "balance": {
+            "target": "0x3446Dd70B2D52A6Bf4a5a192D9b0A161295aB7F9",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x3446Dd70B2D52A6Bf4a5a192D9b0A161295aB7F9",
+            "slot": 1
+        },
+        "symbol": "SUDO",
+        "complex": false
+    },
+    "0x0D69905c0d4F694215f683B194e3e927E4E6a732": {
+        "balance": {
+            "target": "0x0D69905c0d4F694215f683B194e3e927E4E6a732",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x0D69905c0d4F694215f683B194e3e927E4E6a732",
+            "slot": 2
+        },
+        "symbol": "oAPE",
+        "complex": false
+    },
+    "0xF7F3b577C3f669382a82eDcA77eccC4342537423": {
+        "balance": {
+            "target": "0xF7F3b577C3f669382a82eDcA77eccC4342537423",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xF7F3b577C3f669382a82eDcA77eccC4342537423",
+            "slot": 2
+        },
+        "symbol": "WECHAT",
+        "complex": false
+    },
+    "0x17Db9eA10F54512f98333B59a6270620CC2b9B4c": {
+        "balance": {
+            "target": "0x17Db9eA10F54512f98333B59a6270620CC2b9B4c",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x17Db9eA10F54512f98333B59a6270620CC2b9B4c",
+            "slot": 1
+        },
+        "symbol": "niub",
+        "complex": false
+    },
+    "0x13639249119bA2857ce077c7501cD9c1170Ae844": {
+        "balance": {
+            "target": "0x13639249119bA2857ce077c7501cD9c1170Ae844",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x13639249119bA2857ce077c7501cD9c1170Ae844",
+            "slot": 1
+        },
+        "symbol": "PANDEBUG",
+        "complex": false
+    },
+    "0x9f6338b877c2A3CE26b48ED44724f1669b6973fE": {
+        "balance": {
+            "target": "0x9f6338b877c2A3CE26b48ED44724f1669b6973fE",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x9f6338b877c2A3CE26b48ED44724f1669b6973fE",
+            "slot": 1
+        },
+        "symbol": "TOID",
+        "complex": false
+    },
+    "0x7D8146cf21e8D7cbe46054e01588207b51198729": {
+        "balance": {
+            "target": "0x7D8146cf21e8D7cbe46054e01588207b51198729",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x7D8146cf21e8D7cbe46054e01588207b51198729",
+            "slot": 1
+        },
+        "symbol": "BOB",
+        "complex": false
+    },
+    "0x03713a041bB568F4B39de3B41FFBb24d074C992D": {
+        "balance": {
+            "target": "0x03713a041bB568F4B39de3B41FFBb24d074C992D",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x03713a041bB568F4B39de3B41FFBb24d074C992D",
+            "slot": 1
+        },
+        "symbol": "$CHINA",
+        "complex": false
+    },
+    "0x0fE0Ed7F146Cb12e4B9759afF4FA8d34571802ca": {
+        "balance": {
+            "target": "0x0fE0Ed7F146Cb12e4B9759afF4FA8d34571802ca",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x0fE0Ed7F146Cb12e4B9759afF4FA8d34571802ca",
+            "slot": 4
+        },
+        "symbol": "PARTY",
+        "complex": false
+    },
+    "0xeccA39D4Fb0AE23f3b0956808796c2ACd8A92872": {
+        "balance": {
+            "target": "0xeccA39D4Fb0AE23f3b0956808796c2ACd8A92872",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xeccA39D4Fb0AE23f3b0956808796c2ACd8A92872",
+            "slot": 1
+        },
+        "symbol": "MPESO",
+        "complex": false
+    },
+    "0x955d5c14C8D4944dA1Ea7836bd44D54a8eC35Ba1": {
+        "balance": {
+            "target": "0x955d5c14C8D4944dA1Ea7836bd44D54a8eC35Ba1",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x955d5c14C8D4944dA1Ea7836bd44D54a8eC35Ba1",
+            "slot": 1
+        },
+        "symbol": "RFD",
+        "complex": false
+    },
+    "0xB90B2A35C65dBC466b04240097Ca756ad2005295": {
+        "balance": {
+            "target": "0xB90B2A35C65dBC466b04240097Ca756ad2005295",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xB90B2A35C65dBC466b04240097Ca756ad2005295",
+            "slot": 2
+        },
+        "symbol": "BOBO",
+        "complex": false
+    },
+    "0x695BD8b642342d792a34392bEa1461b98895300B": {
+        "balance": {
+            "target": "0x695BD8b642342d792a34392bEa1461b98895300B",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x695BD8b642342d792a34392bEa1461b98895300B",
+            "slot": 2
+        },
+        "symbol": "RATE",
+        "complex": false
+    },
+    "0xD9A4d77f3A9F1f48D54A3cFB311E8218A541fa56": {
+        "balance": {
+            "target": "0xD9A4d77f3A9F1f48D54A3cFB311E8218A541fa56",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xD9A4d77f3A9F1f48D54A3cFB311E8218A541fa56",
+            "slot": 4
+        },
+        "symbol": "WICK",
+        "complex": false
+    },
+    "0x09C1ead57d24886Bd3Ec5fd4d0311681e04b3b24": {
+        "balance": {
+            "target": "0x09C1ead57d24886Bd3Ec5fd4d0311681e04b3b24",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x09C1ead57d24886Bd3Ec5fd4d0311681e04b3b24",
+            "slot": 2
+        },
+        "symbol": "UNI-V2",
+        "complex": false
+    },
+    "0x2Eb714Fa68E9873Ce457BD6DA60A4966D0c76591": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x2Eb714Fa68E9873Ce457BD6DA60A4966D0c76591",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "symbol": "$CHINA",
+        "complex": true
+    },
+    "0x6100dd79fCAA88420750DceE3F735d168aBcB771": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "NON",
+        "complex": true
+    },
+    "0x226bb599a12C826476e3A771454697EA52E9E220": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "PRO",
+        "complex": true
+    },
+    "0x0A13A5929e5F0ff0EABA4Bd9e9512C91fCE40280": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x0A13A5929e5F0ff0EABA4Bd9e9512C91fCE40280",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "symbol": "XAI",
+        "complex": true
+    },
+    "0x4cF688eD5eBF8b56D85f2aFCCd66BDB29a11e88B": {
+        "balance": {
+            "target": "0x4cF688eD5eBF8b56D85f2aFCCd66BDB29a11e88B",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x4cF688eD5eBF8b56D85f2aFCCd66BDB29a11e88B",
+            "slot": 1
+        },
+        "symbol": "SPACE",
+        "complex": false
+    },
+    "0x32f044dA25218598D4238A4fc6826Ac4ebb97e9E": {
+        "balance": {
+            "target": "0x32f044dA25218598D4238A4fc6826Ac4ebb97e9E",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x32f044dA25218598D4238A4fc6826Ac4ebb97e9E",
+            "slot": 1
+        },
+        "symbol": "RBE",
+        "complex": false
+    },
+    "0x3267c5b73cc15E253b1A90c01366B17d560Bc6fb": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x3267c5b73cc15E253b1A90c01366B17d560Bc6fb",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "symbol": "RON",
+        "complex": true
+    },
+    "0xE8F7C65A6e6f9bF2a4df751dfa54B2563F44b409": {
+        "balance": {
+            "target": "0xE8F7C65A6e6f9bF2a4df751dfa54B2563F44b409",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xE8F7C65A6e6f9bF2a4df751dfa54B2563F44b409",
+            "slot": 1
+        },
+        "symbol": "WGK",
+        "complex": false
+    },
+    "0xD6eA1D2949B1f5e84578e3DFBE69eA0972b48E84": {
+        "balance": {
+            "target": "0xD6eA1D2949B1f5e84578e3DFBE69eA0972b48E84",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xD6eA1D2949B1f5e84578e3DFBE69eA0972b48E84",
+            "slot": 2
+        },
+        "symbol": "SIM",
+        "complex": false
+    },
+    "0x3E215A2f000dbDaD42595C12089c03D74eb04bc9": {
+        "balance": {
+            "target": "0x3E215A2f000dbDaD42595C12089c03D74eb04bc9",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x3E215A2f000dbDaD42595C12089c03D74eb04bc9",
+            "slot": 1
+        },
+        "symbol": "SHAR",
+        "complex": false
+    },
+    "0x01437eC89F5125f4Df5Fc79aEaBA03F279fd6fb8": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "DOUYIN",
+        "complex": true
+    },
+    "0xcF708DAEf7901a9DB551dEf49C90C652B4aF4468": {
+        "balance": {
+            "target": "0xcF708DAEf7901a9DB551dEf49C90C652B4aF4468",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xcF708DAEf7901a9DB551dEf49C90C652B4aF4468",
+            "slot": 1
+        },
+        "symbol": "FUEL",
+        "complex": false
+    },
+    "0x120a3879da835A5aF037bB2d1456beBd6B54d4bA": {
+        "balance": {
+            "target": "0x120a3879da835A5aF037bB2d1456beBd6B54d4bA",
+            "slot": 6
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x120a3879da835A5aF037bB2d1456beBd6B54d4bA",
+            "slot": 7
+        },
+        "symbol": "RVST",
+        "complex": false
+    },
+    "0xbEEf3bB9dA340EbdF0f5bae2E85368140d7D85D0": {
+        "balance": {
+            "target": "0xbEEf3bB9dA340EbdF0f5bae2E85368140d7D85D0",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xbEEf3bB9dA340EbdF0f5bae2E85368140d7D85D0",
+            "slot": 1
+        },
+        "symbol": "MORE",
+        "complex": false
+    },
+    "0xF915110898d9a455Ad2DA51BF49520b41655Ccea": {
+        "balance": {
+            "target": "0xF915110898d9a455Ad2DA51BF49520b41655Ccea",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xF915110898d9a455Ad2DA51BF49520b41655Ccea",
+            "slot": 2
+        },
+        "symbol": "TAI",
+        "complex": false
+    },
+    "0xf3A5D72C0Ee23655B3F8Dc93E021b4B136Cf5eB5": {
+        "balance": {
+            "target": "0xf3A5D72C0Ee23655B3F8Dc93E021b4B136Cf5eB5",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xf3A5D72C0Ee23655B3F8Dc93E021b4B136Cf5eB5",
+            "slot": 1
+        },
+        "symbol": "FADER",
+        "complex": false
+    },
+    "0xFE60FbA03048EfFB4aCf3f0088Ec2f53d779D3BB": {
+        "balance": {
+            "target": "0xFE60FbA03048EfFB4aCf3f0088Ec2f53d779D3BB",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xFE60FbA03048EfFB4aCf3f0088Ec2f53d779D3BB",
+            "slot": 2
+        },
+        "symbol": "3d3d",
+        "complex": false
+    },
+    "0xFcF76809cA8259A890446335af8367a154503743": {
+        "balance": {
+            "target": "0xFcF76809cA8259A890446335af8367a154503743",
+            "slot": 5
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xFcF76809cA8259A890446335af8367a154503743",
+            "slot": 6
+        },
+        "symbol": "XIEXIE",
+        "complex": false
+    },
+    "0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e": {
+        "balance": {
+            "target": "0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e",
+            "slot": 52
+        },
+        "symbol": "OMI",
+        "complex": false
+    },
+    "0xD807f7e2818dB8edA0d28B5bE74866338eaEDB86": {
+        "balance": {
+            "target": "0xD807f7e2818dB8edA0d28B5bE74866338eaEDB86",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xD807f7e2818dB8edA0d28B5bE74866338eaEDB86",
+            "slot": 2
+        },
+        "symbol": "jim",
+        "complex": false
+    },
+    "0x4159862bcF6B4393A80550b1ed03DFfa6f90533C": {
+        "balance": {
+            "target": "0x4159862bcF6B4393A80550b1ed03DFfa6f90533C",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x4159862bcF6B4393A80550b1ed03DFfa6f90533C",
+            "slot": 2
+        },
+        "symbol": "OHMI",
+        "complex": false
+    },
+    "0x8C6874B61D3f212177B088a919aD8d251075cB66": {
+        "balance": {
+            "target": "0x8C6874B61D3f212177B088a919aD8d251075cB66",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x8C6874B61D3f212177B088a919aD8d251075cB66",
+            "slot": 2
+        },
+        "symbol": "JINCHAN",
+        "complex": false
+    },
+    "0x2dE509bf0014ddF697b220bE628213034d320EcE": {
+        "balance": {
+            "target": "0x2dE509bf0014ddF697b220bE628213034d320EcE",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x2dE509bf0014ddF697b220bE628213034d320EcE",
+            "slot": 1
+        },
+        "symbol": "DBI",
+        "complex": false
+    },
+    "0x8dA0e5B872aECc1D53633f540AE49A51D59007c9": {
+        "balance": {
+            "target": "0x8dA0e5B872aECc1D53633f540AE49A51D59007c9",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x8dA0e5B872aECc1D53633f540AE49A51D59007c9",
+            "slot": 1
+        },
+        "symbol": "fair",
+        "complex": false
+    },
+    "0xF190dbD849E372FF824e631a1FdF199f38358BCf": {
+        "balance": {
+            "target": "0xF190dbD849E372FF824e631a1FdF199f38358BCf",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xF190dbD849E372FF824e631a1FdF199f38358BCf",
+            "slot": 1
+        },
+        "symbol": "BARA",
+        "complex": false
+    },
+    "0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29": {
+        "balance": {
+            "target": "0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29",
+            "slot": 151
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29",
+            "slot": 152
+        },
+        "symbol": "FORT",
+        "complex": false
+    },
+    "0x9df490b4a5e1699d9A390C65874FD40d86c51AFC": {
+        "balance": {
+            "target": "0x9df490b4a5e1699d9A390C65874FD40d86c51AFC",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x9df490b4a5e1699d9A390C65874FD40d86c51AFC",
+            "slot": 1
+        },
+        "symbol": "ZIM",
+        "complex": false
+    },
+    "0xe6fd75ff38Adca4B97FBCD938c86b98772431867": {
+        "balance": {
+            "target": "0xe6fd75ff38Adca4B97FBCD938c86b98772431867",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xe6fd75ff38Adca4B97FBCD938c86b98772431867",
+            "slot": 5
+        },
+        "symbol": "ELA",
+        "complex": false
+    },
+    "0xB69753c06BB5c366BE51E73bFc0cC2e3DC07E371": {
+        "balance": {
+            "target": "0xB69753c06BB5c366BE51E73bFc0cC2e3DC07E371",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xB69753c06BB5c366BE51E73bFc0cC2e3DC07E371",
+            "slot": 1
+        },
+        "symbol": "POOH",
+        "complex": false
+    },
+    "0xD1F17B7a6bfF962659ED608bCD6D318bB5fBb249": {
+        "balance": {
+            "target": "0xD1F17B7a6bfF962659ED608bCD6D318bB5fBb249",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xD1F17B7a6bfF962659ED608bCD6D318bB5fBb249",
+            "slot": 1
+        },
+        "symbol": "ZUZALU",
+        "complex": false
+    },
+    "0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA": {
+        "balance": {
+            "target": "0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA",
+            "slot": 1
+        },
+        "symbol": "BOTTO",
+        "complex": false
+    },
+    "0x830a8512db4F6fCA51968593E2667156C2c483A8": {
+        "balance": {
+            "target": "0x830a8512db4F6fCA51968593E2667156C2c483A8",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x830a8512db4F6fCA51968593E2667156C2c483A8",
+            "slot": 1
+        },
+        "symbol": "WEN",
+        "complex": false
+    },
+    "0xE62bE16aa3c50baFb1855b4dEd7799D9150BB1A1": {
+        "balance": {
+            "target": "0xE62bE16aa3c50baFb1855b4dEd7799D9150BB1A1",
+            "slot": 161
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xE62bE16aa3c50baFb1855b4dEd7799D9150BB1A1",
+            "slot": 162
+        },
+        "symbol": "Dyl",
+        "complex": false
+    },
+    "0x881145E5a28b6411cB80d0350497217F549B050C": {
+        "balance": {
+            "target": "0x881145E5a28b6411cB80d0350497217F549B050C",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x881145E5a28b6411cB80d0350497217F549B050C",
+            "slot": 1
+        },
+        "symbol": "MOE",
+        "complex": false
+    },
+    "0xd1d2Eb1B1e90B638588728b4130137D262C87cae": {
+        "balance": {
+            "target": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+            "slot": 52
+        },
+        "symbol": "GALA",
+        "complex": false
+    },
+    "0xA35923162C49cF95e6BF26623385eb431ad920D3": {
+        "balance": {
+            "target": "0xA35923162C49cF95e6BF26623385eb431ad920D3",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xA35923162C49cF95e6BF26623385eb431ad920D3",
+            "slot": 1
+        },
+        "symbol": "TURBO",
+        "complex": false
+    },
+    "0x8CF8e9E63c3F39eB97A1E8020397bdA93CC07196": {
+        "balance": {
+            "target": "0x8CF8e9E63c3F39eB97A1E8020397bdA93CC07196",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x8CF8e9E63c3F39eB97A1E8020397bdA93CC07196",
+            "slot": 4
+        },
+        "symbol": "FUR",
+        "complex": false
+    },
+    "0xe410EF63853666Cc83085f5De620b70Fdc93B905": {
+        "balance": {
+            "target": "0xe410EF63853666Cc83085f5De620b70Fdc93B905",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xe410EF63853666Cc83085f5De620b70Fdc93B905",
+            "slot": 2
+        },
+        "symbol": "JESUS",
+        "complex": false
+    },
+    "0xF1182229B71E79E504b1d2bF076C15a277311e05": {
+        "balance": {
+            "target": "0xF1182229B71E79E504b1d2bF076C15a277311e05",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xF1182229B71E79E504b1d2bF076C15a277311e05",
+            "slot": 1
+        },
+        "symbol": "LBR",
+        "complex": false
+    },
+    "0xB459F7204A8Ac84F9e7758d6d839eBD01670E35C": {
+        "balance": {
+            "target": "0xB459F7204A8Ac84F9e7758d6d839eBD01670E35C",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xB459F7204A8Ac84F9e7758d6d839eBD01670E35C",
+            "slot": 1
+        },
+        "symbol": "LOTTY",
+        "complex": false
+    },
+    "0x6b1a8f210Ec6b7B6643cea3583Fb0c079f367898": {
+        "balance": {
+            "target": "0x6b1a8f210Ec6b7B6643cea3583Fb0c079f367898",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x6b1a8f210Ec6b7B6643cea3583Fb0c079f367898",
+            "slot": 1
+        },
+        "symbol": "BXX",
+        "complex": false
+    },
+    "0x7690202e2C2297bcD03664e31116d1dFfE7e3B73": {
+        "balance": {
+            "target": "0x7690202e2C2297bcD03664e31116d1dFfE7e3B73",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x7690202e2C2297bcD03664e31116d1dFfE7e3B73",
+            "slot": 1
+        },
+        "symbol": "boxETH",
+        "complex": false
+    },
+    "0x02c3296C6eb50249f290AE596F2bE9454bFfadaB": {
+        "balance": {
+            "target": "0x02c3296C6eb50249f290AE596F2bE9454bFfadaB",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x02c3296C6eb50249f290AE596F2bE9454bFfadaB",
+            "slot": 2
+        },
+        "symbol": "RJV",
+        "complex": false
+    },
+    "0xee772CEc929D8430b4Fa7a01cD7FbD159a68Aa83": {
+        "balance": {
+            "target": "0xee772CEc929D8430b4Fa7a01cD7FbD159a68Aa83",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xee772CEc929D8430b4Fa7a01cD7FbD159a68Aa83",
+            "slot": 1
+        },
+        "symbol": "SHANG",
+        "complex": false
+    },
+    "0x1185fEc4Ebc130629198849CE1675a936Dfb37b5": {
+        "balance": {
+            "target": "0x1185fEc4Ebc130629198849CE1675a936Dfb37b5",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x1185fEc4Ebc130629198849CE1675a936Dfb37b5",
+            "slot": 1
+        },
+        "symbol": "NOAH",
+        "complex": false
+    },
+    "0x1ce270557C1f68Cfb577b856766310Bf8B47FD9C": {
+        "balance": {
+            "target": "0x1ce270557C1f68Cfb577b856766310Bf8B47FD9C",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x1ce270557C1f68Cfb577b856766310Bf8B47FD9C",
+            "slot": 1
+        },
+        "symbol": "$MONG",
+        "complex": false
+    },
+    "0x3B2fa643eE5AdD5234aFcb90ead7Db5586ff85eB": {
+        "balance": {
+            "target": "0x3B2fa643eE5AdD5234aFcb90ead7Db5586ff85eB",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x3B2fa643eE5AdD5234aFcb90ead7Db5586ff85eB",
+            "slot": 1
+        },
+        "symbol": "CRYPTOBRO",
+        "complex": false
+    },
+    "0x7f4c5447af6A96d8eeAEE1d932338cFc57890dbD": {
+        "balance": {
+            "target": "0x7f4c5447af6A96d8eeAEE1d932338cFc57890dbD",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x7f4c5447af6A96d8eeAEE1d932338cFc57890dbD",
+            "slot": 2
+        },
+        "symbol": "DAVE",
+        "complex": false
+    },
+    "0xBddF903F43dC7d9801F3F0034bA306169074EF8e": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "AGB",
+        "complex": true
+    },
+    "0xEf8208620657ecBAE253B2dd6Eb940E202f9A70C": {
+        "balance": {
+            "target": "0xEf8208620657ecBAE253B2dd6Eb940E202f9A70C",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xEf8208620657ecBAE253B2dd6Eb940E202f9A70C",
+            "slot": 2
+        },
+        "symbol": "NINU",
+        "complex": false
+    },
+    "0x6BC08509B36A98E829dFfAD49Fde5e412645d0a3": {
+        "balance": {
+            "target": "0x6BC08509B36A98E829dFfAD49Fde5e412645d0a3",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x6BC08509B36A98E829dFfAD49Fde5e412645d0a3",
+            "slot": 1
+        },
+        "symbol": "WOOF",
+        "complex": false
+    },
+    "0x34AC52a74631F4267a67aB6486Ef52880f68b4C5": {
+        "balance": {
+            "target": "0x34AC52a74631F4267a67aB6486Ef52880f68b4C5",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x34AC52a74631F4267a67aB6486Ef52880f68b4C5",
+            "slot": 1
+        },
+        "symbol": "TDY",
+        "complex": false
+    },
+    "0xcddf0Fd82565d8f87aD12933660920EE273250f0": {
+        "balance": {
+            "target": "0xcddf0Fd82565d8f87aD12933660920EE273250f0",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xcddf0Fd82565d8f87aD12933660920EE273250f0",
+            "slot": 2
+        },
+        "symbol": "0xM",
+        "complex": false
+    },
+    "0x5269c9908AC4858a96b2EeC696f8df2759C1e0A8": {
+        "balance": {
+            "target": "0x5269c9908AC4858a96b2EeC696f8df2759C1e0A8",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x5269c9908AC4858a96b2EeC696f8df2759C1e0A8",
+            "slot": 2
+        },
+        "symbol": "$PEON",
+        "complex": false
+    },
+    "0xf5C3db3592198b795e2ae5Bff8A580E9eeC70314": {
+        "balance": {
+            "target": "0xf5C3db3592198b795e2ae5Bff8A580E9eeC70314",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xf5C3db3592198b795e2ae5Bff8A580E9eeC70314",
+            "slot": 1
+        },
+        "symbol": "BOI",
+        "complex": false
+    },
+    "0xBAcaCD83b68C92Ae07eF382d0c0277D1Bd1c7C4D": {
+        "balance": {
+            "target": "0xBAcaCD83b68C92Ae07eF382d0c0277D1Bd1c7C4D",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xBAcaCD83b68C92Ae07eF382d0c0277D1Bd1c7C4D",
+            "slot": 1
+        },
+        "symbol": "PSALE",
+        "complex": false
+    },
+    "0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057": {
+        "balance": {
+            "target": "0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057",
+            "slot": 2
+        },
+        "symbol": "FX",
+        "complex": false
+    },
+    "0xc12C55e70CB491B884B36D2C47BbFF750ed8944c": {
+        "balance": {
+            "target": "0xc12C55e70CB491B884B36D2C47BbFF750ed8944c",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xc12C55e70CB491B884B36D2C47BbFF750ed8944c",
+            "slot": 2
+        },
+        "symbol": "Tuzki",
+        "complex": false
+    },
+    "0x505a84a03e382331A1Be487b632Cf357748b65d6": {
+        "balance": {
+            "target": "0x505a84a03e382331A1Be487b632Cf357748b65d6",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x505a84a03e382331A1Be487b632Cf357748b65d6",
+            "slot": 1
+        },
+        "symbol": "SHIBGF",
+        "complex": false
+    },
+    "0x95055C3AA602d04ad11d925C0b845E66AFd5D258": {
+        "balance": {
+            "target": "0x95055C3AA602d04ad11d925C0b845E66AFd5D258",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x95055C3AA602d04ad11d925C0b845E66AFd5D258",
+            "slot": 1
+        },
+        "symbol": "CHANG",
+        "complex": false
+    },
+    "0xd8E2D95C8614F28169757cD6445a71c291dEc5bF": {
+        "balance": {
+            "target": "0xd8E2D95C8614F28169757cD6445a71c291dEc5bF",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xd8E2D95C8614F28169757cD6445a71c291dEc5bF",
+            "slot": 1
+        },
+        "symbol": "GrumpyCat",
+        "complex": false
+    },
+    "0xBAac2B4491727D78D2b78815144570b9f2Fe8899": {
+        "balance": {
+            "target": "0xBAac2B4491727D78D2b78815144570b9f2Fe8899",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xBAac2B4491727D78D2b78815144570b9f2Fe8899",
+            "slot": 52
+        },
+        "symbol": "DOG",
+        "complex": false
+    },
+    "0x323012d0a49FBD86dD1c4D363C7ea63244852E21": {
+        "balance": {
+            "target": "0x323012d0a49FBD86dD1c4D363C7ea63244852E21",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x323012d0a49FBD86dD1c4D363C7ea63244852E21",
+            "slot": 4
+        },
+        "symbol": "BIGDUM",
+        "complex": false
+    },
+    "0x06f7E3cecd6e66aB2fCC527e8a2e908c96e1a31c": {
+        "balance": {
+            "target": "0x06f7E3cecd6e66aB2fCC527e8a2e908c96e1a31c",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x06f7E3cecd6e66aB2fCC527e8a2e908c96e1a31c",
+            "slot": 1
+        },
+        "symbol": "WOMBAT",
+        "complex": false
+    },
+    "0x86803e2012CBA1Ca09d87393f5C739FA9E58ea3c": {
+        "balance": {
+            "target": "0x86803e2012CBA1Ca09d87393f5C739FA9E58ea3c",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x86803e2012CBA1Ca09d87393f5C739FA9E58ea3c",
+            "slot": 2
+        },
+        "symbol": "Homer Pepe",
+        "complex": false
+    },
+    "0xba386A4Ca26B85FD057ab1Ef86e3DC7BdeB5ce70": {
+        "balance": {
+            "target": "0xba386A4Ca26B85FD057ab1Ef86e3DC7BdeB5ce70",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xba386A4Ca26B85FD057ab1Ef86e3DC7BdeB5ce70",
+            "slot": 2
+        },
+        "symbol": "JESUS",
+        "complex": false
+    },
+    "0xBF6bC14888066cF32c340619BfC9932c76d9996f": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xBF6bC14888066cF32c340619BfC9932c76d9996f",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "symbol": "LINDA",
+        "complex": true
+    },
+    "0x77571a64342667f7818520eF004b2b91F47a266b": {
+        "balance": {
+            "target": "0x77571a64342667f7818520eF004b2b91F47a266b",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x77571a64342667f7818520eF004b2b91F47a266b",
+            "slot": 1
+        },
+        "symbol": "SNM",
+        "complex": false
+    },
+    "0xD91316cC545e4A55AED7aA9EC41e1a9215d313b6": {
+        "balance": {
+            "target": "0xD91316cC545e4A55AED7aA9EC41e1a9215d313b6",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xD91316cC545e4A55AED7aA9EC41e1a9215d313b6",
+            "slot": 2
+        },
+        "symbol": "\u6556\u6b3d",
+        "complex": false
+    },
+    "0x3731190C314aB5408582135958fbC7B3D3c0e9D4": {
+        "balance": {
+            "target": "0x3731190C314aB5408582135958fbC7B3D3c0e9D4",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x3731190C314aB5408582135958fbC7B3D3c0e9D4",
+            "slot": 2
+        },
+        "symbol": "COROLLA",
+        "complex": false
+    },
+    "0x6a26Edf3bBC9F154ca9175216CEB9812f5305e6E": {
+        "balance": {
+            "target": "0x6a26Edf3bBC9F154ca9175216CEB9812f5305e6E",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x6a26Edf3bBC9F154ca9175216CEB9812f5305e6E",
+            "slot": 2
+        },
+        "symbol": "PIXE",
+        "complex": false
+    },
+    "0xb23d80f5FefcDDaa212212F028021B41DEd428CF": {
+        "balance": {
+            "target": "0xb23d80f5FefcDDaa212212F028021B41DEd428CF",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xb23d80f5FefcDDaa212212F028021B41DEd428CF",
+            "slot": 1
+        },
+        "symbol": "PRIME",
+        "complex": false
+    },
+    "0x67688e48469955e8C3774086ce30D21e52C69960": {
+        "balance": {
+            "target": "0x67688e48469955e8C3774086ce30D21e52C69960",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x67688e48469955e8C3774086ce30D21e52C69960",
+            "slot": 2
+        },
+        "symbol": "\u6210\u9f8d",
+        "complex": false
+    },
+    "0xb794Ad95317f75c44090f64955954C3849315fFe": {
+        "balance": {
+            "target": "0xb794Ad95317f75c44090f64955954C3849315fFe",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xb794Ad95317f75c44090f64955954C3849315fFe",
+            "slot": 2
+        },
+        "symbol": "RIBBIT",
+        "complex": false
+    },
+    "0xf59257E961883636290411c11ec5Ae622d19455e": {
+        "balance": {
+            "target": "0xf59257E961883636290411c11ec5Ae622d19455e",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xf59257E961883636290411c11ec5Ae622d19455e",
+            "slot": 1
+        },
+        "symbol": "FLOOR",
+        "complex": false
+    },
+    "0xf32cFbAf4000e6820a95B3A3fCdbF27FB4eFC9af": {
+        "balance": {
+            "target": "0xf32cFbAf4000e6820a95B3A3fCdbF27FB4eFC9af",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xf32cFbAf4000e6820a95B3A3fCdbF27FB4eFC9af",
+            "slot": 1
+        },
+        "symbol": "cash",
+        "complex": false
+    },
+    "0x7c84d7E3829e004a49204d650883697BC7f06748": {
+        "balance": {
+            "target": "0x7c84d7E3829e004a49204d650883697BC7f06748",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x7c84d7E3829e004a49204d650883697BC7f06748",
+            "slot": 2
+        },
+        "symbol": "TRUMP",
+        "complex": false
+    },
+    "0x67d85A291fcDC862A78812a3C26d55e28FFB2701": {
+        "balance": {
+            "target": "0x67d85A291fcDC862A78812a3C26d55e28FFB2701",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x67d85A291fcDC862A78812a3C26d55e28FFB2701",
+            "slot": 52
+        },
+        "symbol": "ASX",
+        "complex": false
+    },
+    "0x97Ac4a2439A47c07ad535bb1188c989dae755341": {
+        "balance": {
+            "target": "0x97Ac4a2439A47c07ad535bb1188c989dae755341",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x97Ac4a2439A47c07ad535bb1188c989dae755341",
+            "slot": 5
+        },
+        "symbol": "WPLS",
+        "complex": false
+    },
+    "0x77E06c9eCCf2E797fd462A92B6D7642EF85b0A44": {
+        "balance": {
+            "target": "0x77E06c9eCCf2E797fd462A92B6D7642EF85b0A44",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x77E06c9eCCf2E797fd462A92B6D7642EF85b0A44",
+            "slot": 1
+        },
+        "symbol": "wTAO",
+        "complex": false
+    },
+    "0xC3681A720605bD6F8fe9A2FaBff6A7CDEcDc605D": {
+        "balance": {
+            "target": "0xC3681A720605bD6F8fe9A2FaBff6A7CDEcDc605D",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xC3681A720605bD6F8fe9A2FaBff6A7CDEcDc605D",
+            "slot": 2
+        },
+        "symbol": "NiHao",
+        "complex": false
+    },
+    "0x985e0DF1f95729F054cf959a07362d33F22a6670": {
+        "balance": {
+            "target": "0x985e0DF1f95729F054cf959a07362d33F22a6670",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x985e0DF1f95729F054cf959a07362d33F22a6670",
+            "slot": 2
+        },
+        "symbol": "PING",
+        "complex": false
+    },
+    "0x4792d3CA30d52821b0dC2b2436CF8B425C3395F1": {
+        "balance": {
+            "target": "0x4792d3CA30d52821b0dC2b2436CF8B425C3395F1",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x4792d3CA30d52821b0dC2b2436CF8B425C3395F1",
+            "slot": 1
+        },
+        "symbol": "XBTC",
+        "complex": false
+    },
+    "0x5026F006B85729a8b14553FAE6af249aD16c9aaB": {
+        "balance": {
+            "target": "0x5026F006B85729a8b14553FAE6af249aD16c9aaB",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x5026F006B85729a8b14553FAE6af249aD16c9aaB",
+            "slot": 1
+        },
+        "symbol": "WOJAK",
+        "complex": false
+    },
+    "0x41f7B8b9b897276b7AAE926a9016935280b44E97": {
+        "balance": {
+            "target": "0x41f7B8b9b897276b7AAE926a9016935280b44E97",
+            "slot": 5
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x41f7B8b9b897276b7AAE926a9016935280b44E97",
+            "slot": 6
+        },
+        "symbol": "USDC",
+        "complex": false
+    },
+    "0x00282FD551D03dC033256C4bf119532e8C735D8a": {
+        "balance": {
+            "target": "0x00282FD551D03dC033256C4bf119532e8C735D8a",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x00282FD551D03dC033256C4bf119532e8C735D8a",
+            "slot": 2
+        },
+        "symbol": "BIAO",
+        "complex": false
+    },
+    "0x082646B22A3960DA69eF7A778c16dd6fb85Dd999": {
+        "balance": {
+            "target": "0x082646B22A3960DA69eF7A778c16dd6fb85Dd999",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x082646B22A3960DA69eF7A778c16dd6fb85Dd999",
+            "slot": 2
+        },
+        "symbol": "FKPEPE",
+        "complex": false
+    },
+    "0xe9f4d524834Be9B48BE182F2274B109955e9bda2": {
+        "balance": {
+            "target": "0xe9f4d524834Be9B48BE182F2274B109955e9bda2",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xe9f4d524834Be9B48BE182F2274B109955e9bda2",
+            "slot": 2
+        },
+        "symbol": "MORTY",
+        "complex": false
+    },
+    "0xA15865D9de09CB96aAa3A9081B3dFC8481f07d33": {
+        "balance": {
+            "target": "0xA15865D9de09CB96aAa3A9081B3dFC8481f07d33",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xA15865D9de09CB96aAa3A9081B3dFC8481f07d33",
+            "slot": 2
+        },
+        "symbol": "POPE",
+        "complex": false
+    },
+    "0x75430D0782A443bD4f1c92C69009599dEA53A206": {
+        "balance": {
+            "target": "0x75430D0782A443bD4f1c92C69009599dEA53A206",
+            "slot": 6
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x75430D0782A443bD4f1c92C69009599dEA53A206",
+            "slot": 1
+        },
+        "symbol": "RICK",
+        "complex": false
+    },
+    "0x049E9f5369358786A1cE6483d668D062cfe547ec": {
+        "balance": {
+            "target": "0x049E9f5369358786A1cE6483d668D062cfe547ec",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x049E9f5369358786A1cE6483d668D062cfe547ec",
+            "slot": 1
+        },
+        "symbol": "CHECKS",
+        "complex": false
+    },
+    "0x1A94124eD71c2459F398c334b8bE9b5DD75220D9": {
+        "balance": {
+            "target": "0x1A94124eD71c2459F398c334b8bE9b5DD75220D9",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x1A94124eD71c2459F398c334b8bE9b5DD75220D9",
+            "slot": 1
+        },
+        "symbol": "IS",
+        "complex": false
+    },
+    "0x003CBAfe842906366488C53aD883F09C49EEB3a5": {
+        "balance": {
+            "target": "0x003CBAfe842906366488C53aD883F09C49EEB3a5",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x003CBAfe842906366488C53aD883F09C49EEB3a5",
+            "slot": 2
+        },
+        "symbol": "HKDOLL",
+        "complex": false
+    },
+    "0xF5081b106AbbE443FC62384b3724620Fc9599c46": {
+        "balance": {
+            "target": "0xF5081b106AbbE443FC62384b3724620Fc9599c46",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xF5081b106AbbE443FC62384b3724620Fc9599c46",
+            "slot": 1
+        },
+        "symbol": "KERMIT",
+        "complex": false
+    },
+    "0x6f222E04F6c53Cc688FfB0Abe7206aAc66A8FF98": {
+        "balance": {
+            "target": "0x6f222E04F6c53Cc688FfB0Abe7206aAc66A8FF98",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x6f222E04F6c53Cc688FfB0Abe7206aAc66A8FF98",
+            "slot": 1
+        },
+        "symbol": "ROKO",
+        "complex": false
+    },
+    "0xb0a1d1c50d6cA31313D3FAc6eCf481f65C1a1Ee4": {
+        "balance": {
+            "target": "0xb0a1d1c50d6cA31313D3FAc6eCf481f65C1a1Ee4",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xb0a1d1c50d6cA31313D3FAc6eCf481f65C1a1Ee4",
+            "slot": 2
+        },
+        "symbol": "LEO",
+        "complex": false
+    },
+    "0x6bB61215298F296C55b19Ad842D3Df69021DA2ef": {
+        "balance": {
+            "target": "0x6bB61215298F296C55b19Ad842D3Df69021DA2ef",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x6bB61215298F296C55b19Ad842D3Df69021DA2ef",
+            "slot": 0
+        },
+        "symbol": "DOP",
+        "complex": false
+    },
+    "0x25127685dC35d4dc96C7fEAC7370749d004C5040": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "UNIBOT",
+        "complex": true
+    },
+    "0xB21D63c6606C368866Fb614C68A0F1137F6972A3": {
+        "balance": {
+            "target": "0xB21D63c6606C368866Fb614C68A0F1137F6972A3",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xB21D63c6606C368866Fb614C68A0F1137F6972A3",
+            "slot": 1
+        },
+        "symbol": "MEV",
+        "complex": false
+    },
+    "0xdC054ec9bA00C0908CE346D05fEf72C91C26717A": {
+        "balance": {
+            "target": "0xdC054ec9bA00C0908CE346D05fEf72C91C26717A",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xdC054ec9bA00C0908CE346D05fEf72C91C26717A",
+            "slot": 2
+        },
+        "symbol": "YUAN",
+        "complex": false
+    },
+    "0x28e318B2063Ed3945f86f1ef13bdeb29923c9f02": {
+        "balance": {
+            "target": "0x28e318B2063Ed3945f86f1ef13bdeb29923c9f02",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x28e318B2063Ed3945f86f1ef13bdeb29923c9f02",
+            "slot": 4
+        },
+        "symbol": "DETH",
+        "complex": false
+    },
+    "0x9663677B81c2D427E81C01ef7315eA96546F5Bb1": {
+        "balance": {
+            "target": "0x9663677B81c2D427E81C01ef7315eA96546F5Bb1",
+            "slot": 2
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x9663677B81c2D427E81C01ef7315eA96546F5Bb1",
+            "slot": 12
+        },
+        "symbol": "TENET",
+        "complex": false
+    },
+    "0x2dd7144B701bd66bc12eC17F1afAad409F0e32Cf": {
+        "balance": {
+            "target": "0x2dd7144B701bd66bc12eC17F1afAad409F0e32Cf",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x2dd7144B701bd66bc12eC17F1afAad409F0e32Cf",
+            "slot": 2
+        },
+        "symbol": "POOPE",
+        "complex": false
+    },
+    "0x9343e24716659A3551eB10Aff9472A2dcAD5Db2d": {
+        "balance": {
+            "target": "0x9343e24716659A3551eB10Aff9472A2dcAD5Db2d",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x9343e24716659A3551eB10Aff9472A2dcAD5Db2d",
+            "slot": 1
+        },
+        "symbol": "STFX",
+        "complex": false
+    },
+    "0x4EcE5C5CfB9B960A49aAe739E15cDB6cfDcc5782": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0x4EcE5C5CfB9B960A49aAe739E15cDB6cfDcc5782",
+            "slot": 159
+        },
+        "compiler": "solidity",
+        "symbol": "DBUY",
+        "complex": true
+    },
+    "0x8A001303158670E284950565164933372807cD48": {
+        "balance": {
+            "target": "0x8A001303158670E284950565164933372807cD48",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x8A001303158670E284950565164933372807cD48",
+            "slot": 2
+        },
+        "symbol": "WFAI",
+        "complex": false
+    },
+    "0x251CF35e94E502325EB711B5C91eE5Efb6ad62eA": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "CHINU",
+        "complex": true
+    },
+    "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E": {
+        "balance": {
+            "target": "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E",
+            "slot": 1
+        },
+        "symbol": "BEN",
+        "complex": false
+    },
+    "0xc5fB36dd2fb59d3B98dEfF88425a3F425Ee469eD": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": "0xc5fB36dd2fb59d3B98dEfF88425a3F425Ee469eD",
+            "slot": 4
+        },
+        "compiler": "solidity",
+        "symbol": "TSUKA",
+        "complex": true
+    },
+    "0x445bd590A01fe6709d4f13A8F579c1e4846921db": {
+        "balance": {
+            "target": "0x445bd590A01fe6709d4f13A8F579c1e4846921db",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x445bd590A01fe6709d4f13A8F579c1e4846921db",
+            "slot": 2
+        },
+        "symbol": "DUMMY",
+        "complex": false
+    },
+    "0xB0Ed33f79D89541dfdCb04A8f04Bc2c6be025eCC": {
+        "balance": {
+            "target": "0xB0Ed33f79D89541dfdCb04A8f04Bc2c6be025eCC",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xB0Ed33f79D89541dfdCb04A8f04Bc2c6be025eCC",
+            "slot": 1
+        },
+        "symbol": "ZERO",
+        "complex": false
+    },
+    "0x17EF75AA22dD5f6C2763b8304Ab24f40eE54D48a": {
+        "balance": {
+            "target": "0x17EF75AA22dD5f6C2763b8304Ab24f40eE54D48a",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x17EF75AA22dD5f6C2763b8304Ab24f40eE54D48a",
+            "slot": 1
+        },
+        "symbol": "RVP",
+        "complex": false
+    },
+    "0x29186109C1A242f15E015bc5FAe57D88874e276a": {
+        "balance": {
+            "target": "0x29186109C1A242f15E015bc5FAe57D88874e276a",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x29186109C1A242f15E015bc5FAe57D88874e276a",
+            "slot": 2
+        },
+        "symbol": "WHALE",
+        "complex": false
+    },
+    "0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0": {
+        "balance": {
+            "target": "0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
+            "slot": 2
+        },
+        "symbol": "ALBT",
+        "complex": false
+    },
+    "0xD5aDa93bAdCdc15a7d68f8a40D063480e07848cc": {
+        "balance": {
+            "target": "0xD5aDa93bAdCdc15a7d68f8a40D063480e07848cc",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xD5aDa93bAdCdc15a7d68f8a40D063480e07848cc",
+            "slot": 2
+        },
+        "symbol": "GQBB",
+        "complex": false
+    },
+    "0x2EFAf4c3DDB991F839Ed75e726EB489c20561A29": {
+        "balance": {
+            "target": "0x2EFAf4c3DDB991F839Ed75e726EB489c20561A29",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x2EFAf4c3DDB991F839Ed75e726EB489c20561A29",
+            "slot": 1
+        },
+        "symbol": "Wealth",
+        "complex": false
+    },
+    "0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F": {
+        "balance": {
+            "target": "0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F",
+            "slot": 1
+        },
+        "symbol": "DXN",
+        "complex": false
+    },
+    "0xfb130d93E49DcA13264344966A611dc79a456Bc5": {
+        "balance": {
+            "target": "0xfb130d93E49DcA13264344966A611dc79a456Bc5",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xfb130d93E49DcA13264344966A611dc79a456Bc5",
+            "slot": 1
+        },
+        "symbol": "DOGEGF",
+        "complex": false
+    },
+    "0x28c6cE090BF0D534815C59440a197e92B4Cf718f": {
+        "balance": {
+            "target": "0x28c6cE090BF0D534815C59440a197e92B4Cf718f",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x28c6cE090BF0D534815C59440a197e92B4Cf718f",
+            "slot": 1
+        },
+        "symbol": "HONOR",
+        "complex": false
+    },
+    "0x3E362038fD3d08887d498944D489aF7909619a9B": {
+        "balance": {
+            "target": "0x3E362038fD3d08887d498944D489aF7909619a9B",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x3E362038fD3d08887d498944D489aF7909619a9B",
+            "slot": 2
+        },
+        "symbol": "CHOW",
+        "complex": false
+    },
+    "0xA2e123dC38F1899a9d9515c65036690854cB184B": {
+        "balance": {
+            "target": "0xA2e123dC38F1899a9d9515c65036690854cB184B",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xA2e123dC38F1899a9d9515c65036690854cB184B",
+            "slot": 1
+        },
+        "symbol": "KONG",
+        "complex": false
+    },
+    "0x66d56A5a18A77b54BA050332e6ce60534947750A": {
+        "balance": {
+            "target": "0x66d56A5a18A77b54BA050332e6ce60534947750A",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x66d56A5a18A77b54BA050332e6ce60534947750A",
+            "slot": 1
+        },
+        "symbol": "SWAMPR",
+        "complex": false
+    },
+    "0xD48312D9fc27572c7592D8C697A368b2D5bFE873": {
+        "balance": {
+            "target": "0xD48312D9fc27572c7592D8C697A368b2D5bFE873",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xD48312D9fc27572c7592D8C697A368b2D5bFE873",
+            "slot": 2
+        },
+        "symbol": "WOJAKINU",
+        "complex": false
+    },
+    "0x8babf83D6A288bf18EB44647270736893327Ad5d": {
+        "balance": {
+            "target": "0x8babf83D6A288bf18EB44647270736893327Ad5d",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x8babf83D6A288bf18EB44647270736893327Ad5d",
+            "slot": 2
+        },
+        "symbol": "BABYJESUS",
+        "complex": false
+    },
+    "0x7C0d189E1FecB124487226dCbA3748bD758F98E4": {
+        "balance": {
+            "target": "0x7C0d189E1FecB124487226dCbA3748bD758F98E4",
+            "slot": 20
+        },
+        "compiler": "vyper",
+        "allowance": {
+            "target": "0x7C0d189E1FecB124487226dCbA3748bD758F98E4",
+            "slot": 21
+        },
+        "symbol": "dETHfrxETH-f",
+        "complex": false
+    },
+    "0xF05CFb8b4382c69f3B451C5FB55210B232E0edFA": {
+        "balance": {
+            "target": "0xF05CFb8b4382c69f3B451C5FB55210B232E0edFA",
+            "slot": 20
+        },
+        "compiler": "vyper",
+        "allowance": {
+            "target": "0xF05CFb8b4382c69f3B451C5FB55210B232E0edFA",
+            "slot": 21
+        },
+        "symbol": "agEUR-VEUR-f",
+        "complex": false
+    },
+    "0x400d4C984779A747462e88373c3fE369EF9F5b50": {
+        "balance": {
+            "target": "0x400d4C984779A747462e88373c3fE369EF9F5b50",
+            "slot": 17
+        },
+        "compiler": "vyper",
+        "allowance": {
+            "target": "0x400d4C984779A747462e88373c3fE369EF9F5b50",
+            "slot": 18
+        },
+        "symbol": "ZUSDFBP3CRV-f",
+        "complex": false
+    },
+    "0x26f3f26F46cBeE59d1F8860865e13Aa39e36A8c0": {
+        "balance": {
+            "target": "0x26f3f26F46cBeE59d1F8860865e13Aa39e36A8c0",
+            "slot": 20
+        },
+        "compiler": "vyper",
+        "allowance": {
+            "target": "0x26f3f26F46cBeE59d1F8860865e13Aa39e36A8c0",
+            "slot": 21
+        },
+        "symbol": "sdPENDLElp-f",
+        "complex": false
+    },
+    "0x3175f54A354C83e8ADe950c14FA3e32fc794c0Dc": {
+        "balance": {
+            "target": "0x3175f54A354C83e8ADe950c14FA3e32fc794c0Dc",
+            "slot": 17
+        },
+        "compiler": "vyper",
+        "allowance": {
+            "target": "0x3175f54A354C83e8ADe950c14FA3e32fc794c0Dc",
+            "slot": 18
+        },
+        "symbol": "GRAIFRAXBP3CRV-f",
+        "complex": false
+    },
+    "0x596b330fA8AB2b449973309af6D6ddc002CaA52D": {
+        "balance": {
+            "target": "0x596b330fA8AB2b449973309af6D6ddc002CaA52D",
+            "slot": 6
+        },
+        "compiler": "vyper",
+        "allowance": {
+            "target": "0x596b330fA8AB2b449973309af6D6ddc002CaA52D",
+            "slot": 7
+        },
+        "symbol": "WACMEFRXET-f",
+        "complex": false
+    },
+    "0xc794C6A95f30d0ebF7B3Bbe85e8a0A95C9e411c1": {
+        "balance": {
+            "target": "0xc794C6A95f30d0ebF7B3Bbe85e8a0A95C9e411c1",
+            "slot": 6
+        },
+        "compiler": "vyper",
+        "allowance": {
+            "target": "0xc794C6A95f30d0ebF7B3Bbe85e8a0A95C9e411c1",
+            "slot": 7
+        },
+        "symbol": "hyUSDeUSD-f",
+        "complex": false
+    },
+    "0xe8a5677171c87fCB65b76957f2852515B404C7b1": {
+        "balance": {
+            "target": "0xe8a5677171c87fCB65b76957f2852515B404C7b1",
+            "slot": 6
+        },
+        "compiler": "vyper",
+        "allowance": {
+            "target": "0xe8a5677171c87fCB65b76957f2852515B404C7b1",
+            "slot": 7
+        },
+        "symbol": "ETH+ETH-f",
+        "complex": false
+    },
+    "0x1CC481cE2BD2EC7Bf67d1Be64d4878b16078F309": {
+        "balance": {
+            "target": "0x1CC481cE2BD2EC7Bf67d1Be64d4878b16078F309",
+            "slot": 6
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x1CC481cE2BD2EC7Bf67d1Be64d4878b16078F309",
+            "slot": 5
+        },
+        "symbol": "ibCHF",
+        "complex": false
+    },
+    "0x0F83287FF768D1c1e17a42F44d644D7F22e8ee1d": {
+        "balance": {
+            "target": "0x52496fE8a4feaEFe14d9433E00D48E6929c13deC",
+            "slot": 3
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x52496fE8a4feaEFe14d9433E00D48E6929c13deC",
+            "slot": 4
+        },
+        "symbol": "sCHF",
+        "complex": false
+    },
+    "0x3d1E5Cf16077F349e999d6b21A4f646e83Cd90c5": {
+        "balance": {
+            "target": "0x3d1E5Cf16077F349e999d6b21A4f646e83Cd90c5",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x3d1E5Cf16077F349e999d6b21A4f646e83Cd90c5",
+            "slot": 52
+        },
+        "symbol": "dETH",
+        "complex": false
+    },
+    "0x6bA75D640bEbfe5dA1197bb5A2aff3327789b5d3": {
+        "balance": {
+            "target": "0x6bA75D640bEbfe5dA1197bb5A2aff3327789b5d3",
+            "slot": 101
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x6bA75D640bEbfe5dA1197bb5A2aff3327789b5d3",
+            "slot": 102
+        },
+        "symbol": "VEUR",
+        "complex": false
+    },
+    "0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA": {
+        "balance": {
+            "target": "0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA",
+            "slot": 52
+        },
+        "symbol": "ZUSD",
+        "complex": false
+    },
+    "0x5Ea630e00D6eE438d3deA1556A110359ACdc10A9": {
+        "balance": {
+            "target": "0x5Ea630e00D6eE438d3deA1556A110359ACdc10A9",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x5Ea630e00D6eE438d3deA1556A110359ACdc10A9",
+            "slot": 1
+        },
+        "symbol": "sdPENDLE",
+        "complex": false
+    },
+    "0x15f74458aE0bFdAA1a96CA1aa779D715Cc1Eefe4": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "GRAI",
+        "complex": true
+    },
+    "0xDF4Ef6EE483953fE3B84ABd08C6A060445c01170": {
+        "balance": {
+            "target": "0xDF4Ef6EE483953fE3B84ABd08C6A060445c01170",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xDF4Ef6EE483953fE3B84ABd08C6A060445c01170",
+            "slot": 1
+        },
+        "symbol": "WACME",
+        "complex": false
+    },
+    "0xaCdf0DBA4B9839b96221a8487e9ca660a48212be": {
+        "balance": {
+            "target": "0xaCdf0DBA4B9839b96221a8487e9ca660a48212be",
+            "slot": 201
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xaCdf0DBA4B9839b96221a8487e9ca660a48212be",
+            "slot": 202
+        },
+        "symbol": "hyUSD",
+        "complex": false
+    },
+    "0xE72B141DF173b999AE7c1aDcbF60Cc9833Ce56a8": {
+        "balance": {
+            "target": "0xE72B141DF173b999AE7c1aDcbF60Cc9833Ce56a8",
+            "slot": 201
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xE72B141DF173b999AE7c1aDcbF60Cc9833Ce56a8",
+            "slot": 202
+        },
+        "symbol": "ETH+",
+        "complex": false
+    },
+    "0x20a61B948E33879ce7F23e535CC7BAA3BC66c5a9": {
+        "balance": {
+            "target": "0x20a61B948E33879ce7F23e535CC7BAA3BC66c5a9",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x20a61B948E33879ce7F23e535CC7BAA3BC66c5a9",
+            "slot": 1
+        },
+        "symbol": "R-DAI-BLP",
+        "complex": false
+    },
+    "0x380aAbE019ed2a9C2d632b51eDDD30fd804d0fAD": {
+        "balance": {
+            "target": "0x380aAbE019ed2a9C2d632b51eDDD30fd804d0fAD",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x380aAbE019ed2a9C2d632b51eDDD30fd804d0fAD",
+            "slot": 1
+        },
+        "symbol": "50R-50wstETH",
+        "complex": false
+    },
+    "0x77B692C5ca2CCEaeeF4dcC959D6C3bD919710B66": {
+        "balance": {
+            "target": "0x77B692C5ca2CCEaeeF4dcC959D6C3bD919710B66",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x77B692C5ca2CCEaeeF4dcC959D6C3bD919710B66",
+            "slot": 1
+        },
+        "symbol": "80BREWSKI-20USDC",
+        "complex": false
+    },
+    "0xb8E2cBb2455E80ad0eb536AE30a5290bDD7Baa91": {
+        "balance": {
+            "target": "0xb8E2cBb2455E80ad0eb536AE30a5290bDD7Baa91",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xb8E2cBb2455E80ad0eb536AE30a5290bDD7Baa91",
+            "slot": 1
+        },
+        "symbol": "80BREWSKI-20WETH",
+        "complex": false
+    },
+    "0xD4e7C1F3DA1144c9E2CfD1b015eDA7652b4a4399": {
+        "balance": {
+            "target": "0xD4e7C1F3DA1144c9E2CfD1b015eDA7652b4a4399",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xD4e7C1F3DA1144c9E2CfD1b015eDA7652b4a4399",
+            "slot": 1
+        },
+        "symbol": "bb-e-USDC",
+        "complex": false
+    },
+    "0xDf2c03c12442c7A0895455A48569B889079cA52A": {
+        "balance": {
+            "target": "0xDf2c03c12442c7A0895455A48569B889079cA52A",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xDf2c03c12442c7A0895455A48569B889079cA52A",
+            "slot": 1
+        },
+        "symbol": "80ARCH-20WETH",
+        "complex": false
+    },
+    "0xeB486AF868AeB3b6e53066abc9623b1041b42bc0": {
+        "balance": {
+            "target": "0xeB486AF868AeB3b6e53066abc9623b1041b42bc0",
+            "slot": 0
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xeB486AF868AeB3b6e53066abc9623b1041b42bc0",
+            "slot": 1
+        },
+        "symbol": "bb-e-DAI",
+        "complex": false
+    },
+    "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21": {
+        "balance": {
+            "target": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21",
+            "slot": 2
+        },
+        "symbol": "R",
+        "complex": false
+    },
+    "0x544897A3B944fdEB1f94A0ed973eA31A80ae18E1": {
+        "balance": {
+            "target": "0x544897A3B944fdEB1f94A0ed973eA31A80ae18E1",
+            "slot": 101
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x544897A3B944fdEB1f94A0ed973eA31A80ae18E1",
+            "slot": 102
+        },
+        "symbol": "idleUSDTJunior4626",
+        "complex": false
+    },
+    "0x9E3c6575f674BdeE85731d23259971Aa6ddA7b9b": {
+        "balance": {
+            "target": "0x9E3c6575f674BdeE85731d23259971Aa6ddA7b9b",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x9E3c6575f674BdeE85731d23259971Aa6ddA7b9b",
+            "slot": 52
+        },
+        "symbol": "BREWSKI",
+        "complex": false
+    },
+    "0xEb91861f8A4e1C12333F42DCE8fB0Ecdc28dA716": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "eUSDC",
+        "complex": true
+    },
+    "0x73C69d24ad28e2d43D03CBf35F79fE26EBDE1011": {
+        "balance": {
+            "target": "0x73C69d24ad28e2d43D03CBf35F79fE26EBDE1011",
+            "slot": 1
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x73C69d24ad28e2d43D03CBf35F79fE26EBDE1011",
+            "slot": 2
+        },
+        "symbol": "ARCH",
+        "complex": false
+    },
+    "0xe025E3ca2bE02316033184551D4d3Aa22024D9DC": {
+        "balance": {
+            "target": null,
+            "slot": null
+        },
+        "allowance": {
+            "target": null,
+            "slot": null
+        },
+        "symbol": "eDAI",
+        "complex": true
+    },
+    "0x9f8e3E829DbF75dc035d79502bae87d412c2bC36": {
+        "balance": {
+            "target": "0x9f8e3E829DbF75dc035d79502bae87d412c2bC36",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x9f8e3E829DbF75dc035d79502bae87d412c2bC36",
+            "slot": 52
+        },
+        "symbol": "mooAurawBETH-wstETH",
+        "complex": false
+    },
+    "0x56d50Ca676f9AdC1E90f29F25e0d12DeC02746eE": {
+        "balance": {
+            "target": "0x56d50Ca676f9AdC1E90f29F25e0d12DeC02746eE",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0x56d50Ca676f9AdC1E90f29F25e0d12DeC02746eE",
+            "slot": 52
+        },
+        "symbol": "mooConvexWBETH",
+        "complex": false
+    },
+    "0xFc6a9D39b44a174B5Ba708dBaa437632d78B8585": {
+        "balance": {
+            "target": "0xFc6a9D39b44a174B5Ba708dBaa437632d78B8585",
+            "slot": 51
+        },
+        "compiler": "solidity",
+        "allowance": {
+            "target": "0xFc6a9D39b44a174B5Ba708dBaa437632d78B8585",
+            "slot": 52
+        },
+        "symbol": "mooAPE",
+        "complex": false
+    },
+    "0xBfAb6FA95E0091ed66058ad493189D2cB29385E6": {
+        "balance": {
+            "target": "0xBfAb6FA95E0091ed66058ad493189D2cB29385E6",
+            "slot": 11
+        },
+        "compiler": "vyper",
+        "allowance": {
+            "target": "0xBfAb6FA95E0091ed66058ad493189D2cB29385E6",
+            "slot": 12
+        },
+        "symbol": "ETHwBETHCRV",
         "complex": false
     }
 }

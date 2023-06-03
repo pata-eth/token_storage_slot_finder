@@ -30,6 +30,12 @@ forced_simple_complexity = [
     "0x1dD7950c266fB1be96180a8FDb0591F70200E018",  # fOUSG permissioned
 ]
 
+# This list containts tokens that we've manually confirmed that are complex, but
+# that when using an actual owner to simulate it'd be flagged as non coplex.
+forced_complexity = [
+    "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",  # LDO
+]
+
 
 class TransferFromSim:
     logger = logging.getLogger(__name__)
@@ -120,9 +126,10 @@ class TransferFromSim:
             else:
                 result = False
         except Exception as error:
-            self.logger.debug(
-                f"{self.token_address}->{error.args[0]['message']}"
-            )
+            self.logger.debug(f"{self.token_address}->{error=}")
+            result = False
+
+        if self.token_contract.address in forced_complexity:
             result = False
 
         self.logger.info(
