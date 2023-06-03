@@ -15665,7 +15665,7 @@
             "slot": 1
         },
         "symbol": "FXS",
-        "complex": false
+        "complex": true
     },
     "0x67b532d47A31CE1eD0800E6913dbf5F6e9C48a18": {
         "balance": {

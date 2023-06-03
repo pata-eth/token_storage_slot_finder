@@ -34,6 +34,7 @@ forced_simple_complexity = [
 # that when using an actual owner to simulate it'd be flagged as non coplex.
 forced_complexity = [
     "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",  # LDO
+    "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",  # FXS
 ]
 
 
