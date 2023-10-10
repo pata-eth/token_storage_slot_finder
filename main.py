@@ -30,16 +30,18 @@ def chunks(ll, n):
         yield ll[i : i + n]
 
 
-async def main(delta_only=True, skip_search=True, force_sim=False):
+async def main(delta_only=True, skip_search=False, force_sim=True):
     t1 = t0 = time.time()
     tokens_url = os.getenv("TOKEN_LIST_URL")
     token_holders_url = os.getenv("TOKEN_HOLDERS_URL")
 
     if skip_search:
         tokens_list = []
+        # tokens_list = ["0x583019fF0f430721aDa9cfb4fac8F06cA104d0B4"]
+        # token_holders = get(token_holders_url).json()
     else:
-        tokens_raw = get(tokens_url).json()
         token_holders = get(token_holders_url).json()
+        tokens_raw = get(tokens_url).json()
         tokens_list = list(tokens_raw.keys())
 
     # `tokens_raw` is a dictionary. For example:
@@ -55,8 +57,6 @@ async def main(delta_only=True, skip_search=True, force_sim=False):
     #         "decimals": 18,
     #     },
     # }
-
-    # tokens_list = ["0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32"]
 
     tokens = [t for t in tokens_list if t.startswith("0x")]
 
